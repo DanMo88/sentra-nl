@@ -14342,5 +14342,5669 @@
 "audio/s1850.mp3": {
 "text": "Wat was je eerste baan?",
 "voice": "m"
+},
+"audio/w-bovendien.mp3": {
+"text": "bovendien",
+"voice": "w"
+},
+"audio/s1851.mp3": {
+"text": "Het huis is groot en bovendien goedkoop.",
+"voice": "f"
+},
+"audio/w-daarnaast.mp3": {
+"text": "Daarnaast",
+"voice": "w"
+},
+"audio/w-frans.mp3": {
+"text": "Frans",
+"voice": "w"
+},
+"audio/s1852.mp3": {
+"text": "Daarnaast spreekt ze vloeiend Frans.",
+"voice": "m"
+},
+"audio/w-echter.mp3": {
+"text": "echter",
+"voice": "w"
+},
+"audio/s1853.mp3": {
+"text": "Het plan is goed; het is echter te duur.",
+"voice": "f"
+},
+"audio/s1854.mp3": {
+"text": "Bovendien moeten we rekening houden met de kosten.",
+"voice": "m"
+},
+"audio/w-ten.mp3": {
+"text": "Ten",
+"voice": "w"
+},
+"audio/s1855.mp3": {
+"text": "Ten eerste is het te laat, ten tweede ben ik moe.",
+"voice": "f"
+},
+"audio/w-bedanken.mp3": {
+"text": "bedanken",
+"voice": "w"
+},
+"audio/s1856.mp3": {
+"text": "Tot slot wil ik iedereen bedanken.",
+"voice": "m"
+},
+"audio/w-kortom.mp3": {
+"text": "Kortom",
+"voice": "w"
+},
+"audio/w-geslaagde.mp3": {
+"text": "geslaagde",
+"voice": "w"
+},
+"audio/s1857.mp3": {
+"text": "Kortom, het was een geslaagde dag.",
+"voice": "f"
+},
+"audio/s1858.mp3": {
+"text": "Ook is het belangrijk om goed te luisteren.",
+"voice": "m"
+},
+"audio/w-bijvoorbeeld.mp3": {
+"text": "Bijvoorbeeld",
+"voice": "w"
+},
+"audio/s1859.mp3": {
+"text": "Bijvoorbeeld kun je de trein nemen.",
+"voice": "f"
+},
+"audio/w-duurzaam.mp3": {
+"text": "duurzaam",
+"voice": "w"
+},
+"audio/s1860.mp3": {
+"text": "Het product is niet alleen mooi, maar ook duurzaam.",
+"voice": "m"
+},
+"audio/s1861.mp3": {
+"text": "Verder heb ik geen vragen.",
+"voice": "f"
+},
+"audio/w-opnieuw.mp3": {
+"text": "opnieuw",
+"voice": "w"
+},
+"audio/s1862.mp3": {
+"text": "Met andere woorden: we moeten opnieuw beginnen.",
+"voice": "m"
+},
+"audio/w-doordat.mp3": {
+"text": "Doordat",
+"voice": "w"
+},
+"audio/w-afgesloten.mp3": {
+"text": "afgesloten",
+"voice": "w"
+},
+"audio/s1863.mp3": {
+"text": "Doordat het hard regende, was de weg afgesloten.",
+"voice": "f"
+},
+"audio/w-daardoor.mp3": {
+"text": "Daardoor",
+"voice": "w"
+},
+"audio/s1864.mp3": {
+"text": "Het regende hard. Daardoor was de weg afgesloten.",
+"voice": "m"
+},
+"audio/w-dankzij.mp3": {
+"text": "Dankzij",
+"voice": "w"
+},
+"audio/w-gelukt.mp3": {
+"text": "gelukt",
+"voice": "w"
+},
+"audio/s1865.mp3": {
+"text": "Dankzij jouw hulp is het gelukt.",
+"voice": "f"
+},
+"audio/w-staking.mp3": {
+"text": "staking",
+"voice": "w"
+},
+"audio/s1866.mp3": {
+"text": "Door de staking reden er geen treinen.",
+"voice": "m"
+},
+"audio/w-vanwege.mp3": {
+"text": "Vanwege",
+"voice": "w"
+},
+"audio/w-slechte.mp3": {
+"text": "slechte",
+"voice": "w"
+},
+"audio/s1867.mp3": {
+"text": "Vanwege het slechte weer gaat het feest niet door.",
+"voice": "f"
+},
+"audio/w-waardoor.mp3": {
+"text": "waardoor",
+"voice": "w"
+},
+"audio/s1868.mp3": {
+"text": "Hij was ziek, waardoor hij niet kon komen.",
+"voice": "m"
+},
+"audio/w-daarom.mp3": {
+"text": "Daarom",
+"voice": "w"
+},
+"audio/w-besloten.mp3": {
+"text": "besloten",
+"voice": "w"
+},
+"audio/s1869.mp3": {
+"text": "Daarom heb ik besloten te stoppen.",
+"voice": "f"
+},
+"audio/w-gevolg.mp3": {
+"text": "gevolg",
+"voice": "w"
+},
+"audio/w-verliezen.mp3": {
+"text": "verliezen",
+"voice": "w"
+},
+"audio/s1870.mp3": {
+"text": "Het gevolg is dat veel mensen hun baan verliezen.",
+"voice": "m"
+},
+"audio/w-oorzaak.mp3": {
+"text": "oorzaak",
+"voice": "w"
+},
+"audio/w-onbekend.mp3": {
+"text": "onbekend",
+"voice": "w"
+},
+"audio/s1871.mp3": {
+"text": "De oorzaak van het probleem is nog onbekend.",
+"voice": "f"
+},
+"audio/w-veiliger.mp3": {
+"text": "veiliger",
+"voice": "w"
+},
+"audio/s1872.mp3": {
+"text": "Dankzij de nieuwe regels is het veiliger geworden.",
+"voice": "m"
+},
+"audio/s1873.mp3": {
+"text": "Doordat ik vroeg vertrok, was ik op tijd.",
+"voice": "f"
+},
+"audio/w-problemen.mp3": {
+"text": "problemen",
+"voice": "w"
+},
+"audio/s1874.mp3": {
+"text": "Dat leidt tot veel problemen.",
+"voice": "m"
+},
+"audio/w-mits.mp3": {
+"text": "mits",
+"voice": "w"
+},
+"audio/s1875.mp3": {
+"text": "Ik kom, mits het niet regent.",
+"voice": "f"
+},
+"audio/w-tenzij.mp3": {
+"text": "tenzij",
+"voice": "w"
+},
+"audio/s1876.mp3": {
+"text": "We gaan wandelen, tenzij het regent.",
+"voice": "m"
+},
+"audio/w-voorwaarde.mp3": {
+"text": "voorwaarde",
+"voice": "w"
+},
+"audio/s1877.mp3": {
+"text": "Je mag mee, op voorwaarde dat je op tijd bent.",
+"voice": "f"
+},
+"audio/w-bezwaar.mp3": {
+"text": "bezwaar",
+"voice": "w"
+},
+"audio/s1878.mp3": {
+"text": "Tenzij je bezwaar hebt, begin ik nu.",
+"voice": "m"
+},
+"audio/s1879.mp3": {
+"text": "Stel dat je de baan krijgt, wat doe je dan?",
+"voice": "f"
+},
+"audio/w-gebouw.mp3": {
+"text": "gebouw",
+"voice": "w"
+},
+"audio/w-verlaten.mp3": {
+"text": "verlaten",
+"voice": "w"
+},
+"audio/s1880.mp3": {
+"text": "In geval van brand moet u het gebouw verlaten.",
+"voice": "m"
+},
+"audio/w-mocht.mp3": {
+"text": "Mocht",
+"voice": "w"
+},
+"audio/s1881.mp3": {
+"text": "Mocht u vragen hebben, dan kunt u ons bellen.",
+"voice": "f"
+},
+"audio/s1882.mp3": {
+"text": "Zonder jouw hulp was het niet gelukt.",
+"voice": "m"
+},
+"audio/s1883.mp3": {
+"text": "Je krijgt korting, mits je lid bent.",
+"voice": "f"
+},
+"audio/w-teken.mp3": {
+"text": "teken",
+"voice": "w"
+},
+"audio/w-aangepast.mp3": {
+"text": "aangepast",
+"voice": "w"
+},
+"audio/s1884.mp3": {
+"text": "Ik teken niet, tenzij het contract wordt aangepast.",
+"voice": "m"
+},
+"audio/w-indien.mp3": {
+"text": "Indien",
+"voice": "w"
+},
+"audio/w-tolk.mp3": {
+"text": "tolk",
+"voice": "w"
+},
+"audio/s1885.mp3": {
+"text": "Indien nodig kunt u een tolk aanvragen.",
+"voice": "f"
+},
+"audio/w-gesteld.mp3": {
+"text": "Gesteld",
+"voice": "w"
+},
+"audio/s1886.mp3": {
+"text": "Gesteld dat het lukt, wie betaalt dan?",
+"voice": "m"
+},
+"audio/s1887.mp3": {
+"text": "Hij werkt hard, terwijl zijn broer niets doet.",
+"voice": "f"
+},
+"audio/w-daarentegen.mp3": {
+"text": "daarentegen",
+"voice": "w"
+},
+"audio/s1888.mp3": {
+"text": "Mijn zus is rustig; ik daarentegen praat veel.",
+"voice": "m"
+},
+"audio/w-desondanks.mp3": {
+"text": "Desondanks",
+"voice": "w"
+},
+"audio/s1889.mp3": {
+"text": "Het was moeilijk. Desondanks heeft ze het gehaald.",
+"voice": "f"
+},
+"audio/w-tegenstelling.mp3": {
+"text": "tegenstelling",
+"voice": "w"
+},
+"audio/s1890.mp3": {
+"text": "In tegenstelling tot vroeger werken nu veel vrouwen.",
+"voice": "m"
+},
+"audio/w-enerzijds.mp3": {
+"text": "Enerzijds",
+"voice": "w"
+},
+"audio/w-anderzijds.mp3": {
+"text": "anderzijds",
+"voice": "w"
+},
+"audio/s1891.mp3": {
+"text": "Enerzijds wil ik verhuizen, anderzijds woon ik hier fijn.",
+"voice": "f"
+},
+"audio/w-leeft.mp3": {
+"text": "leeft",
+"voice": "w"
+},
+"audio/w-sober.mp3": {
+"text": "sober",
+"voice": "w"
+},
+"audio/s1892.mp3": {
+"text": "Hoewel hij rijk is, leeft hij sober.",
+"voice": "m"
+},
+"audio/w-eigenlijk.mp3": {
+"text": "eigenlijk",
+"voice": "w"
+},
+"audio/s1893.mp3": {
+"text": "Ze zegt ja, maar ze bedoelt eigenlijk nee.",
+"voice": "f"
+},
+"audio/w-daarvan.mp3": {
+"text": "daarvan",
+"voice": "w"
+},
+"audio/s1894.mp3": {
+"text": "In plaats daarvan gingen we naar het museum.",
+"voice": "m"
+},
+"audio/w-sportief.mp3": {
+"text": "sportief",
+"voice": "w"
+},
+"audio/w-leest.mp3": {
+"text": "leest",
+"voice": "w"
+},
+"audio/s1895.mp3": {
+"text": "Het ene kind is sportief, het andere leest liever.",
+"voice": "f"
+},
+"audio/w-alle.mp3": {
+"text": "alle",
+"voice": "w"
+},
+"audio/w-bleef.mp3": {
+"text": "bleef",
+"voice": "w"
+},
+"audio/w-positief.mp3": {
+"text": "positief",
+"voice": "w"
+},
+"audio/s1896.mp3": {
+"text": "Ondanks alle problemen bleef hij positief.",
+"voice": "m"
+},
+"audio/w-integendeel.mp3": {
+"text": "Integendeel",
+"voice": "w"
+},
+"audio/w-juist.mp3": {
+"text": "juist",
+"voice": "w"
+},
+"audio/s1897.mp3": {
+"text": "Integendeel, ik vond het juist heel leuk.",
+"voice": "f"
+},
+"audio/w-platteland.mp3": {
+"text": "platteland",
+"voice": "w"
+},
+"audio/s1898.mp3": {
+"text": "Zij houdt van de stad, terwijl hij liever op het platteland woont.",
+"voice": "m"
+},
+"audio/w-zolang.mp3": {
+"text": "Zolang",
+"voice": "w"
+},
+"audio/s1899.mp3": {
+"text": "Zolang je hier woont, moet je huur betalen.",
+"voice": "f"
+},
+"audio/w-naarmate.mp3": {
+"text": "Naarmate",
+"voice": "w"
+},
+"audio/s1900.mp3": {
+"text": "Naarmate je ouder wordt, word je wijzer.",
+"voice": "m"
+},
+"audio/w-sfeer.mp3": {
+"text": "sfeer",
+"voice": "w"
+},
+"audio/s1901.mp3": {
+"text": "Sinds hij hier werkt, is de sfeer beter.",
+"voice": "f"
+},
+"audio/w-resultaten.mp3": {
+"text": "resultaten",
+"voice": "w"
+},
+"audio/s1902.mp3": {
+"text": "Zodra de resultaten bekend zijn, laat ik het weten.",
+"voice": "m"
+},
+"audio/s1903.mp3": {
+"text": "Telkens wanneer ik hem zie, moet ik lachen.",
+"voice": "f"
+},
+"audio/w-inmiddels.mp3": {
+"text": "Inmiddels",
+"voice": "w"
+},
+"audio/s1904.mp3": {
+"text": "Inmiddels woon ik hier tien jaar.",
+"voice": "m"
+},
+"audio/w-ondertussen.mp3": {
+"text": "Ondertussen",
+"voice": "w"
+},
+"audio/s1905.mp3": {
+"text": "Ondertussen was het donker geworden.",
+"voice": "f"
+},
+"audio/s1906.mp3": {
+"text": "Tot nu toe gaat alles goed.",
+"voice": "m"
+},
+"audio/w-voortaan.mp3": {
+"text": "Voortaan",
+"voice": "w"
+},
+"audio/s1907.mp3": {
+"text": "Voortaan kom ik op tijd.",
+"voice": "f"
+},
+"audio/w-destijds.mp3": {
+"text": "Destijds",
+"voice": "w"
+},
+"audio/w-eenvoudiger.mp3": {
+"text": "eenvoudiger",
+"voice": "w"
+},
+"audio/s1908.mp3": {
+"text": "Destijds was het leven eenvoudiger.",
+"voice": "m"
+},
+"audio/w-leef.mp3": {
+"text": "leef",
+"voice": "w"
+},
+"audio/s1909.mp3": {
+"text": "Zolang ik leef, zal ik dit niet vergeten.",
+"voice": "f"
+},
+"audio/w-vorderde.mp3": {
+"text": "vorderde",
+"voice": "w"
+},
+"audio/w-warmer.mp3": {
+"text": "warmer",
+"voice": "w"
+},
+"audio/s1910.mp3": {
+"text": "Naarmate de dag vorderde, werd het warmer.",
+"voice": "m"
+},
+"audio/s1911.mp3": {
+"text": "Er wordt gezegd dat hij vertrekt.",
+"voice": "f"
+},
+"audio/w-gepraat.mp3": {
+"text": "gepraat",
+"voice": "w"
+},
+"audio/s1912.mp3": {
+"text": "Er wordt veel over gepraat.",
+"voice": "m"
+},
+"audio/s1913.mp3": {
+"text": "Er werd lang over nagedacht.",
+"voice": "f"
+},
+"audio/w-gerookt.mp3": {
+"text": "gerookt",
+"voice": "w"
+},
+"audio/s1914.mp3": {
+"text": "Er mag hier niet gerookt worden.",
+"voice": "m"
+},
+"audio/w-verwacht.mp3": {
+"text": "verwacht",
+"voice": "w"
+},
+"audio/s1915.mp3": {
+"text": "Er wordt van je verwacht dat je op tijd bent.",
+"voice": "f"
+},
+"audio/s1916.mp3": {
+"text": "Er wordt nog aan gewerkt.",
+"voice": "m"
+},
+"audio/w-algemeen.mp3": {
+"text": "algemeen",
+"voice": "w"
+},
+"audio/w-aangenomen.mp3": {
+"text": "aangenomen",
+"voice": "w"
+},
+"audio/s1917.mp3": {
+"text": "Het wordt algemeen aangenomen dat dit klopt.",
+"voice": "f"
+},
+"audio/w-sluiten.mp3": {
+"text": "sluiten",
+"voice": "w"
+},
+"audio/s1918.mp3": {
+"text": "Er is besloten om de school te sluiten.",
+"voice": "m"
+},
+"audio/s1919.mp3": {
+"text": "Er werd hard gewerkt om het op tijd af te krijgen.",
+"voice": "f"
+},
+"audio/w-gecontroleerd.mp3": {
+"text": "gecontroleerd",
+"voice": "w"
+},
+"audio/s1920.mp3": {
+"text": "Er zal worden gecontroleerd.",
+"voice": "m"
+},
+"audio/w-gierig.mp3": {
+"text": "gierig",
+"voice": "w"
+},
+"audio/s1921.mp3": {
+"text": "Er wordt vaak gedacht dat Nederlanders gierig zijn.",
+"voice": "f"
+},
+"audio/w-aangeraden.mp3": {
+"text": "aangeraden",
+"voice": "w"
+},
+"audio/w-mondkapje.mp3": {
+"text": "mondkapje",
+"voice": "w"
+},
+"audio/s1922.mp3": {
+"text": "Er wordt aangeraden om een mondkapje te dragen.",
+"voice": "m"
+},
+"audio/s1923.mp3": {
+"text": "Dat is niet te doen.",
+"voice": "f"
+},
+"audio/s1924.mp3": {
+"text": "Het huis is te koop.",
+"voice": "m"
+},
+"audio/s1925.mp3": {
+"text": "Die tekst is moeilijk te begrijpen.",
+"voice": "f"
+},
+"audio/w-nergens.mp3": {
+"text": "nergens",
+"voice": "w"
+},
+"audio/s1926.mp3": {
+"text": "Hij is nergens te vinden.",
+"voice": "m"
+},
+"audio/s1927.mp3": {
+"text": "Er valt niets meer te zeggen.",
+"voice": "f"
+},
+"audio/w-bezien.mp3": {
+"text": "bezien",
+"voice": "w"
+},
+"audio/s1928.mp3": {
+"text": "Dat valt nog te bezien.",
+"voice": "m"
+},
+"audio/w-lossen.mp3": {
+"text": "lossen",
+"voice": "w"
+},
+"audio/s1929.mp3": {
+"text": "Het probleem is makkelijk op te lossen.",
+"voice": "f"
+},
+"audio/s1930.mp3": {
+"text": "De pijn is niet uit te houden.",
+"voice": "m"
+},
+"audio/s1931.mp3": {
+"text": "Deze vis is niet te eten.",
+"voice": "f"
+},
+"audio/w-dagelijks.mp3": {
+"text": "dagelijks",
+"voice": "w"
+},
+"audio/w-bezoeken.mp3": {
+"text": "bezoeken",
+"voice": "w"
+},
+"audio/s1932.mp3": {
+"text": "Het museum is dagelijks te bezoeken.",
+"voice": "m"
+},
+"audio/w-telefonisch.mp3": {
+"text": "telefonisch",
+"voice": "w"
+},
+"audio/w-bereiken.mp3": {
+"text": "bereiken",
+"voice": "w"
+},
+"audio/s1933.mp3": {
+"text": "Is hij telefonisch te bereiken?",
+"voice": "f"
+},
+"audio/s1934.mp3": {
+"text": "Daar is niets aan te doen.",
+"voice": "m"
+},
+"audio/w-teruggevonden.mp3": {
+"text": "teruggevonden",
+"voice": "w"
+},
+"audio/s1935.mp3": {
+"text": "De gestolen fiets is teruggevonden.",
+"voice": "f"
+},
+"audio/w-ingevulde.mp3": {
+"text": "ingevulde",
+"voice": "w"
+},
+"audio/w-inleveren.mp3": {
+"text": "inleveren",
+"voice": "w"
+},
+"audio/s1936.mp3": {
+"text": "Het ingevulde formulier kunt u hier inleveren.",
+"voice": "m"
+},
+"audio/w-arm.mp3": {
+"text": "arm",
+"voice": "w"
+},
+"audio/s1937.mp3": {
+"text": "Ik heb een gebroken arm.",
+"voice": "f"
+},
+"audio/w-geplande.mp3": {
+"text": "geplande",
+"voice": "w"
+},
+"audio/s1938.mp3": {
+"text": "De geplande vergadering gaat niet door.",
+"voice": "m"
+},
+"audio/w-gekookte.mp3": {
+"text": "Gekookte",
+"voice": "w"
+},
+"audio/w-eieren.mp3": {
+"text": "eieren",
+"voice": "w"
+},
+"audio/s1939.mp3": {
+"text": "Gekookte eieren zijn gezond.",
+"voice": "f"
+},
+"audio/w-veelgestelde.mp3": {
+"text": "veelgestelde",
+"voice": "w"
+},
+"audio/s1940.mp3": {
+"text": "Dit is een veelgestelde vraag.",
+"voice": "m"
+},
+"audio/s1941.mp3": {
+"text": "De verloren tijd haal je nooit meer in.",
+"voice": "f"
+},
+"audio/w-verbouwde.mp3": {
+"text": "verbouwde",
+"voice": "w"
+},
+"audio/w-boerderij.mp3": {
+"text": "boerderij",
+"voice": "w"
+},
+"audio/s1942.mp3": {
+"text": "Hij woont in een verbouwde boerderij.",
+"voice": "m"
+},
+"audio/w-verwachte.mp3": {
+"text": "verwachte",
+"voice": "w"
+},
+"audio/w-resultaat.mp3": {
+"text": "resultaat",
+"voice": "w"
+},
+"audio/s1943.mp3": {
+"text": "Het verwachte resultaat bleef uit.",
+"voice": "f"
+},
+"audio/w-opgeleide.mp3": {
+"text": "opgeleide",
+"voice": "w"
+},
+"audio/w-medewerker.mp3": {
+"text": "medewerker",
+"voice": "w"
+},
+"audio/w-waardevol.mp3": {
+"text": "waardevol",
+"voice": "w"
+},
+"audio/s1944.mp3": {
+"text": "Een goed opgeleide medewerker is waardevol.",
+"voice": "m"
+},
+"audio/w-verwende.mp3": {
+"text": "Verwende",
+"voice": "w"
+},
+"audio/w-lastig.mp3": {
+"text": "lastig",
+"voice": "w"
+},
+"audio/s1945.mp3": {
+"text": "Verwende kinderen zijn soms lastig.",
+"voice": "f"
+},
+"audio/w-beloofde.mp3": {
+"text": "beloofde",
+"voice": "w"
+},
+"audio/w-verbeteringen.mp3": {
+"text": "verbeteringen",
+"voice": "w"
+},
+"audio/s1946.mp3": {
+"text": "De beloofde verbeteringen zijn er nog niet.",
+"voice": "m"
+},
+"audio/w-lachend.mp3": {
+"text": "lachend",
+"voice": "w"
+},
+"audio/s1947.mp3": {
+"text": "Een lachend kind is het mooiste wat er is.",
+"voice": "f"
+},
+"audio/w-zingend.mp3": {
+"text": "zingend",
+"voice": "w"
+},
+"audio/s1948.mp3": {
+"text": "Hij kwam zingend binnen.",
+"voice": "m"
+},
+"audio/w-wandelend.mp3": {
+"text": "wandelend",
+"voice": "w"
+},
+"audio/w-bedacht.mp3": {
+"text": "bedacht",
+"voice": "w"
+},
+"audio/s1949.mp3": {
+"text": "Al wandelend bedacht ze een plan.",
+"voice": "f"
+},
+"audio/w-ontbrekende.mp3": {
+"text": "ontbrekende",
+"voice": "w"
+},
+"audio/w-informatie.mp3": {
+"text": "informatie",
+"voice": "w"
+},
+"audio/s1950.mp3": {
+"text": "Volgende week is de ontbrekende informatie klaar.",
+"voice": "m"
+},
+"audio/w-stijgende.mp3": {
+"text": "stijgende",
+"voice": "w"
+},
+"audio/s1951.mp3": {
+"text": "De stijgende prijzen maken mensen zorgen.",
+"voice": "f"
+},
+"audio/w-spannende.mp3": {
+"text": "spannende",
+"voice": "w"
+},
+"audio/s1952.mp3": {
+"text": "Het was een spannende wedstrijd.",
+"voice": "m"
+},
+"audio/w-groeiend.mp3": {
+"text": "groeiend",
+"voice": "w"
+},
+"audio/w-aantal.mp3": {
+"text": "aantal",
+"voice": "w"
+},
+"audio/s1953.mp3": {
+"text": "Een groeiend aantal mensen werkt thuis.",
+"voice": "f"
+},
+"audio/w-keek.mp3": {
+"text": "keek",
+"voice": "w"
+},
+"audio/w-glimlachend.mp3": {
+"text": "glimlachend",
+"voice": "w"
+},
+"audio/s1954.mp3": {
+"text": "Ze keek hem glimlachend aan.",
+"voice": "m"
+},
+"audio/s1955.mp3": {
+"text": "De volgende week heb ik vrij.",
+"voice": "f"
+},
+"audio/w-overtuigend.mp3": {
+"text": "overtuigend",
+"voice": "w"
+},
+"audio/s1956.mp3": {
+"text": "Hij sprak overtuigend.",
+"voice": "m"
+},
+"audio/w-dringend.mp3": {
+"text": "dringend",
+"voice": "w"
+},
+"audio/s1957.mp3": {
+"text": "Dat is een dringend probleem.",
+"voice": "f"
+},
+"audio/w-wachtend.mp3": {
+"text": "Wachtend",
+"voice": "w"
+},
+"audio/w-las.mp3": {
+"text": "las",
+"voice": "w"
+},
+"audio/s1958.mp3": {
+"text": "Wachtend op de bus las ik de krant.",
+"voice": "m"
+},
+"audio/w-hiermee.mp3": {
+"text": "Hiermee",
+"voice": "w"
+},
+"audio/s1959.mp3": {
+"text": "Hiermee wil ik zeggen dat het niet klopt.",
+"voice": "f"
+},
+"audio/w-daarmee.mp3": {
+"text": "Daarmee",
+"voice": "w"
+},
+"audio/s1960.mp3": {
+"text": "Daarmee is het probleem opgelost.",
+"voice": "m"
+},
+"audio/s1961.mp3": {
+"text": "Dit betekent dat we moeten wachten.",
+"voice": "f"
+},
+"audio/w-daarover.mp3": {
+"text": "Daarover",
+"voice": "w"
+},
+"audio/s1962.mp3": {
+"text": "Daarover hebben we het later nog.",
+"voice": "m"
+},
+"audio/w-hierdoor.mp3": {
+"text": "Hierdoor",
+"voice": "w"
+},
+"audio/s1963.mp3": {
+"text": "Hierdoor zijn de kosten gestegen.",
+"voice": "f"
+},
+"audio/s1964.mp3": {
+"text": "Daar komt nog bij dat hij ziek is.",
+"voice": "m"
+},
+"audio/w-makkelijker.mp3": {
+"text": "makkelijker",
+"voice": "w"
+},
+"audio/s1965.mp3": {
+"text": "Dit alles maakt het niet makkelijker.",
+"voice": "f"
+},
+"audio/w-belangrijker.mp3": {
+"text": "belangrijker",
+"voice": "w"
+},
+"audio/w-laatste.mp3": {
+"text": "laatste",
+"voice": "w"
+},
+"audio/s1966.mp3": {
+"text": "Het eerste is belangrijker dan het laatste.",
+"voice": "m"
+},
+"audio/s1967.mp3": {
+"text": "Dat is precies waar het om gaat.",
+"voice": "f"
+},
+"audio/w-hieruit.mp3": {
+"text": "Hieruit",
+"voice": "w"
+},
+"audio/w-blijkt.mp3": {
+"text": "blijkt",
+"voice": "w"
+},
+"audio/s1968.mp3": {
+"text": "Hieruit blijkt dat de plannen werken.",
+"voice": "m"
+},
+"audio/w-daarvoor.mp3": {
+"text": "Daarvoor",
+"voice": "w"
+},
+"audio/s1969.mp3": {
+"text": "Daarvoor is meer geld nodig.",
+"voice": "f"
+},
+"audio/w-dezen.mp3": {
+"text": "dezen",
+"voice": "w"
+},
+"audio/w-bevestig.mp3": {
+"text": "bevestig",
+"voice": "w"
+},
+"audio/s1970.mp3": {
+"text": "Bij dezen bevestig ik uw afspraak.",
+"voice": "m"
+},
+"audio/w-beslissing.mp3": {
+"text": "beslissing",
+"voice": "w"
+},
+"audio/s1971.mp3": {
+"text": "We moeten een beslissing nemen.",
+"voice": "f"
+},
+"audio/w-fout.mp3": {
+"text": "fout",
+"voice": "w"
+},
+"audio/s1972.mp3": {
+"text": "Ze heeft een fout gemaakt.",
+"voice": "m"
+},
+"audio/w-bespreking.mp3": {
+"text": "bespreking",
+"voice": "w"
+},
+"audio/s1973.mp3": {
+"text": "De bespreking van het plan duurde lang.",
+"voice": "f"
+},
+"audio/w-behoefte.mp3": {
+"text": "behoefte",
+"voice": "w"
+},
+"audio/s1974.mp3": {
+"text": "Ik heb behoefte aan rust.",
+"voice": "m"
+},
+"audio/w-invloed.mp3": {
+"text": "invloed",
+"voice": "w"
+},
+"audio/s1975.mp3": {
+"text": "Hij heeft invloed op de beslissing.",
+"voice": "f"
+},
+"audio/w-verkoop.mp3": {
+"text": "verkoop",
+"voice": "w"
+},
+"audio/s1976.mp3": {
+"text": "De verkoop van elektrische auto's stijgt.",
+"voice": "m"
+},
+"audio/w-nam.mp3": {
+"text": "nam",
+"voice": "w"
+},
+"audio/s1977.mp3": {
+"text": "Ze nam contact op met de klantenservice.",
+"voice": "f"
+},
+"audio/w-afspraken.mp3": {
+"text": "afspraken",
+"voice": "w"
+},
+"audio/w-taakverdeling.mp3": {
+"text": "taakverdeling",
+"voice": "w"
+},
+"audio/s1978.mp3": {
+"text": "We hebben afspraken gemaakt over de taakverdeling.",
+"voice": "m"
+},
+"audio/w-sprake.mp3": {
+"text": "sprake",
+"voice": "w"
+},
+"audio/w-misverstand.mp3": {
+"text": "misverstand",
+"voice": "w"
+},
+"audio/s1979.mp3": {
+"text": "Er is sprake van een misverstand.",
+"voice": "f"
+},
+"audio/w-ontwikkeling.mp3": {
+"text": "ontwikkeling",
+"voice": "w"
+},
+"audio/s1980.mp3": {
+"text": "De ontwikkeling van kinderen gaat snel.",
+"voice": "m"
+},
+"audio/w-toestemming.mp3": {
+"text": "toestemming",
+"voice": "w"
+},
+"audio/s1981.mp3": {
+"text": "Hij gaf toestemming voor het onderzoek.",
+"voice": "f"
+},
+"audio/s1982.mp3": {
+"text": "Ik neem aan dat je komt.",
+"voice": "m"
+},
+"audio/s1983.mp3": {
+"text": "Het hangt af van het weer.",
+"voice": "f"
+},
+"audio/s1984.mp3": {
+"text": "Ik zorg voor de kinderen.",
+"voice": "m"
+},
+"audio/w-studie.mp3": {
+"text": "studie",
+"voice": "w"
+},
+"audio/s1985.mp3": {
+"text": "Hij is gestopt met zijn studie.",
+"voice": "f"
+},
+"audio/w-gewend.mp3": {
+"text": "gewend",
+"voice": "w"
+},
+"audio/s1986.mp3": {
+"text": "Ik ben het gewend om vroeg op te staan.",
+"voice": "m"
+},
+"audio/w-klaagt.mp3": {
+"text": "klaagt",
+"voice": "w"
+},
+"audio/s1987.mp3": {
+"text": "Ze klaagt altijd over het weer.",
+"voice": "f"
+},
+"audio/w-genoten.mp3": {
+"text": "genoten",
+"voice": "w"
+},
+"audio/s1988.mp3": {
+"text": "We hebben genoten van de vakantie.",
+"voice": "m"
+},
+"audio/w-verhaal.mp3": {
+"text": "verhaal",
+"voice": "w"
+},
+"audio/s1989.mp3": {
+"text": "Ik twijfel aan zijn verhaal.",
+"voice": "f"
+},
+"audio/s1990.mp3": {
+"text": "Hij deed mee aan de wedstrijd.",
+"voice": "m"
+},
+"audio/w-herinnerde.mp3": {
+"text": "herinnerde",
+"voice": "w"
+},
+"audio/s1991.mp3": {
+"text": "Ze herinnerde me aan de afspraak.",
+"voice": "f"
+},
+"audio/w-reken.mp3": {
+"text": "reken",
+"voice": "w"
+},
+"audio/w-steun.mp3": {
+"text": "steun",
+"voice": "w"
+},
+"audio/s1992.mp3": {
+"text": "Ik reken op je steun.",
+"voice": "m"
+},
+"audio/s1993.mp3": {
+"text": "Dat heeft te maken met geld.",
+"voice": "f"
+},
+"audio/w-streven.mp3": {
+"text": "streven",
+"voice": "w"
+},
+"audio/w-betere.mp3": {
+"text": "betere",
+"voice": "w"
+},
+"audio/w-wereld.mp3": {
+"text": "wereld",
+"voice": "w"
+},
+"audio/s1994.mp3": {
+"text": "We streven naar een betere wereld.",
+"voice": "m"
+},
+"audio/w-makkie.mp3": {
+"text": "makkie",
+"voice": "w"
+},
+"audio/s1995.mp3": {
+"text": "Dat is een makkie.",
+"voice": "f"
+},
+"audio/w-slag.mp3": {
+"text": "slag",
+"voice": "w"
+},
+"audio/w-gehouden.mp3": {
+"text": "gehouden",
+"voice": "w"
+},
+"audio/s1996.mp3": {
+"text": "Hij heeft een slag om de arm gehouden.",
+"voice": "m"
+},
+"audio/s1997.mp3": {
+"text": "Ik zit met de handen in het haar.",
+"voice": "f"
+},
+"audio/w-blad.mp3": {
+"text": "blad",
+"voice": "w"
+},
+"audio/w-mond.mp3": {
+"text": "mond",
+"voice": "w"
+},
+"audio/s1998.mp3": {
+"text": "Ze nam geen blad voor de mond.",
+"voice": "m"
+},
+"audio/w-rib.mp3": {
+"text": "rib",
+"voice": "w"
+},
+"audio/w-lijf.mp3": {
+"text": "lijf",
+"voice": "w"
+},
+"audio/s1999.mp3": {
+"text": "Dat kost een rib uit je lijf.",
+"voice": "f"
+},
+"audio/w-koe.mp3": {
+"text": "koe",
+"voice": "w"
+},
+"audio/w-hoorns.mp3": {
+"text": "hoorns",
+"voice": "w"
+},
+"audio/w-vatten.mp3": {
+"text": "vatten",
+"voice": "w"
+},
+"audio/s2000.mp3": {
+"text": "We moeten de koe bij de hoorns vatten.",
+"voice": "m"
+},
+"audio/w-honderduit.mp3": {
+"text": "honderduit",
+"voice": "w"
+},
+"audio/s2001.mp3": {
+"text": "Hij praat honderduit.",
+"voice": "f"
+},
+"audio/w-aap.mp3": {
+"text": "aap",
+"voice": "w"
+},
+"audio/w-mouw.mp3": {
+"text": "mouw",
+"voice": "w"
+},
+"audio/s2002.mp3": {
+"text": "Nu komt de aap uit de mouw.",
+"voice": "m"
+},
+"audio/w-bijster.mp3": {
+"text": "bijster",
+"voice": "w"
+},
+"audio/s2003.mp3": {
+"text": "Ik ben het spoor bijster.",
+"voice": "f"
+},
+"audio/s2004.mp3": {
+"text": "Dat is koffie verkeerd.",
+"voice": "m"
+},
+"audio/w-hoofd.mp3": {
+"text": "hoofd",
+"voice": "w"
+},
+"audio/s2005.mp3": {
+"text": "Hij heeft boter op zijn hoofd.",
+"voice": "f"
+},
+"audio/w-pijpenstelen.mp3": {
+"text": "pijpenstelen",
+"voice": "w"
+},
+"audio/s2006.mp3": {
+"text": "Het regent pijpenstelen.",
+"voice": "m"
+},
+"audio/w-wolken.mp3": {
+"text": "wolken",
+"voice": "w"
+},
+"audio/s2007.mp3": {
+"text": "Hij loopt met zijn hoofd in de wolken.",
+"voice": "f"
+},
+"audio/s2008.mp3": {
+"text": "Dat is water naar de zee dragen.",
+"voice": "m"
+},
+"audio/w-juiste.mp3": {
+"text": "juiste",
+"voice": "w"
+},
+"audio/s2009.mp3": {
+"text": "Ze heeft het hart op de juiste plaats.",
+"voice": "f"
+},
+"audio/s2010.mp3": {
+"text": "Ik heb er een hard hoofd in.",
+"voice": "m"
+},
+"audio/w-viel.mp3": {
+"text": "viel",
+"voice": "w"
+},
+"audio/w-mand.mp3": {
+"text": "mand",
+"voice": "w"
+},
+"audio/s2011.mp3": {
+"text": "Hij viel door de mand.",
+"voice": "f"
+},
+"audio/s2012.mp3": {
+"text": "Laten we er een punt achter zetten.",
+"voice": "m"
+},
+"audio/s2013.mp3": {
+"text": "Ze zit niet stil.",
+"voice": "f"
+},
+"audio/w-druppel.mp3": {
+"text": "druppel",
+"voice": "w"
+},
+"audio/w-emmer.mp3": {
+"text": "emmer",
+"voice": "w"
+},
+"audio/w-overlopen.mp3": {
+"text": "overlopen",
+"voice": "w"
+},
+"audio/s2014.mp3": {
+"text": "Dat is de druppel die de emmer doet overlopen.",
+"voice": "m"
+},
+"audio/s2015.mp3": {
+"text": "Ik heb het uit de eerste hand gehoord.",
+"voice": "f"
+},
+"audio/w-praatstoel.mp3": {
+"text": "praatstoel",
+"voice": "w"
+},
+"audio/s2016.mp3": {
+"text": "Hij zit op zijn praatstoel.",
+"voice": "m"
+},
+"audio/w-schuitje.mp3": {
+"text": "schuitje",
+"voice": "w"
+},
+"audio/s2017.mp3": {
+"text": "We zitten in hetzelfde schuitje.",
+"voice": "f"
+},
+"audio/s2018.mp3": {
+"text": "Het is een storm in een glas water.",
+"voice": "m"
+},
+"audio/w-oost.mp3": {
+"text": "Oost",
+"voice": "w"
+},
+"audio/w-west.mp3": {
+"text": "west",
+"voice": "w"
+},
+"audio/w-best.mp3": {
+"text": "best",
+"voice": "w"
+},
+"audio/s2019.mp3": {
+"text": "Oost west, thuis best.",
+"voice": "f"
+},
+"audio/w-waagt.mp3": {
+"text": "waagt",
+"voice": "w"
+},
+"audio/w-wint.mp3": {
+"text": "wint",
+"voice": "w"
+},
+"audio/s2020.mp3": {
+"text": "Wie niet waagt, die niet wint.",
+"voice": "m"
+},
+"audio/w-oefening.mp3": {
+"text": "Oefening",
+"voice": "w"
+},
+"audio/w-baart.mp3": {
+"text": "baart",
+"voice": "w"
+},
+"audio/s2021.mp3": {
+"text": "Oefening baart kunst.",
+"voice": "f"
+},
+"audio/s2022.mp3": {
+"text": "Beter laat dan nooit.",
+"voice": "m"
+},
+"audio/s2023.mp3": {
+"text": "Alle begin is moeilijk.",
+"voice": "f"
+},
+"audio/w-laatst.mp3": {
+"text": "laatst",
+"voice": "w"
+},
+"audio/s2024.mp3": {
+"text": "Wie het laatst lacht, lacht het best.",
+"voice": "m"
+},
+"audio/s2025.mp3": {
+"text": "Zo vader, zo zoon.",
+"voice": "f"
+},
+"audio/w-zonneschijn.mp3": {
+"text": "zonneschijn",
+"voice": "w"
+},
+"audio/s2026.mp3": {
+"text": "Na regen komt zonneschijn.",
+"voice": "m"
+},
+"audio/s2027.mp3": {
+"text": "Een ongeluk komt zelden alleen.",
+"voice": "f"
+},
+"audio/w-gedane.mp3": {
+"text": "Gedane",
+"voice": "w"
+},
+"audio/w-zaken.mp3": {
+"text": "zaken",
+"voice": "w"
+},
+"audio/s2028.mp3": {
+"text": "Gedane zaken nemen geen keer.",
+"voice": "m"
+},
+"audio/w-hoge.mp3": {
+"text": "Hoge",
+"voice": "w"
+},
+"audio/w-bomen.mp3": {
+"text": "bomen",
+"voice": "w"
+},
+"audio/w-vangen.mp3": {
+"text": "vangen",
+"voice": "w"
+},
+"audio/s2029.mp3": {
+"text": "Hoge bomen vangen veel wind.",
+"voice": "f"
+},
+"audio/w-b.mp3": {
+"text": "b",
+"voice": "w"
+},
+"audio/s2030.mp3": {
+"text": "Wie a zegt, moet ook b zeggen.",
+"voice": "m"
+},
+"audio/s2031.mp3": {
+"text": "Kunt u mij vertellen hoe laat het is?",
+"voice": "f"
+},
+"audio/w-joh.mp3": {
+"text": "joh",
+"voice": "w"
+},
+"audio/s2032.mp3": {
+"text": "Hoe laat is het, joh?",
+"voice": "m"
+},
+"audio/w-stellen.mp3": {
+"text": "stellen",
+"voice": "w"
+},
+"audio/w-reageert.mp3": {
+"text": "reageert",
+"voice": "w"
+},
+"audio/s2033.mp3": {
+"text": "Ik zou het op prijs stellen als u snel reageert.",
+"voice": "f"
+},
+"audio/s2034.mp3": {
+"text": "Laat even wat van je horen!",
+"voice": "m"
+},
+"audio/w-verzoeken.mp3": {
+"text": "verzoeken",
+"voice": "w"
+},
+"audio/w-vullen.mp3": {
+"text": "vullen",
+"voice": "w"
+},
+"audio/s2035.mp3": {
+"text": "Wij verzoeken u vriendelijk dit formulier in te vullen.",
+"voice": "f"
+},
+"audio/w-vul.mp3": {
+"text": "Vul",
+"voice": "w"
+},
+"audio/w-oke.mp3": {
+"text": "oké",
+"voice": "w"
+},
+"audio/s2036.mp3": {
+"text": "Vul dit even in, oké?",
+"voice": "m"
+},
+"audio/w-hartelijk.mp3": {
+"text": "Hartelijk",
+"voice": "w"
+},
+"audio/w-medewerking.mp3": {
+"text": "medewerking",
+"voice": "w"
+},
+"audio/s2037.mp3": {
+"text": "Hartelijk dank voor uw medewerking.",
+"voice": "f"
+},
+"audio/w-top.mp3": {
+"text": "top",
+"voice": "w"
+},
+"audio/s2038.mp3": {
+"text": "Bedankt, top!",
+"voice": "m"
+},
+"audio/w-excuses.mp3": {
+"text": "excuses",
+"voice": "w"
+},
+"audio/w-ongemak.mp3": {
+"text": "ongemak",
+"voice": "w"
+},
+"audio/s2039.mp3": {
+"text": "Mijn excuses voor het ongemak.",
+"voice": "f"
+},
+"audio/s2040.mp3": {
+"text": "Sorry, mijn fout!",
+"voice": "m"
+},
+"audio/w-hopen.mp3": {
+"text": "hopen",
+"voice": "w"
+},
+"audio/w-geinformeerd.mp3": {
+"text": "geïnformeerd",
+"voice": "w"
+},
+"audio/s2041.mp3": {
+"text": "Wij hopen u hiermee voldoende te hebben geïnformeerd.",
+"voice": "f"
+},
+"audio/w-hoor.mp3": {
+"text": "hoor",
+"voice": "w"
+},
+"audio/s2042.mp3": {
+"text": "Ik heb geen zin, hoor.",
+"voice": "m"
+},
+"audio/w-dien.mp3": {
+"text": "dien",
+"voice": "w"
+},
+"audio/w-dienstverlening.mp3": {
+"text": "dienstverlening",
+"voice": "w"
+},
+"audio/s2043.mp3": {
+"text": "Hierbij dien ik een klacht in over uw dienstverlening.",
+"voice": "f"
+},
+"audio/w-wasmachine.mp3": {
+"text": "wasmachine",
+"voice": "w"
+},
+"audio/s2044.mp3": {
+"text": "Op drie maart heb ik bij u een wasmachine besteld.",
+"voice": "m"
+},
+"audio/w-heden.mp3": {
+"text": "heden",
+"voice": "w"
+},
+"audio/w-geleverd.mp3": {
+"text": "geleverd",
+"voice": "w"
+},
+"audio/s2045.mp3": {
+"text": "Tot op heden is deze niet geleverd.",
+"voice": "f"
+},
+"audio/w-herhaaldelijk.mp3": {
+"text": "herhaaldelijk",
+"voice": "w"
+},
+"audio/w-reactie.mp3": {
+"text": "reactie",
+"voice": "w"
+},
+"audio/w-ontvangen.mp3": {
+"text": "ontvangen",
+"voice": "w"
+},
+"audio/s2046.mp3": {
+"text": "Ondanks herhaaldelijk contact heb ik geen reactie ontvangen.",
+"voice": "m"
+},
+"audio/w-zeer.mp3": {
+"text": "zeer",
+"voice": "w"
+},
+"audio/w-onaangenaam.mp3": {
+"text": "onaangenaam",
+"voice": "w"
+},
+"audio/s2047.mp3": {
+"text": "Dit is voor mij zeer onaangenaam.",
+"voice": "f"
+},
+"audio/w-verzoek.mp3": {
+"text": "verzoek",
+"voice": "w"
+},
+"audio/w-bedrag.mp3": {
+"text": "bedrag",
+"voice": "w"
+},
+"audio/w-storten.mp3": {
+"text": "storten",
+"voice": "w"
+},
+"audio/s2048.mp3": {
+"text": "Ik verzoek u het bedrag binnen veertien dagen terug te storten.",
+"voice": "m"
+},
+"audio/w-verdere.mp3": {
+"text": "verdere",
+"voice": "w"
+},
+"audio/w-stappen.mp3": {
+"text": "stappen",
+"voice": "w"
+},
+"audio/w-ondernemen.mp3": {
+"text": "ondernemen",
+"voice": "w"
+},
+"audio/s2049.mp3": {
+"text": "Indien ik niets van u hoor, zal ik verdere stappen ondernemen.",
+"voice": "f"
+},
+"audio/w-treft.mp3": {
+"text": "treft",
+"voice": "w"
+},
+"audio/w-kopie.mp3": {
+"text": "kopie",
+"voice": "w"
+},
+"audio/w-factuur.mp3": {
+"text": "factuur",
+"voice": "w"
+},
+"audio/s2050.mp3": {
+"text": "In de bijlage treft u een kopie van de factuur aan.",
+"voice": "m"
+},
+"audio/w-vertrouw.mp3": {
+"text": "vertrouw",
+"voice": "w"
+},
+"audio/w-oplost.mp3": {
+"text": "oplost",
+"voice": "w"
+},
+"audio/s2051.mp3": {
+"text": "Ik vertrouw erop dat u dit snel oplost.",
+"voice": "f"
+},
+"audio/w-teleurgesteld.mp3": {
+"text": "teleurgesteld",
+"voice": "w"
+},
+"audio/w-service.mp3": {
+"text": "service",
+"voice": "w"
+},
+"audio/s2052.mp3": {
+"text": "Ik ben zeer teleurgesteld in uw service.",
+"voice": "m"
+},
+"audio/w-ontvang.mp3": {
+"text": "ontvang",
+"voice": "w"
+},
+"audio/w-spoedig.mp3": {
+"text": "spoedig",
+"voice": "w"
+},
+"audio/s2053.mp3": {
+"text": "Graag ontvang ik zo spoedig mogelijk een reactie.",
+"voice": "f"
+},
+"audio/w-vriendelijke.mp3": {
+"text": "vriendelijke",
+"voice": "w"
+},
+"audio/w-groet.mp3": {
+"text": "groet",
+"voice": "w"
+},
+"audio/s2054.mp3": {
+"text": "Met vriendelijke groet, Sara Karimi.",
+"voice": "m"
+},
+"audio/w-voorstander.mp3": {
+"text": "voorstander",
+"voice": "w"
+},
+"audio/w-autovrij.mp3": {
+"text": "autovrij",
+"voice": "w"
+},
+"audio/s2055.mp3": {
+"text": "Ik ben voorstander van een autovrij centrum.",
+"voice": "f"
+},
+"audio/w-argument.mp3": {
+"text": "argument",
+"voice": "w"
+},
+"audio/w-luchtkwaliteit.mp3": {
+"text": "luchtkwaliteit",
+"voice": "w"
+},
+"audio/s2056.mp3": {
+"text": "Een belangrijk argument is de luchtkwaliteit.",
+"voice": "m"
+},
+"audio/w-tegenstanders.mp3": {
+"text": "Tegenstanders",
+"voice": "w"
+},
+"audio/w-klanten.mp3": {
+"text": "klanten",
+"voice": "w"
+},
+"audio/s2057.mp3": {
+"text": "Tegenstanders zeggen dat winkels klanten verliezen.",
+"voice": "f"
+},
+"audio/w-overtuigt.mp3": {
+"text": "overtuigt",
+"voice": "w"
+},
+"audio/s2058.mp3": {
+"text": "Dat argument overtuigt mij niet.",
+"voice": "m"
+},
+"audio/w-tegendeel.mp3": {
+"text": "tegendeel",
+"voice": "w"
+},
+"audio/s2059.mp3": {
+"text": "Uit onderzoek blijkt het tegendeel.",
+"voice": "f"
+},
+"audio/w-voordeel.mp3": {
+"text": "voordeel",
+"voice": "w"
+},
+"audio/w-rustiger.mp3": {
+"text": "rustiger",
+"voice": "w"
+},
+"audio/s2060.mp3": {
+"text": "Het voordeel is dat het rustiger wordt.",
+"voice": "m"
+},
+"audio/w-nadeel.mp3": {
+"text": "nadeel",
+"voice": "w"
+},
+"audio/w-moeilijker.mp3": {
+"text": "moeilijker",
+"voice": "w"
+},
+"audio/w-bereikbaar.mp3": {
+"text": "bereikbaar",
+"voice": "w"
+},
+"audio/s2061.mp3": {
+"text": "Het nadeel is dat het moeilijker bereikbaar is.",
+"voice": "f"
+},
+"audio/w-afvragen.mp3": {
+"text": "afvragen",
+"voice": "w"
+},
+"audio/s2062.mp3": {
+"text": "Je kunt je afvragen of dat eerlijk is.",
+"voice": "m"
+},
+"audio/w-kanttekening.mp3": {
+"text": "kanttekening",
+"voice": "w"
+},
+"audio/w-plaatsen.mp3": {
+"text": "plaatsen",
+"voice": "w"
+},
+"audio/s2063.mp3": {
+"text": "Ik wil daar wel een kanttekening bij plaatsen.",
+"voice": "f"
+},
+"audio/w-voordelen.mp3": {
+"text": "voordelen",
+"voice": "w"
+},
+"audio/w-zwaarder.mp3": {
+"text": "zwaarder",
+"voice": "w"
+},
+"audio/w-wegen.mp3": {
+"text": "wegen",
+"voice": "w"
+},
+"audio/s2064.mp3": {
+"text": "Al met al denk ik dat de voordelen zwaarder wegen.",
+"voice": "m"
+},
+"audio/w-kwestie.mp3": {
+"text": "kwestie",
+"voice": "w"
+},
+"audio/w-prioriteiten.mp3": {
+"text": "prioriteiten",
+"voice": "w"
+},
+"audio/s2065.mp3": {
+"text": "Dat is een kwestie van prioriteiten.",
+"voice": "f"
+},
+"audio/w-feiten.mp3": {
+"text": "feiten",
+"voice": "w"
+},
+"audio/w-rij.mp3": {
+"text": "rij",
+"voice": "w"
+},
+"audio/s2066.mp3": {
+"text": "Laten we de feiten op een rij zetten.",
+"voice": "m"
+},
+"audio/w-wilde.mp3": {
+"text": "wilde",
+"voice": "w"
+},
+"audio/w-thuisblijven.mp3": {
+"text": "thuisblijven",
+"voice": "w"
+},
+"audio/s2067.mp3": {
+"text": "Eigenlijk wilde ik thuisblijven.",
+"voice": "f"
+},
+"audio/s2068.mp3": {
+"text": "Dat is juist het probleem.",
+"voice": "m"
+},
+"audio/w-degelijk.mp3": {
+"text": "degelijk",
+"voice": "w"
+},
+"audio/s2069.mp3": {
+"text": "Het maakt wel degelijk verschil.",
+"voice": "f"
+},
+"audio/w-eigenwijs.mp3": {
+"text": "eigenwijs",
+"voice": "w"
+},
+"audio/s2070.mp3": {
+"text": "Hij is nogal eigenwijs.",
+"voice": "m"
+},
+"audio/s2071.mp3": {
+"text": "Dat valt best mee.",
+"voice": "f"
+},
+"audio/s2072.mp3": {
+"text": "Het viel me tegen.",
+"voice": "m"
+},
+"audio/s2073.mp3": {
+"text": "Je hebt het toch wel gehoord?",
+"voice": "f"
+},
+"audio/w-zo-n.mp3": {
+"text": "Zo'n",
+"voice": "w"
+},
+"audio/s2074.mp3": {
+"text": "Zo'n beetje iedereen was er.",
+"voice": "m"
+},
+"audio/w-bekijkt.mp3": {
+"text": "bekijkt",
+"voice": "w"
+},
+"audio/s2075.mp3": {
+"text": "Het is maar net hoe je het bekijkt.",
+"voice": "f"
+},
+"audio/w-nou.mp3": {
+"text": "nou",
+"voice": "w"
+},
+"audio/s2076.mp3": {
+"text": "Dat is nou net wat ik bedoel.",
+"voice": "m"
+},
+"audio/w-gerust.mp3": {
+"text": "gerust",
+"voice": "w"
+},
+"audio/s2077.mp3": {
+"text": "Ik ben er niet helemaal gerust op.",
+"voice": "f"
+},
+"audio/s2078.mp3": {
+"text": "Hij is best aardig, eigenlijk.",
+"voice": "m"
+},
+"audio/s2079.mp3": {
+"text": "Hij zei dat hij moe was.",
+"voice": "f"
+},
+"audio/s2080.mp3": {
+"text": "Ze vertelde dat ze een nieuwe baan had gevonden.",
+"voice": "m"
+},
+"audio/s2081.mp3": {
+"text": "Hij vroeg of ik mee wilde.",
+"voice": "f"
+},
+"audio/s2082.mp3": {
+"text": "Ze wilde weten waarom ik zo laat was.",
+"voice": "m"
+},
+"audio/s2083.mp3": {
+"text": "De dokter zei dat ik moest rusten.",
+"voice": "f"
+},
+"audio/w-beweerde.mp3": {
+"text": "beweerde",
+"voice": "w"
+},
+"audio/s2084.mp3": {
+"text": "Hij beweerde dat hij er niets van wist.",
+"voice": "m"
+},
+"audio/s2085.mp3": {
+"text": "Ze zei dat ze de volgende dag zou komen.",
+"voice": "f"
+},
+"audio/s2086.mp3": {
+"text": "Hij gaf toe dat hij een fout had gemaakt.",
+"voice": "m"
+},
+"audio/w-maatregelen.mp3": {
+"text": "maatregelen",
+"voice": "w"
+},
+"audio/s2087.mp3": {
+"text": "Volgens de minister zijn de maatregelen nodig.",
+"voice": "f"
+},
+"audio/s2088.mp3": {
+"text": "Ze vroeg me hoe het met mijn moeder ging.",
+"voice": "m"
+},
+"audio/w-woordvoerder.mp3": {
+"text": "woordvoerder",
+"voice": "w"
+},
+"audio/w-gewonden.mp3": {
+"text": "gewonden",
+"voice": "w"
+},
+"audio/s2089.mp3": {
+"text": "De woordvoerder liet weten dat er geen gewonden zijn.",
+"voice": "f"
+},
+"audio/s2090.mp3": {
+"text": "Hij beloofde dat hij het nooit meer zou doen.",
+"voice": "m"
+},
+"audio/w-alsof.mp3": {
+"text": "alsof",
+"voice": "w"
+},
+"audio/s2091.mp3": {
+"text": "Hij doet alsof hij niets weet.",
+"voice": "f"
+},
+"audio/s2092.mp3": {
+"text": "Het lijkt alsof het gaat regenen.",
+"voice": "m"
+},
+"audio/s2093.mp3": {
+"text": "Ze praat alsof ze de baas is.",
+"voice": "f"
+},
+"audio/w-voelt.mp3": {
+"text": "voelt",
+"voice": "w"
+},
+"audio/s2094.mp3": {
+"text": "Het voelt alsof ik hier altijd heb gewoond.",
+"voice": "m"
+},
+"audio/w-spook.mp3": {
+"text": "spook",
+"voice": "w"
+},
+"audio/s2095.mp3": {
+"text": "Hij keek alsof hij een spook had gezien.",
+"voice": "f"
+},
+"audio/s2096.mp3": {
+"text": "Doe maar alsof je thuis bent.",
+"voice": "m"
+},
+"audio/w-stilstaat.mp3": {
+"text": "stilstaat",
+"voice": "w"
+},
+"audio/s2097.mp3": {
+"text": "Het is net alsof de tijd stilstaat.",
+"voice": "f"
+},
+"audio/s2098.mp3": {
+"text": "Ze deed alsof ze me niet zag.",
+"voice": "m"
+},
+"audio/w-klinkt.mp3": {
+"text": "klinkt",
+"voice": "w"
+},
+"audio/s2099.mp3": {
+"text": "Het klinkt alsof je verkouden bent.",
+"voice": "f"
+},
+"audio/s2100.mp3": {
+"text": "Het is niet zo dat ik het niet wil.",
+"voice": "m"
+},
+"audio/w-gedraagt.mp3": {
+"text": "gedraagt",
+"voice": "w"
+},
+"audio/s2101.mp3": {
+"text": "Hij gedraagt zich alsof er niets gebeurd is.",
+"voice": "f"
+},
+"audio/s2102.mp3": {
+"text": "Het lijkt wel of iedereen op vakantie is.",
+"voice": "m"
+},
+"audio/s2103.mp3": {
+"text": "Hoe moeilijk het ook is, ik geef niet op.",
+"voice": "f"
+},
+"audio/s2104.mp3": {
+"text": "Wat je ook doet, doe het goed.",
+"voice": "m"
+},
+"audio/s2105.mp3": {
+"text": "Wie er ook belt, ik ben er niet.",
+"voice": "f"
+},
+"audio/s2106.mp3": {
+"text": "Waar je ook woont, je hebt vrienden nodig.",
+"voice": "m"
+},
+"audio/w-genoeg.mp3": {
+"text": "genoeg",
+"voice": "w"
+},
+"audio/s2107.mp3": {
+"text": "Hoe hard hij ook werkt, het is nooit genoeg.",
+"voice": "f"
+},
+"audio/s2108.mp3": {
+"text": "Wanneer je ook komt, je bent welkom.",
+"voice": "m"
+},
+"audio/s2109.mp3": {
+"text": "Hoe het ook zij, we moeten verder.",
+"voice": "f"
+},
+"audio/s2110.mp3": {
+"text": "Hoeveel het ook kost, ik koop het.",
+"voice": "m"
+},
+"audio/w-gebeurt.mp3": {
+"text": "gebeurt",
+"voice": "w"
+},
+"audio/s2111.mp3": {
+"text": "Wat er ook gebeurt, ik blijf bij je.",
+"voice": "f"
+},
+"audio/w-uitleg.mp3": {
+"text": "uitleg",
+"voice": "w"
+},
+"audio/s2112.mp3": {
+"text": "Hoe vaak ik het ook uitleg, hij begrijpt het niet.",
+"voice": "m"
+},
+"audio/w-keuze.mp3": {
+"text": "keuze",
+"voice": "w"
+},
+"audio/s2113.mp3": {
+"text": "Welke keuze je ook maakt, ik steun je.",
+"voice": "f"
+},
+"audio/w-voorbij.mp3": {
+"text": "voorbij",
+"voice": "w"
+},
+"audio/s2114.mp3": {
+"text": "Hoe dan ook, het is voorbij.",
+"voice": "m"
+},
+"audio/w-feit.mp3": {
+"text": "feit",
+"voice": "w"
+},
+"audio/w-verbaast.mp3": {
+"text": "verbaast",
+"voice": "w"
+},
+"audio/s2115.mp3": {
+"text": "Het feit dat hij niet komt, verbaast me.",
+"voice": "f"
+},
+"audio/s2116.mp3": {
+"text": "Ik ben blij met het feit dat je er bent.",
+"voice": "m"
+},
+"audio/s2117.mp3": {
+"text": "De reden dat ik bel, is je verjaardag.",
+"voice": "f"
+},
+"audio/w-nerveus.mp3": {
+"text": "nerveus",
+"voice": "w"
+},
+"audio/s2118.mp3": {
+"text": "Het idee dat ik moet verhuizen, maakt me nerveus.",
+"voice": "m"
+},
+"audio/w-kans.mp3": {
+"text": "kans",
+"voice": "w"
+},
+"audio/s2119.mp3": {
+"text": "De kans dat het regent, is klein.",
+"voice": "f"
+},
+"audio/w-bewijs.mp3": {
+"text": "bewijs",
+"voice": "w"
+},
+"audio/w-schuldig.mp3": {
+"text": "schuldig",
+"voice": "w"
+},
+"audio/s2120.mp3": {
+"text": "Er is geen bewijs dat hij schuldig is.",
+"voice": "m"
+},
+"audio/w-ongelukkig.mp3": {
+"text": "ongelukkig",
+"voice": "w"
+},
+"audio/s2121.mp3": {
+"text": "Ik heb de indruk dat ze ongelukkig is.",
+"voice": "f"
+},
+"audio/w-risico.mp3": {
+"text": "risico",
+"voice": "w"
+},
+"audio/s2122.mp3": {
+"text": "Het risico bestaat dat de prijzen stijgen.",
+"voice": "m"
+},
+"audio/w-stoort.mp3": {
+"text": "stoort",
+"voice": "w"
+},
+"audio/s2123.mp3": {
+"text": "Wat me stoort, is dat niemand luistert.",
+"voice": "f"
+},
+"audio/s2124.mp3": {
+"text": "Gezien het feit dat het laat is, stoppen we.",
+"voice": "m"
+},
+"audio/w-gevaar.mp3": {
+"text": "gevaar",
+"voice": "w"
+},
+"audio/w-afhaken.mp3": {
+"text": "afhaken",
+"voice": "w"
+},
+"audio/s2125.mp3": {
+"text": "Het gevaar is dat mensen afhaken.",
+"voice": "f"
+},
+"audio/w-gedachte.mp3": {
+"text": "gedachte",
+"voice": "w"
+},
+"audio/s2126.mp3": {
+"text": "De gedachte dat ik je mis, maakt me verdrietig.",
+"voice": "m"
+},
+"audio/s2127.mp3": {
+"text": "Ik wil het graag hebben over mijn salaris.",
+"voice": "f"
+},
+"audio/w-laag.mp3": {
+"text": "laag",
+"voice": "w"
+},
+"audio/s2128.mp3": {
+"text": "Gezien mijn ervaring vind ik dit bod te laag.",
+"voice": "m"
+},
+"audio/w-salarisindicatie.mp3": {
+"text": "salarisindicatie",
+"voice": "w"
+},
+"audio/s2129.mp3": {
+"text": "Wat is uw salarisindicatie?",
+"voice": "f"
+},
+"audio/w-vierduizend.mp3": {
+"text": "vierduizend",
+"voice": "w"
+},
+"audio/w-bruto.mp3": {
+"text": "bruto",
+"voice": "w"
+},
+"audio/s2130.mp3": {
+"text": "Ik had gedacht aan vierduizend euro bruto.",
+"voice": "m"
+},
+"audio/s2131.mp3": {
+"text": "Daar kunnen we over praten.",
+"voice": "f"
+},
+"audio/w-secundaire.mp3": {
+"text": "secundaire",
+"voice": "w"
+},
+"audio/w-arbeidsvoorwaarden.mp3": {
+"text": "arbeidsvoorwaarden",
+"voice": "w"
+},
+"audio/s2132.mp3": {
+"text": "Zijn er secundaire arbeidsvoorwaarden?",
+"voice": "m"
+},
+"audio/w-reiskostenvergoeding.mp3": {
+"text": "reiskostenvergoeding",
+"voice": "w"
+},
+"audio/s2133.mp3": {
+"text": "Ik zou graag een reiskostenvergoeding willen.",
+"voice": "f"
+},
+"audio/s2134.mp3": {
+"text": "Kunnen we elkaar in het midden ontmoeten?",
+"voice": "m"
+},
+"audio/w-redelijk.mp3": {
+"text": "redelijk",
+"voice": "w"
+},
+"audio/w-voorstel.mp3": {
+"text": "voorstel",
+"voice": "w"
+},
+"audio/s2135.mp3": {
+"text": "Dat lijkt me een redelijk voorstel.",
+"voice": "f"
+},
+"audio/w-nachtje.mp3": {
+"text": "nachtje",
+"voice": "w"
+},
+"audio/s2136.mp3": {
+"text": "Ik wil er een nachtje over slapen.",
+"voice": "m"
+},
+"audio/w-evalueren.mp3": {
+"text": "evalueren",
+"voice": "w"
+},
+"audio/s2137.mp3": {
+"text": "Na een jaar evalueren we uw salaris.",
+"voice": "f"
+},
+"audio/s2138.mp3": {
+"text": "We zijn eruit gekomen.",
+"voice": "m"
+},
+"audio/w-feedback.mp3": {
+"text": "feedback",
+"voice": "w"
+},
+"audio/s2139.mp3": {
+"text": "Mag ik je wat feedback geven?",
+"voice": "f"
+},
+"audio/w-inzet.mp3": {
+"text": "inzet",
+"voice": "w"
+},
+"audio/w-enorm.mp3": {
+"text": "enorm",
+"voice": "w"
+},
+"audio/s2140.mp3": {
+"text": "Ik waardeer je inzet enorm.",
+"voice": "m"
+},
+"audio/s2141.mp3": {
+"text": "Wat goed ging, is de planning.",
+"voice": "f"
+},
+"audio/w-verbeterpunt.mp3": {
+"text": "verbeterpunt",
+"voice": "w"
+},
+"audio/w-communicatie.mp3": {
+"text": "communicatie",
+"voice": "w"
+},
+"audio/s2142.mp3": {
+"text": "Een verbeterpunt is de communicatie.",
+"voice": "m"
+},
+"audio/s2143.mp3": {
+"text": "Ik merk dat je vaak te laat bent.",
+"voice": "f"
+},
+"audio/w-tegenaan.mp3": {
+"text": "tegenaan",
+"voice": "w"
+},
+"audio/s2144.mp3": {
+"text": "Hoe kijk jij daar zelf tegenaan?",
+"voice": "m"
+},
+"audio/w-overbelast.mp3": {
+"text": "overbelast",
+"voice": "w"
+},
+"audio/s2145.mp3": {
+"text": "Ik heb het idee dat je overbelast bent.",
+"voice": "f"
+},
+"audio/w-verbeteren.mp3": {
+"text": "verbeteren",
+"voice": "w"
+},
+"audio/s2146.mp3": {
+"text": "Wat heb je nodig om dit te verbeteren?",
+"voice": "m"
+},
+"audio/w-opmerking.mp3": {
+"text": "opmerking",
+"voice": "w"
+},
+"audio/w-ter.mp3": {
+"text": "ter",
+"voice": "w"
+},
+"audio/w-harte.mp3": {
+"text": "harte",
+"voice": "w"
+},
+"audio/s2147.mp3": {
+"text": "Ik neem je opmerking ter harte.",
+"voice": "f"
+},
+"audio/w-aanpakken.mp3": {
+"text": "aanpakken",
+"voice": "w"
+},
+"audio/s2148.mp3": {
+"text": "Dat had ik anders kunnen aanpakken.",
+"voice": "m"
+},
+"audio/w-eerlijkheid.mp3": {
+"text": "eerlijkheid",
+"voice": "w"
+},
+"audio/s2149.mp3": {
+"text": "Bedankt voor je eerlijkheid.",
+"voice": "f"
+},
+"audio/s2150.mp3": {
+"text": "Laten we volgende maand evalueren hoe het gaat.",
+"voice": "m"
+},
+"audio/s2151.mp3": {
+"text": "Vandaag wil ik het hebben over ons nieuwe project.",
+"voice": "f"
+},
+"audio/w-presentatie.mp3": {
+"text": "presentatie",
+"voice": "w"
+},
+"audio/s2152.mp3": {
+"text": "Mijn presentatie bestaat uit drie delen.",
+"voice": "m"
+},
+"audio/w-allereerst.mp3": {
+"text": "Allereerst",
+"voice": "w"
+},
+"audio/w-korte.mp3": {
+"text": "korte",
+"voice": "w"
+},
+"audio/w-inleiding.mp3": {
+"text": "inleiding",
+"voice": "w"
+},
+"audio/s2153.mp3": {
+"text": "Allereerst geef ik een korte inleiding.",
+"voice": "f"
+},
+"audio/w-zoals.mp3": {
+"text": "Zoals",
+"voice": "w"
+},
+"audio/w-dia.mp3": {
+"text": "dia",
+"voice": "w"
+},
+"audio/s2154.mp3": {
+"text": "Zoals u op deze dia kunt zien, stijgen de kosten.",
+"voice": "m"
+},
+"audio/w-brengt.mp3": {
+"text": "brengt",
+"voice": "w"
+},
+"audio/s2155.mp3": {
+"text": "Dit brengt me bij mijn volgende punt.",
+"voice": "f"
+},
+"audio/w-benadrukken.mp3": {
+"text": "benadrukken",
+"voice": "w"
+},
+"audio/w-schatting.mp3": {
+"text": "schatting",
+"voice": "w"
+},
+"audio/s2156.mp3": {
+"text": "Ik wil benadrukken dat dit een schatting is.",
+"voice": "m"
+},
+"audio/w-samenvattend.mp3": {
+"text": "Samenvattend",
+"voice": "w"
+},
+"audio/w-haalbaar.mp3": {
+"text": "haalbaar",
+"voice": "w"
+},
+"audio/s2157.mp3": {
+"text": "Samenvattend kunnen we zeggen dat het plan haalbaar is.",
+"voice": "f"
+},
+"audio/s2158.mp3": {
+"text": "Heeft iemand hier vragen over?",
+"voice": "m"
+},
+"audio/w-goede.mp3": {
+"text": "goede",
+"voice": "w"
+},
+"audio/s2159.mp3": {
+"text": "Dat is een goede vraag.",
+"voice": "f"
+},
+"audio/s2160.mp3": {
+"text": "Daar kom ik straks op terug.",
+"voice": "m"
+},
+"audio/w-aandacht.mp3": {
+"text": "aandacht",
+"voice": "w"
+},
+"audio/s2161.mp3": {
+"text": "Ik dank u voor uw aandacht.",
+"voice": "f"
+},
+"audio/w-grafiek.mp3": {
+"text": "grafiek",
+"voice": "w"
+},
+"audio/w-duidelijke.mp3": {
+"text": "duidelijke",
+"voice": "w"
+},
+"audio/w-daling.mp3": {
+"text": "daling",
+"voice": "w"
+},
+"audio/s2162.mp3": {
+"text": "Op de grafiek ziet u een duidelijke daling.",
+"voice": "m"
+},
+"audio/w-conflict.mp3": {
+"text": "conflict",
+"voice": "w"
+},
+"audio/w-ontstaan.mp3": {
+"text": "ontstaan",
+"voice": "w"
+},
+"audio/s2163.mp3": {
+"text": "Er is een conflict ontstaan tussen twee collega's.",
+"voice": "f"
+},
+"audio/w-serieus.mp3": {
+"text": "serieus",
+"voice": "w"
+},
+"audio/s2164.mp3": {
+"text": "Ik voel me niet serieus genomen.",
+"voice": "m"
+},
+"audio/w-proberen.mp3": {
+"text": "proberen",
+"voice": "w"
+},
+"audio/s2165.mp3": {
+"text": "Laten we proberen er samen uit te komen.",
+"voice": "f"
+},
+"audio/w-standpunt.mp3": {
+"text": "standpunt",
+"voice": "w"
+},
+"audio/s2166.mp3": {
+"text": "Ik begrijp jouw standpunt.",
+"voice": "m"
+},
+"audio/w-betreft.mp3": {
+"text": "betreft",
+"voice": "w"
+},
+"audio/s2167.mp3": {
+"text": "Wat mij betreft is het een misverstand.",
+"voice": "f"
+},
+"audio/s2168.mp3": {
+"text": "Ik wil niemand de schuld geven.",
+"voice": "m"
+},
+"audio/s2169.mp3": {
+"text": "We moeten beter afspraken maken.",
+"voice": "f"
+},
+"audio/w-bedoeld.mp3": {
+"text": "bedoeld",
+"voice": "w"
+},
+"audio/s2170.mp3": {
+"text": "Het is niet persoonlijk bedoeld.",
+"voice": "m"
+},
+"audio/w-bemiddelaar.mp3": {
+"text": "bemiddelaar",
+"voice": "w"
+},
+"audio/w-inschakelen.mp3": {
+"text": "inschakelen",
+"voice": "w"
+},
+"audio/s2171.mp3": {
+"text": "Kunnen we een bemiddelaar inschakelen?",
+"voice": "f"
+},
+"audio/w-tactischer.mp3": {
+"text": "tactischer",
+"voice": "w"
+},
+"audio/s2172.mp3": {
+"text": "Ik had dat tactischer kunnen zeggen.",
+"voice": "m"
+},
+"audio/w-verdergaan.mp3": {
+"text": "verdergaan",
+"voice": "w"
+},
+"audio/s2173.mp3": {
+"text": "Ik stel voor dat we het vergeten en verdergaan.",
+"voice": "f"
+},
+"audio/w-lucht.mp3": {
+"text": "lucht",
+"voice": "w"
+},
+"audio/w-geklaard.mp3": {
+"text": "geklaard",
+"voice": "w"
+},
+"audio/s2174.mp3": {
+"text": "De lucht is geklaard.",
+"voice": "m"
+},
+"audio/w-groeit.mp3": {
+"text": "groeit",
+"voice": "w"
+},
+"audio/s2175.mp3": {
+"text": "De economie groeit langzaam.",
+"voice": "f"
+},
+"audio/w-inflatie.mp3": {
+"text": "inflatie",
+"voice": "w"
+},
+"audio/s2176.mp3": {
+"text": "De inflatie is dit jaar hoog.",
+"voice": "m"
+},
+"audio/w-werkloosheid.mp3": {
+"text": "werkloosheid",
+"voice": "w"
+},
+"audio/w-gedaald.mp3": {
+"text": "gedaald",
+"voice": "w"
+},
+"audio/s2177.mp3": {
+"text": "De werkloosheid is gedaald.",
+"voice": "f"
+},
+"audio/w-bedrijven.mp3": {
+"text": "bedrijven",
+"voice": "w"
+},
+"audio/w-personeel.mp3": {
+"text": "personeel",
+"voice": "w"
+},
+"audio/s2178.mp3": {
+"text": "Veel bedrijven hebben moeite om personeel te vinden.",
+"voice": "m"
+},
+"audio/w-rente.mp3": {
+"text": "rente",
+"voice": "w"
+},
+"audio/s2179.mp3": {
+"text": "De rente is gestegen.",
+"voice": "f"
+},
+"audio/s2180.mp3": {
+"text": "Boodschappen zijn veel duurder geworden.",
+"voice": "m"
+},
+"audio/w-koopkracht.mp3": {
+"text": "koopkracht",
+"voice": "w"
+},
+"audio/w-gezinnen.mp3": {
+"text": "gezinnen",
+"voice": "w"
+},
+"audio/s2181.mp3": {
+"text": "De koopkracht van gezinnen staat onder druk.",
+"voice": "f"
+},
+"audio/w-exporteert.mp3": {
+"text": "exporteert",
+"voice": "w"
+},
+"audio/w-landbouwproducten.mp3": {
+"text": "landbouwproducten",
+"voice": "w"
+},
+"audio/s2182.mp3": {
+"text": "Nederland exporteert veel landbouwproducten.",
+"voice": "m"
+},
+"audio/w-haven.mp3": {
+"text": "haven",
+"voice": "w"
+},
+"audio/w-europa.mp3": {
+"text": "Europa",
+"voice": "w"
+},
+"audio/s2183.mp3": {
+"text": "De haven van Rotterdam is de grootste van Europa.",
+"voice": "f"
+},
+"audio/w-bezuinigd.mp3": {
+"text": "bezuinigd",
+"voice": "w"
+},
+"audio/s2184.mp3": {
+"text": "Er wordt bezuinigd op de zorg.",
+"voice": "m"
+},
+"audio/w-investeert.mp3": {
+"text": "investeert",
+"voice": "w"
+},
+"audio/w-duurzame.mp3": {
+"text": "duurzame",
+"voice": "w"
+},
+"audio/s2185.mp3": {
+"text": "De overheid investeert in duurzame energie.",
+"voice": "f"
+},
+"audio/w-minimumloon.mp3": {
+"text": "minimumloon",
+"voice": "w"
+},
+"audio/w-omhoog.mp3": {
+"text": "omhoog",
+"voice": "w"
+},
+"audio/s2186.mp3": {
+"text": "Het minimumloon gaat omhoog.",
+"voice": "m"
+},
+"audio/w-zorgkosten.mp3": {
+"text": "zorgkosten",
+"voice": "w"
+},
+"audio/w-ieder.mp3": {
+"text": "ieder",
+"voice": "w"
+},
+"audio/s2187.mp3": {
+"text": "De zorgkosten stijgen ieder jaar.",
+"voice": "f"
+},
+"audio/s2188.mp3": {
+"text": "Iedereen in Nederland moet een zorgverzekering hebben.",
+"voice": "m"
+},
+"audio/s2189.mp3": {
+"text": "Het eigen risico is te hoog voor veel mensen.",
+"voice": "f"
+},
+"audio/w-tekort.mp3": {
+"text": "tekort",
+"voice": "w"
+},
+"audio/w-verpleegkundigen.mp3": {
+"text": "verpleegkundigen",
+"voice": "w"
+},
+"audio/s2190.mp3": {
+"text": "Er is een tekort aan verpleegkundigen.",
+"voice": "m"
+},
+"audio/w-wachtlijsten.mp3": {
+"text": "wachtlijsten",
+"voice": "w"
+},
+"audio/w-ggz.mp3": {
+"text": "ggz",
+"voice": "w"
+},
+"audio/s2191.mp3": {
+"text": "De wachtlijsten in de ggz zijn lang.",
+"voice": "f"
+},
+"audio/w-preventie.mp3": {
+"text": "Preventie",
+"voice": "w"
+},
+"audio/w-genezen.mp3": {
+"text": "genezen",
+"voice": "w"
+},
+"audio/s2192.mp3": {
+"text": "Preventie is beter dan genezen.",
+"voice": "m"
+},
+"audio/w-ouderen.mp3": {
+"text": "Ouderen",
+"voice": "w"
+},
+"audio/s2193.mp3": {
+"text": "Ouderen willen langer thuis blijven wonen.",
+"voice": "f"
+},
+"audio/w-mantelzorgers.mp3": {
+"text": "Mantelzorgers",
+"voice": "w"
+},
+"audio/w-verdienen.mp3": {
+"text": "verdienen",
+"voice": "w"
+},
+"audio/s2194.mp3": {
+"text": "Mantelzorgers verdienen meer steun.",
+"voice": "m"
+},
+"audio/w-patient.mp3": {
+"text": "patiënt",
+"voice": "w"
+},
+"audio/s2195.mp3": {
+"text": "De huisarts heeft steeds minder tijd per patiënt.",
+"voice": "f"
+},
+"audio/w-toegankelijk.mp3": {
+"text": "toegankelijk",
+"voice": "w"
+},
+"audio/s2196.mp3": {
+"text": "Zorg moet voor iedereen toegankelijk blijven.",
+"voice": "m"
+},
+"audio/w-vergrijzing.mp3": {
+"text": "vergrijzing",
+"voice": "w"
+},
+"audio/s2197.mp3": {
+"text": "De vergrijzing zet de zorg onder druk.",
+"voice": "f"
+},
+"audio/w-digitale.mp3": {
+"text": "Digitale",
+"voice": "w"
+},
+"audio/w-deel.mp3": {
+"text": "deel",
+"voice": "w"
+},
+"audio/w-oplossing.mp3": {
+"text": "oplossing",
+"voice": "w"
+},
+"audio/s2198.mp3": {
+"text": "Digitale zorg kan een deel van de oplossing zijn.",
+"voice": "m"
+},
+"audio/w-lerarentekort.mp3": {
+"text": "lerarentekort",
+"voice": "w"
+},
+"audio/s2199.mp3": {
+"text": "Het lerarentekort is een groot probleem.",
+"voice": "f"
+},
+"audio/s2200.mp3": {
+"text": "Kinderen lezen steeds minder.",
+"voice": "m"
+},
+"audio/w-kansengelijkheid.mp3": {
+"text": "Kansengelijkheid",
+"voice": "w"
+},
+"audio/w-onderwijs.mp3": {
+"text": "onderwijs",
+"voice": "w"
+},
+"audio/s2201.mp3": {
+"text": "Kansengelijkheid in het onderwijs is belangrijk.",
+"voice": "f"
+},
+"audio/w-schooladvies.mp3": {
+"text": "schooladvies",
+"voice": "w"
+},
+"audio/w-bepaalt.mp3": {
+"text": "bepaalt",
+"voice": "w"
+},
+"audio/w-toekomst.mp3": {
+"text": "toekomst",
+"voice": "w"
+},
+"audio/s2202.mp3": {
+"text": "Het schooladvies bepaalt veel voor de toekomst.",
+"voice": "m"
+},
+"audio/w-sommige.mp3": {
+"text": "Sommige",
+"voice": "w"
+},
+"audio/w-advies.mp3": {
+"text": "advies",
+"voice": "w"
+},
+"audio/s2203.mp3": {
+"text": "Sommige kinderen krijgen een te laag advies.",
+"voice": "f"
+},
+"audio/w-rol.mp3": {
+"text": "rol",
+"voice": "w"
+},
+"audio/s2204.mp3": {
+"text": "Ouders spelen een grote rol.",
+"voice": "m"
+},
+"audio/w-telefoons.mp3": {
+"text": "Telefoons",
+"voice": "w"
+},
+"audio/w-klassen.mp3": {
+"text": "klassen",
+"voice": "w"
+},
+"audio/s2205.mp3": {
+"text": "Telefoons zijn in veel klassen verboden.",
+"voice": "f"
+},
+"audio/w-collegegeld.mp3": {
+"text": "collegegeld",
+"voice": "w"
+},
+"audio/s2206.mp3": {
+"text": "Het collegegeld is voor veel studenten te hoog.",
+"voice": "m"
+},
+"audio/s2207.mp3": {
+"text": "Een leven lang leren wordt steeds belangrijker.",
+"voice": "f"
+},
+"audio/w-leraren.mp3": {
+"text": "Leraren",
+"voice": "w"
+},
+"audio/w-waardering.mp3": {
+"text": "waardering",
+"voice": "w"
+},
+"audio/s2208.mp3": {
+"text": "Leraren verdienen meer waardering.",
+"voice": "m"
+},
+"audio/w-taalachterstand.mp3": {
+"text": "Taalachterstand",
+"voice": "w"
+},
+"audio/w-aangepakt.mp3": {
+"text": "aangepakt",
+"voice": "w"
+},
+"audio/s2209.mp3": {
+"text": "Taalachterstand moet vroeg worden aangepakt.",
+"voice": "f"
+},
+"audio/w-praktisch.mp3": {
+"text": "Praktisch",
+"voice": "w"
+},
+"audio/s2210.mp3": {
+"text": "Praktisch opgeleide mensen zijn hard nodig.",
+"voice": "m"
+},
+"audio/w-betaalbare.mp3": {
+"text": "betaalbare",
+"voice": "w"
+},
+"audio/w-woningen.mp3": {
+"text": "woningen",
+"voice": "w"
+},
+"audio/s2211.mp3": {
+"text": "Er is een groot tekort aan betaalbare woningen.",
+"voice": "f"
+},
+"audio/w-starters.mp3": {
+"text": "Starters",
+"voice": "w"
+},
+"audio/w-nauwelijks.mp3": {
+"text": "nauwelijks",
+"voice": "w"
+},
+"audio/s2212.mp3": {
+"text": "Starters kunnen nauwelijks een huis kopen.",
+"voice": "m"
+},
+"audio/w-huren.mp3": {
+"text": "huren",
+"voice": "w"
+},
+"audio/w-randstad.mp3": {
+"text": "Randstad",
+"voice": "w"
+},
+"audio/w-torenhoog.mp3": {
+"text": "torenhoog",
+"voice": "w"
+},
+"audio/s2213.mp3": {
+"text": "De huren in de Randstad zijn torenhoog.",
+"voice": "f"
+},
+"audio/w-ingeschreven.mp3": {
+"text": "ingeschreven",
+"voice": "w"
+},
+"audio/w-huurwoning.mp3": {
+"text": "huurwoning",
+"voice": "w"
+},
+"audio/s2214.mp3": {
+"text": "Ik sta al acht jaar ingeschreven voor een sociale huurwoning.",
+"voice": "m"
+},
+"audio/w-noodgedwongen.mp3": {
+"text": "noodgedwongen",
+"voice": "w"
+},
+"audio/s2215.mp3": {
+"text": "Veel jongeren wonen noodgedwongen nog thuis.",
+"voice": "f"
+},
+"audio/s2216.mp3": {
+"text": "Er moeten meer woningen gebouwd worden.",
+"voice": "m"
+},
+"audio/w-huisjesmelkers.mp3": {
+"text": "Huisjesmelkers",
+"voice": "w"
+},
+"audio/s2217.mp3": {
+"text": "Huisjesmelkers vragen veel te veel huur.",
+"voice": "f"
+},
+"audio/w-pakt.mp3": {
+"text": "pakt",
+"voice": "w"
+},
+"audio/w-leegstand.mp3": {
+"text": "leegstand",
+"voice": "w"
+},
+"audio/s2218.mp3": {
+"text": "De gemeente pakt leegstand aan.",
+"voice": "m"
+},
+"audio/w-schaars.mp3": {
+"text": "schaars",
+"voice": "w"
+},
+"audio/s2219.mp3": {
+"text": "Kamers voor studenten zijn schaars.",
+"voice": "f"
+},
+"audio/w-woning.mp3": {
+"text": "woning",
+"voice": "w"
+},
+"audio/w-loting.mp3": {
+"text": "loting",
+"voice": "w"
+},
+"audio/s2220.mp3": {
+"text": "Wij hebben de woning via loting gekregen.",
+"voice": "m"
+},
+"audio/w-bouwen.mp3": {
+"text": "bouwen",
+"voice": "w"
+},
+"audio/w-procedures.mp3": {
+"text": "procedures",
+"voice": "w"
+},
+"audio/s2221.mp3": {
+"text": "Het bouwen gaat te langzaam door regels en procedures.",
+"voice": "f"
+},
+"audio/w-tijdelijke.mp3": {
+"text": "Tijdelijke",
+"voice": "w"
+},
+"audio/w-uitkomst.mp3": {
+"text": "uitkomst",
+"voice": "w"
+},
+"audio/w-bieden.mp3": {
+"text": "bieden",
+"voice": "w"
+},
+"audio/s2222.mp3": {
+"text": "Tijdelijke woningen kunnen een uitkomst bieden.",
+"voice": "m"
+},
+"audio/w-culturen.mp3": {
+"text": "culturen",
+"voice": "w"
+},
+"audio/s2223.mp3": {
+"text": "Nederland is een land met veel culturen.",
+"voice": "f"
+},
+"audio/s2224.mp3": {
+"text": "Ik ben twaalf jaar geleden naar Nederland gekomen.",
+"voice": "m"
+},
+"audio/w-pittig.mp3": {
+"text": "pittig",
+"voice": "w"
+},
+"audio/s2225.mp3": {
+"text": "Het inburgeringsexamen was best pittig.",
+"voice": "f"
+},
+"audio/s2226.mp3": {
+"text": "Ik voel me hier inmiddels thuis.",
+"voice": "m"
+},
+"audio/s2227.mp3": {
+"text": "Soms mis ik mijn familie in Iran.",
+"voice": "f"
+},
+"audio/s2228.mp3": {
+"text": "Ik heb twee culturen in me.",
+"voice": "m"
+},
+"audio/w-discriminatie.mp3": {
+"text": "Discriminatie",
+"voice": "w"
+},
+"audio/w-arbeidsmarkt.mp3": {
+"text": "arbeidsmarkt",
+"voice": "w"
+},
+"audio/s2229.mp3": {
+"text": "Discriminatie op de arbeidsmarkt komt helaas nog voor.",
+"voice": "f"
+},
+"audio/w-diversiteit.mp3": {
+"text": "Diversiteit",
+"voice": "w"
+},
+"audio/w-sterker.mp3": {
+"text": "sterker",
+"voice": "w"
+},
+"audio/s2230.mp3": {
+"text": "Diversiteit maakt een team sterker.",
+"voice": "m"
+},
+"audio/w-integratie.mp3": {
+"text": "integratie",
+"voice": "w"
+},
+"audio/s2231.mp3": {
+"text": "Taal is de sleutel tot integratie.",
+"voice": "f"
+},
+"audio/w-tweetalig.mp3": {
+"text": "tweetalig",
+"voice": "w"
+},
+"audio/w-opgevoed.mp3": {
+"text": "opgevoed",
+"voice": "w"
+},
+"audio/s2232.mp3": {
+"text": "Mijn kinderen zijn tweetalig opgevoed.",
+"voice": "m"
+},
+"audio/s2233.mp3": {
+"text": "Ik ben trots op waar ik vandaan kom.",
+"voice": "f"
+},
+"audio/w-verdient.mp3": {
+"text": "verdient",
+"voice": "w"
+},
+"audio/w-eerlijke.mp3": {
+"text": "eerlijke",
+"voice": "w"
+},
+"audio/s2234.mp3": {
+"text": "Iedereen verdient een eerlijke kans.",
+"voice": "m"
+},
+"audio/w-zuiniger.mp3": {
+"text": "zuiniger",
+"voice": "w"
+},
+"audio/w-omgaan.mp3": {
+"text": "omgaan",
+"voice": "w"
+},
+"audio/s2235.mp3": {
+"text": "We moeten zuiniger omgaan met energie.",
+"voice": "f"
+},
+"audio/s2236.mp3": {
+"text": "Ik heb zonnepanelen op mijn dak laten leggen.",
+"voice": "m"
+},
+"audio/w-klimaatverandering.mp3": {
+"text": "klimaatverandering",
+"voice": "w"
+},
+"audio/s2237.mp3": {
+"text": "De zeespiegel stijgt door klimaatverandering.",
+"voice": "f"
+},
+"audio/s2238.mp3": {
+"text": "Dijken beschermen ons tegen het water.",
+"voice": "m"
+},
+"audio/s2239.mp3": {
+"text": "Ik probeer minder vlees te eten.",
+"voice": "f"
+},
+"audio/w-belandt.mp3": {
+"text": "belandt",
+"voice": "w"
+},
+"audio/s2240.mp3": {
+"text": "Plastic afval belandt vaak in zee.",
+"voice": "m"
+},
+"audio/s2241.mp3": {
+"text": "Tweedehands kopen is beter voor het milieu.",
+"voice": "f"
+},
+"audio/w-vervangen.mp3": {
+"text": "vervangen",
+"voice": "w"
+},
+"audio/w-elektriciteit.mp3": {
+"text": "elektriciteit",
+"voice": "w"
+},
+"audio/s2242.mp3": {
+"text": "Het gas wordt steeds meer vervangen door elektriciteit.",
+"voice": "m"
+},
+"audio/w-warmtepomp.mp3": {
+"text": "warmtepomp",
+"voice": "w"
+},
+"audio/s2243.mp3": {
+"text": "Een warmtepomp is duur maar duurzaam.",
+"voice": "f"
+},
+"audio/w-iedere.mp3": {
+"text": "Iedere",
+"voice": "w"
+},
+"audio/w-stap.mp3": {
+"text": "stap",
+"voice": "w"
+},
+"audio/w-telt.mp3": {
+"text": "telt",
+"voice": "w"
+},
+"audio/s2244.mp3": {
+"text": "Iedere kleine stap telt.",
+"voice": "m"
+},
+"audio/w-vervuilers.mp3": {
+"text": "vervuilers",
+"voice": "w"
+},
+"audio/w-harder.mp3": {
+"text": "harder",
+"voice": "w"
+},
+"audio/s2245.mp3": {
+"text": "De overheid moet vervuilers harder aanpakken.",
+"voice": "f"
+},
+"audio/w-klimaatprobleem.mp3": {
+"text": "klimaatprobleem",
+"voice": "w"
+},
+"audio/w-genegeerd.mp3": {
+"text": "genegeerd",
+"voice": "w"
+},
+"audio/s2246.mp3": {
+"text": "Het klimaatprobleem kan niet worden genegeerd.",
+"voice": "m"
+},
+"audio/w-privacy.mp3": {
+"text": "privacy",
+"voice": "w"
+},
+"audio/s2247.mp3": {
+"text": "Ik maak me zorgen over mijn privacy.",
+"voice": "f"
+},
+"audio/w-apps.mp3": {
+"text": "Apps",
+"voice": "w"
+},
+"audio/w-verzamelen.mp3": {
+"text": "verzamelen",
+"voice": "w"
+},
+"audio/w-persoonlijke.mp3": {
+"text": "persoonlijke",
+"voice": "w"
+},
+"audio/s2248.mp3": {
+"text": "Apps verzamelen veel persoonlijke gegevens.",
+"voice": "m"
+},
+"audio/w-voorwaarden.mp3": {
+"text": "voorwaarden",
+"voice": "w"
+},
+"audio/w-akkoord.mp3": {
+"text": "akkoord",
+"voice": "w"
+},
+"audio/s2249.mp3": {
+"text": "Lees altijd de voorwaarden voordat je akkoord gaat.",
+"voice": "f"
+},
+"audio/w-elk.mp3": {
+"text": "elk",
+"voice": "w"
+},
+"audio/w-account.mp3": {
+"text": "account",
+"voice": "w"
+},
+"audio/w-ander.mp3": {
+"text": "ander",
+"voice": "w"
+},
+"audio/s2250.mp3": {
+"text": "Gebruik voor elk account een ander wachtwoord.",
+"voice": "m"
+},
+"audio/w-slachtoffer.mp3": {
+"text": "slachtoffer",
+"voice": "w"
+},
+"audio/w-phishing.mp3": {
+"text": "phishing",
+"voice": "w"
+},
+"audio/s2251.mp3": {
+"text": "Ik ben slachtoffer geworden van phishing.",
+"voice": "f"
+},
+"audio/w-klik.mp3": {
+"text": "Klik",
+"voice": "w"
+},
+"audio/w-verdachte.mp3": {
+"text": "verdachte",
+"voice": "w"
+},
+"audio/s2252.mp3": {
+"text": "Klik nooit op verdachte links.",
+"voice": "m"
+},
+"audio/w-chatbots.mp3": {
+"text": "Chatbots",
+"voice": "w"
+},
+"audio/w-betrouwbare.mp3": {
+"text": "betrouwbare",
+"voice": "w"
+},
+"audio/w-antwoorden.mp3": {
+"text": "antwoorden",
+"voice": "w"
+},
+"audio/s2253.mp3": {
+"text": "Chatbots geven niet altijd betrouwbare antwoorden.",
+"voice": "f"
+},
+"audio/s2254.mp3": {
+"text": "Ik zit te veel op mijn telefoon.",
+"voice": "m"
+},
+"audio/w-internetten.mp3": {
+"text": "internetten",
+"voice": "w"
+},
+"audio/s2255.mp3": {
+"text": "Kinderen moeten leren veilig te internetten.",
+"voice": "f"
+},
+"audio/w-camera-s.mp3": {
+"text": "Camera's",
+"voice": "w"
+},
+"audio/w-roepen.mp3": {
+"text": "roepen",
+"voice": "w"
+},
+"audio/w-discussie.mp3": {
+"text": "discussie",
+"voice": "w"
+},
+"audio/s2256.mp3": {
+"text": "Camera's op straat roepen discussie op.",
+"voice": "m"
+},
+"audio/w-gedeeld.mp3": {
+"text": "gedeeld",
+"voice": "w"
+},
+"audio/s2257.mp3": {
+"text": "Je gegevens worden zonder toestemming gedeeld.",
+"voice": "f"
+},
+"audio/w-tweestapsverificatie.mp3": {
+"text": "Tweestapsverificatie",
+"voice": "w"
+},
+"audio/s2258.mp3": {
+"text": "Tweestapsverificatie maakt je account veiliger.",
+"voice": "m"
+},
+"audio/s2259.mp3": {
+"text": "Niet alles wat je online leest, is waar.",
+"voice": "f"
+},
+"audio/w-controleer.mp3": {
+"text": "Controleer",
+"voice": "w"
+},
+"audio/w-bron.mp3": {
+"text": "bron",
+"voice": "w"
+},
+"audio/s2260.mp3": {
+"text": "Controleer altijd de bron.",
+"voice": "m"
+},
+"audio/w-aantoonbaar.mp3": {
+"text": "aantoonbaar",
+"voice": "w"
+},
+"audio/w-onjuist.mp3": {
+"text": "onjuist",
+"voice": "w"
+},
+"audio/s2261.mp3": {
+"text": "Dit bericht is aantoonbaar onjuist.",
+"voice": "f"
+},
+"audio/w-nepnieuws.mp3": {
+"text": "Nepnieuws",
+"voice": "w"
+},
+"audio/w-verspreidt.mp3": {
+"text": "verspreidt",
+"voice": "w"
+},
+"audio/w-razendsnel.mp3": {
+"text": "razendsnel",
+"voice": "w"
+},
+"audio/s2262.mp3": {
+"text": "Nepnieuws verspreidt zich razendsnel.",
+"voice": "m"
+},
+"audio/w-kop.mp3": {
+"text": "kop",
+"voice": "w"
+},
+"audio/w-misleidend.mp3": {
+"text": "misleidend",
+"voice": "w"
+},
+"audio/s2263.mp3": {
+"text": "De kop is erg misleidend.",
+"voice": "f"
+},
+"audio/w-journalisten.mp3": {
+"text": "Journalisten",
+"voice": "w"
+},
+"audio/w-onafhankelijk.mp3": {
+"text": "onafhankelijk",
+"voice": "w"
+},
+"audio/s2264.mp3": {
+"text": "Journalisten moeten onafhankelijk blijven.",
+"voice": "m"
+},
+"audio/w-persvrijheid.mp3": {
+"text": "Persvrijheid",
+"voice": "w"
+},
+"audio/s2265.mp3": {
+"text": "Persvrijheid is een groot goed.",
+"voice": "f"
+},
+"audio/w-nos.mp3": {
+"text": "NOS",
+"voice": "w"
+},
+"audio/s2266.mp3": {
+"text": "Ik volg het nieuws via de NOS.",
+"voice": "m"
+},
+"audio/w-verband.mp3": {
+"text": "verband",
+"voice": "w"
+},
+"audio/w-gerukt.mp3": {
+"text": "gerukt",
+"voice": "w"
+},
+"audio/s2267.mp3": {
+"text": "Deze foto is uit zijn verband gerukt.",
+"voice": "f"
+},
+"audio/w-algoritmes.mp3": {
+"text": "Algoritmes",
+"voice": "w"
+},
+"audio/w-vooral.mp3": {
+"text": "vooral",
+"voice": "w"
+},
+"audio/s2268.mp3": {
+"text": "Algoritmes laten ons vooral zien wat we al vinden.",
+"voice": "m"
+},
+"audio/w-gecheckt.mp3": {
+"text": "gecheckt",
+"voice": "w"
+},
+"audio/s2269.mp3": {
+"text": "Ik deel niets voordat ik het heb gecheckt.",
+"voice": "f"
+},
+"audio/w-ingewijden.mp3": {
+"text": "ingewijden",
+"voice": "w"
+},
+"audio/w-bevestigd.mp3": {
+"text": "bevestigd",
+"voice": "w"
+},
+"audio/s2270.mp3": {
+"text": "Volgens ingewijden is het nieuws nog niet bevestigd.",
+"voice": "m"
+},
+"audio/w-geheugen.mp3": {
+"text": "geheugen",
+"voice": "w"
+},
+"audio/s2271.mp3": {
+"text": "Uit onderzoek blijkt dat slaap belangrijk is voor het geheugen.",
+"voice": "f"
+},
+"audio/w-onderzoekers.mp3": {
+"text": "onderzoekers",
+"voice": "w"
+},
+"audio/w-duizend.mp3": {
+"text": "duizend",
+"voice": "w"
+},
+"audio/w-gevolgd.mp3": {
+"text": "gevolgd",
+"voice": "w"
+},
+"audio/s2272.mp3": {
+"text": "De onderzoekers hebben duizend mensen gevolgd.",
+"voice": "m"
+},
+"audio/w-veelbelovend.mp3": {
+"text": "veelbelovend",
+"voice": "w"
+},
+"audio/s2273.mp3": {
+"text": "De resultaten zijn veelbelovend.",
+"voice": "f"
+},
+"audio/s2274.mp3": {
+"text": "Er is meer onderzoek nodig.",
+"voice": "m"
+},
+"audio/w-correlatie.mp3": {
+"text": "Correlatie",
+"voice": "w"
+},
+"audio/s2275.mp3": {
+"text": "Correlatie is geen oorzaak.",
+"voice": "f"
+},
+"audio/w-experiment.mp3": {
+"text": "experiment",
+"voice": "w"
+},
+"audio/w-keren.mp3": {
+"text": "keren",
+"voice": "w"
+},
+"audio/w-herhaald.mp3": {
+"text": "herhaald",
+"voice": "w"
+},
+"audio/s2276.mp3": {
+"text": "Het experiment is meerdere keren herhaald.",
+"voice": "m"
+},
+"audio/w-gepubliceerd.mp3": {
+"text": "gepubliceerd",
+"voice": "w"
+},
+"audio/w-tijdschrift.mp3": {
+"text": "tijdschrift",
+"voice": "w"
+},
+"audio/s2277.mp3": {
+"text": "De studie is gepubliceerd in een bekend tijdschrift.",
+"voice": "f"
+},
+"audio/w-wetenschappers.mp3": {
+"text": "Wetenschappers",
+"voice": "w"
+},
+"audio/s2278.mp3": {
+"text": "Wetenschappers zijn het hier niet over eens.",
+"voice": "m"
+},
+"audio/w-vaccin.mp3": {
+"text": "vaccin",
+"voice": "w"
+},
+"audio/w-grondig.mp3": {
+"text": "grondig",
+"voice": "w"
+},
+"audio/w-getest.mp3": {
+"text": "getest",
+"voice": "w"
+},
+"audio/s2279.mp3": {
+"text": "Het vaccin is grondig getest.",
+"voice": "f"
+},
+"audio/w-ontdekking.mp3": {
+"text": "ontdekking",
+"voice": "w"
+},
+"audio/w-levens.mp3": {
+"text": "levens",
+"voice": "w"
+},
+"audio/w-redden.mp3": {
+"text": "redden",
+"voice": "w"
+},
+"audio/s2280.mp3": {
+"text": "Deze ontdekking kan levens redden.",
+"voice": "m"
+},
+"audio/w-steekproef.mp3": {
+"text": "steekproef",
+"voice": "w"
+},
+"audio/s2281.mp3": {
+"text": "De steekproef was te klein.",
+"voice": "f"
+},
+"audio/w-basis.mp3": {
+"text": "basis",
+"voice": "w"
+},
+"audio/w-concluderen.mp3": {
+"text": "concluderen",
+"voice": "w"
+},
+"audio/s2282.mp3": {
+"text": "Op basis van deze gegevens kunnen we niets concluderen.",
+"voice": "m"
+},
+"audio/w-voorstelling.mp3": {
+"text": "voorstelling",
+"voice": "w"
+},
+"audio/w-diep.mp3": {
+"text": "diep",
+"voice": "w"
+},
+"audio/w-geraakt.mp3": {
+"text": "geraakt",
+"voice": "w"
+},
+"audio/s2283.mp3": {
+"text": "De voorstelling heeft me diep geraakt.",
+"voice": "f"
+},
+"audio/w-voorspelbaar.mp3": {
+"text": "voorspelbaar",
+"voice": "w"
+},
+"audio/s2284.mp3": {
+"text": "Het verhaal was voorspelbaar.",
+"voice": "m"
+},
+"audio/w-acteurs.mp3": {
+"text": "acteurs",
+"voice": "w"
+},
+"audio/s2285.mp3": {
+"text": "De acteurs speelden overtuigend.",
+"voice": "f"
+},
+"audio/w-einde.mp3": {
+"text": "einde",
+"voice": "w"
+},
+"audio/s2286.mp3": {
+"text": "Het einde liet veel open.",
+"voice": "m"
+},
+"audio/w-schilder.mp3": {
+"text": "schilder",
+"voice": "w"
+},
+"audio/w-schaduw.mp3": {
+"text": "schaduw",
+"voice": "w"
+},
+"audio/s2287.mp3": {
+"text": "De schilder speelt met licht en schaduw.",
+"voice": "f"
+},
+"audio/w-aanrader.mp3": {
+"text": "aanrader",
+"voice": "w"
+},
+"audio/s2288.mp3": {
+"text": "Dit boek is een aanrader.",
+"voice": "m"
+},
+"audio/w-smaak.mp3": {
+"text": "smaak",
+"voice": "w"
+},
+"audio/s2289.mp3": {
+"text": "De film duurde naar mijn smaak te lang.",
+"voice": "f"
+},
+"audio/w-versterkte.mp3": {
+"text": "versterkte",
+"voice": "w"
+},
+"audio/w-spanning.mp3": {
+"text": "spanning",
+"voice": "w"
+},
+"audio/s2290.mp3": {
+"text": "De muziek versterkte de spanning.",
+"voice": "m"
+},
+"audio/w-indrukwekkende.mp3": {
+"text": "indrukwekkende",
+"voice": "w"
+},
+"audio/w-collectie.mp3": {
+"text": "collectie",
+"voice": "w"
+},
+"audio/s2291.mp3": {
+"text": "Het museum heeft een indrukwekkende collectie.",
+"voice": "f"
+},
+"audio/w-hoofdpersonage.mp3": {
+"text": "hoofdpersonage",
+"voice": "w"
+},
+"audio/w-geloofwaardig.mp3": {
+"text": "geloofwaardig",
+"voice": "w"
+},
+"audio/s2292.mp3": {
+"text": "Ik vond het hoofdpersonage niet geloofwaardig.",
+"voice": "m"
+},
+"audio/w-recensies.mp3": {
+"text": "recensies",
+"voice": "w"
+},
+"audio/w-lovend.mp3": {
+"text": "lovend",
+"voice": "w"
+},
+"audio/s2293.mp3": {
+"text": "De recensies waren lovend.",
+"voice": "f"
+},
+"audio/s2294.mp3": {
+"text": "Kunst zet je aan het denken.",
+"voice": "m"
+},
+"audio/w-gouden.mp3": {
+"text": "Gouden",
+"voice": "w"
+},
+"audio/w-eeuw.mp3": {
+"text": "Eeuw",
+"voice": "w"
+},
+"audio/w-wereldmacht.mp3": {
+"text": "wereldmacht",
+"voice": "w"
+},
+"audio/s2295.mp3": {
+"text": "In de Gouden Eeuw was Nederland een wereldmacht.",
+"voice": "f"
+},
+"audio/w-rembrandt.mp3": {
+"text": "Rembrandt",
+"voice": "w"
+},
+"audio/w-leefde.mp3": {
+"text": "leefde",
+"voice": "w"
+},
+"audio/w-zeventiende.mp3": {
+"text": "zeventiende",
+"voice": "w"
+},
+"audio/s2296.mp3": {
+"text": "Rembrandt leefde in de zeventiende eeuw.",
+"voice": "m"
+},
+"audio/w-voc.mp3": {
+"text": "VOC",
+"voice": "w"
+},
+"audio/w-handelde.mp3": {
+"text": "handelde",
+"voice": "w"
+},
+"audio/w-specerijen.mp3": {
+"text": "specerijen",
+"voice": "w"
+},
+"audio/s2297.mp3": {
+"text": "De VOC handelde in specerijen.",
+"voice": "f"
+},
+"audio/w-koloniale.mp3": {
+"text": "koloniale",
+"voice": "w"
+},
+"audio/w-verleden.mp3": {
+"text": "verleden",
+"voice": "w"
+},
+"audio/w-pijnlijk.mp3": {
+"text": "pijnlijk",
+"voice": "w"
+},
+"audio/s2298.mp3": {
+"text": "Het koloniale verleden is een pijnlijk onderwerp.",
+"voice": "m"
+},
+"audio/w-wereldoorlog.mp3": {
+"text": "Wereldoorlog",
+"voice": "w"
+},
+"audio/w-bezet.mp3": {
+"text": "bezet",
+"voice": "w"
+},
+"audio/s2299.mp3": {
+"text": "Tijdens de Tweede Wereldoorlog werd Nederland bezet.",
+"voice": "f"
+},
+"audio/w-anne.mp3": {
+"text": "Anne",
+"voice": "w"
+},
+"audio/w-frank.mp3": {
+"text": "Frank",
+"voice": "w"
+},
+"audio/w-dagboek.mp3": {
+"text": "dagboek",
+"voice": "w"
+},
+"audio/w-achterhuis.mp3": {
+"text": "achterhuis",
+"voice": "w"
+},
+"audio/s2300.mp3": {
+"text": "Anne Frank schreef haar dagboek in een achterhuis.",
+"voice": "m"
+},
+"audio/w-negentien.mp3": {
+"text": "negentien",
+"voice": "w"
+},
+"audio/w-drieenvijftig.mp3": {
+"text": "drieënvijftig",
+"voice": "w"
+},
+"audio/w-watersnoodramp.mp3": {
+"text": "Watersnoodramp",
+"voice": "w"
+},
+"audio/s2301.mp3": {
+"text": "In negentien drieënvijftig vond de Watersnoodramp plaats.",
+"voice": "f"
+},
+"audio/w-daarna.mp3": {
+"text": "Daarna",
+"voice": "w"
+},
+"audio/w-werden.mp3": {
+"text": "werden",
+"voice": "w"
+},
+"audio/w-deltawerken.mp3": {
+"text": "Deltawerken",
+"voice": "w"
+},
+"audio/s2302.mp3": {
+"text": "Daarna werden de Deltawerken gebouwd.",
+"voice": "m"
+},
+"audio/w-willem.mp3": {
+"text": "Willem",
+"voice": "w"
+},
+"audio/w-des.mp3": {
+"text": "des",
+"voice": "w"
+},
+"audio/w-vaderlands.mp3": {
+"text": "vaderlands",
+"voice": "w"
+},
+"audio/w-genoemd.mp3": {
+"text": "genoemd",
+"voice": "w"
+},
+"audio/s2303.mp3": {
+"text": "Willem van Oranje wordt de vader des vaderlands genoemd.",
+"voice": "f"
+},
+"audio/w-koninkrijk.mp3": {
+"text": "koninkrijk",
+"voice": "w"
+},
+"audio/s2304.mp3": {
+"text": "Nederland werd in achttien vijftien een koninkrijk.",
+"voice": "m"
+},
+"audio/w-geschiedenis.mp3": {
+"text": "geschiedenis",
+"voice": "w"
+},
+"audio/w-verklaart.mp3": {
+"text": "verklaart",
+"voice": "w"
+},
+"audio/s2305.mp3": {
+"text": "De geschiedenis verklaart veel over het heden.",
+"voice": "f"
+},
+"audio/w-bevrijding.mp3": {
+"text": "bevrijding",
+"voice": "w"
+},
+"audio/s2306.mp3": {
+"text": "Op vijf mei vieren we de bevrijding.",
+"voice": "m"
+},
+"audio/w-wet.mp3": {
+"text": "wet",
+"voice": "w"
+},
+"audio/s2307.mp3": {
+"text": "Iedereen is gelijk voor de wet.",
+"voice": "f"
+},
+"audio/w-veroordeeld.mp3": {
+"text": "veroordeeld",
+"voice": "w"
+},
+"audio/w-taakstraf.mp3": {
+"text": "taakstraf",
+"voice": "w"
+},
+"audio/s2308.mp3": {
+"text": "Hij is veroordeeld tot een taakstraf.",
+"voice": "m"
+},
+"audio/w-rechter.mp3": {
+"text": "rechter",
+"voice": "w"
+},
+"audio/s2309.mp3": {
+"text": "De rechter heeft uitspraak gedaan.",
+"voice": "f"
+},
+"audio/s2310.mp3": {
+"text": "Ik heb aangifte gedaan bij de politie.",
+"voice": "m"
+},
+"audio/w-ontkent.mp3": {
+"text": "ontkent",
+"voice": "w"
+},
+"audio/s2311.mp3": {
+"text": "De verdachte ontkent alles.",
+"voice": "f"
+},
+"audio/w-advocaat.mp3": {
+"text": "advocaat",
+"voice": "w"
+},
+"audio/s2312.mp3": {
+"text": "Je hebt recht op een advocaat.",
+"voice": "m"
+},
+"audio/w-vrijgesproken.mp3": {
+"text": "vrijgesproken",
+"voice": "w"
+},
+"audio/w-wegens.mp3": {
+"text": "wegens",
+"voice": "w"
+},
+"audio/w-gebrek.mp3": {
+"text": "gebrek",
+"voice": "w"
+},
+"audio/s2313.mp3": {
+"text": "Hij is vrijgesproken wegens gebrek aan bewijs.",
+"voice": "f"
+},
+"audio/w-beroep.mp3": {
+"text": "beroep",
+"voice": "w"
+},
+"audio/s2314.mp3": {
+"text": "Ze gaat in hoger beroep.",
+"voice": "m"
+},
+"audio/w-wettelijk.mp3": {
+"text": "wettelijk",
+"voice": "w"
+},
+"audio/s2315.mp3": {
+"text": "Dat is wettelijk niet toegestaan.",
+"voice": "f"
+},
+"audio/w-getuige.mp3": {
+"text": "getuige",
+"voice": "w"
+},
+"audio/w-verklaring.mp3": {
+"text": "verklaring",
+"voice": "w"
+},
+"audio/w-afgelegd.mp3": {
+"text": "afgelegd",
+"voice": "w"
+},
+"audio/s2316.mp3": {
+"text": "De getuige heeft een verklaring afgelegd.",
+"voice": "m"
+},
+"audio/w-juridisch.mp3": {
+"text": "juridisch",
+"voice": "w"
+},
+"audio/w-geeft.mp3": {
+"text": "geeft",
+"voice": "w"
+},
+"audio/s2317.mp3": {
+"text": "Het juridisch loket geeft gratis advies.",
+"voice": "f"
+},
+"audio/w-zaak.mp3": {
+"text": "zaak",
+"voice": "w"
+},
+"audio/w-dient.mp3": {
+"text": "dient",
+"voice": "w"
+},
+"audio/s2318.mp3": {
+"text": "De zaak dient volgende maand.",
+"voice": "m"
+},
+"audio/w-voedselbank.mp3": {
+"text": "voedselbank",
+"voice": "w"
+},
+"audio/s2319.mp3": {
+"text": "Ik doe vrijwilligerswerk bij de voedselbank.",
+"voice": "f"
+},
+"audio/w-voldoening.mp3": {
+"text": "voldoening",
+"voice": "w"
+},
+"audio/s2320.mp3": {
+"text": "Het geeft me voldoening om anderen te helpen.",
+"voice": "m"
+},
+"audio/w-afhankelijk.mp3": {
+"text": "afhankelijk",
+"voice": "w"
+},
+"audio/s2321.mp3": {
+"text": "Steeds meer gezinnen zijn afhankelijk van hulp.",
+"voice": "f"
+},
+"audio/s2322.mp3": {
+"text": "Ik zet me in voor mijn buurt.",
+"voice": "m"
+},
+"audio/w-eenzaamheid.mp3": {
+"text": "Eenzaamheid",
+"voice": "w"
+},
+"audio/s2323.mp3": {
+"text": "Eenzaamheid onder ouderen is een groot probleem.",
+"voice": "f"
+},
+"audio/w-oudere.mp3": {
+"text": "oudere",
+"voice": "w"
+},
+"audio/w-dame.mp3": {
+"text": "dame",
+"voice": "w"
+},
+"audio/s2324.mp3": {
+"text": "Ik bezoek elke week een oudere dame.",
+"voice": "m"
+},
+"audio/s2325.mp3": {
+"text": "Mensen helpen elkaar hier nog.",
+"voice": "f"
+},
+"audio/w-ingezameld.mp3": {
+"text": "ingezameld",
+"voice": "w"
+},
+"audio/w-doel.mp3": {
+"text": "doel",
+"voice": "w"
+},
+"audio/s2326.mp3": {
+"text": "We hebben geld ingezameld voor een goed doel.",
+"voice": "m"
+},
+"audio/s2327.mp3": {
+"text": "Samen staan we sterker.",
+"voice": "f"
+},
+"audio/w-steentje.mp3": {
+"text": "steentje",
+"voice": "w"
+},
+"audio/w-bijdragen.mp3": {
+"text": "bijdragen",
+"voice": "w"
+},
+"audio/s2328.mp3": {
+"text": "Iedereen kan een steentje bijdragen.",
+"voice": "m"
+},
+"audio/w-buurthuis.mp3": {
+"text": "buurthuis",
+"voice": "w"
+},
+"audio/w-organiseert.mp3": {
+"text": "organiseert",
+"voice": "w"
+},
+"audio/w-taalcafes.mp3": {
+"text": "taalcafés",
+"voice": "w"
+},
+"audio/s2329.mp3": {
+"text": "Het buurthuis organiseert taalcafés.",
+"voice": "f"
+},
+"audio/w-vrijwilligers.mp3": {
+"text": "Vrijwilligers",
+"voice": "w"
+},
+"audio/w-onmisbaar.mp3": {
+"text": "onmisbaar",
+"voice": "w"
+},
+"audio/s2330.mp3": {
+"text": "Vrijwilligers zijn onmisbaar voor de samenleving.",
+"voice": "m"
+},
+"audio/w-tijdje.mp3": {
+"text": "tijdje",
+"voice": "w"
+},
+"audio/w-vel.mp3": {
+"text": "vel",
+"voice": "w"
+},
+"audio/s2331.mp3": {
+"text": "Ik zit al een tijdje niet lekker in mijn vel.",
+"voice": "f"
+},
+"audio/w-concentreren.mp3": {
+"text": "concentreren",
+"voice": "w"
+},
+"audio/s2332.mp3": {
+"text": "Ik kan me slecht concentreren.",
+"voice": "m"
+},
+"audio/w-werkdruk.mp3": {
+"text": "werkdruk",
+"voice": "w"
+},
+"audio/s2333.mp3": {
+"text": "De werkdruk is veel te hoog.",
+"voice": "f"
+},
+"audio/w-wakker.mp3": {
+"text": "wakker",
+"voice": "w"
+},
+"audio/s2334.mp3": {
+"text": "Ik slaap slecht en word moe wakker.",
+"voice": "m"
+},
+"audio/w-denkt.mp3": {
+"text": "denkt",
+"voice": "w"
+},
+"audio/w-burn-out.mp3": {
+"text": "burn-out",
+"voice": "w"
+},
+"audio/s2335.mp3": {
+"text": "De huisarts denkt dat ik een burn-out heb.",
+"voice": "f"
+},
+"audio/w-gemeld.mp3": {
+"text": "gemeld",
+"voice": "w"
+},
+"audio/s2336.mp3": {
+"text": "Ik heb me ziek gemeld.",
+"voice": "m"
+},
+"audio/w-grenzen.mp3": {
+"text": "grenzen",
+"voice": "w"
+},
+"audio/s2337.mp3": {
+"text": "Ik moet leren mijn grenzen aan te geven.",
+"voice": "f"
+},
+"audio/w-schande.mp3": {
+"text": "schande",
+"voice": "w"
+},
+"audio/s2338.mp3": {
+"text": "Het is geen schande om hulp te zoeken.",
+"voice": "m"
+},
+"audio/w-psycholoog.mp3": {
+"text": "psycholoog",
+"voice": "w"
+},
+"audio/s2339.mp3": {
+"text": "Ik praat elke week met een psycholoog.",
+"voice": "f"
+},
+"audio/w-bouw.mp3": {
+"text": "bouw",
+"voice": "w"
+},
+"audio/s2340.mp3": {
+"text": "Ik bouw mijn werk langzaam weer op.",
+"voice": "m"
+},
+"audio/w-productief.mp3": {
+"text": "productief",
+"voice": "w"
+},
+"audio/s2341.mp3": {
+"text": "Rust nemen is ook productief.",
+"voice": "f"
+},
+"audio/s2342.mp3": {
+"text": "Ik heb geleerd vaker nee te zeggen.",
+"voice": "m"
+},
+"audio/w-gegroeid.mp3": {
+"text": "gegroeid",
+"voice": "w"
+},
+"audio/s2343.mp3": {
+"text": "We zijn uit elkaar gegroeid.",
+"voice": "f"
+},
+"audio/s2344.mp3": {
+"text": "Ik heb het gevoel dat je niet luistert.",
+"voice": "m"
+},
+"audio/s2345.mp3": {
+"text": "We moeten aan onze relatie werken.",
+"voice": "f"
+},
+"audio/w-volledig.mp3": {
+"text": "volledig",
+"voice": "w"
+},
+"audio/s2346.mp3": {
+"text": "Ik vertrouw je volledig.",
+"voice": "m"
+},
+"audio/w-beloftes.mp3": {
+"text": "beloftes",
+"voice": "w"
+},
+"audio/s2347.mp3": {
+"text": "Hij komt zijn beloftes nooit na.",
+"voice": "f"
+},
+"audio/w-uitgemaakt.mp3": {
+"text": "uitgemaakt",
+"voice": "w"
+},
+"audio/s2348.mp3": {
+"text": "Ze hebben het uitgemaakt.",
+"voice": "m"
+},
+"audio/s2349.mp3": {
+"text": "We zijn al twintig jaar getrouwd.",
+"voice": "f"
+},
+"audio/w-vriendschap.mp3": {
+"text": "vriendschap",
+"voice": "w"
+},
+"audio/w-onderhouden.mp3": {
+"text": "onderhouden",
+"voice": "w"
+},
+"audio/s2350.mp3": {
+"text": "Een goede vriendschap moet je onderhouden.",
+"voice": "m"
+},
+"audio/s2351.mp3": {
+"text": "Ik kan mezelf zijn bij jou.",
+"voice": "f"
+},
+"audio/w-gesteund.mp3": {
+"text": "gesteund",
+"voice": "w"
+},
+"audio/s2352.mp3": {
+"text": "Ik voel me door jou gesteund.",
+"voice": "m"
+},
+"audio/w-hoort.mp3": {
+"text": "hoort",
+"voice": "w"
+},
+"audio/s2353.mp3": {
+"text": "Ruzie hoort er soms bij.",
+"voice": "f"
+},
+"audio/w-bijgelegd.mp3": {
+"text": "bijgelegd",
+"voice": "w"
+},
+"audio/s2354.mp3": {
+"text": "Na een uur praten hebben we het bijgelegd.",
+"voice": "m"
+},
+"audio/w-formele.mp3": {
+"text": "formele",
+"voice": "w"
+},
+"audio/s2355.mp3": {
+"text": "Hierbij dien ik een formele klacht in.",
+"voice": "f"
+},
+"audio/s2356.mp3": {
+"text": "Mijn bestelling is beschadigd aangekomen.",
+"voice": "m"
+},
+"audio/s2357.mp3": {
+"text": "Ik heb al drie keer gebeld zonder resultaat.",
+"voice": "f"
+},
+"audio/s2358.mp3": {
+"text": "Ik verzoek u het bedrag terug te storten.",
+"voice": "m"
+},
+"audio/w-werkdagen.mp3": {
+"text": "werkdagen",
+"voice": "w"
+},
+"audio/s2359.mp3": {
+"text": "Ik verwacht binnen vijf werkdagen een reactie.",
+"voice": "f"
+},
+"audio/w-afgesproken.mp3": {
+"text": "afgesproken",
+"voice": "w"
+},
+"audio/s2360.mp3": {
+"text": "Dit is niet wat er was afgesproken.",
+"voice": "m"
+},
+"audio/w-ontevreden.mp3": {
+"text": "ontevreden",
+"voice": "w"
+},
+"audio/s2361.mp3": {
+"text": "Ik ben hier zeer ontevreden over.",
+"voice": "f"
+},
+"audio/w-garantie.mp3": {
+"text": "garantie",
+"voice": "w"
+},
+"audio/w-apparaat.mp3": {
+"text": "apparaat",
+"voice": "w"
+},
+"audio/s2362.mp3": {
+"text": "Volgens de garantie heb ik recht op een nieuw apparaat.",
+"voice": "m"
+},
+"audio/s2363.mp3": {
+"text": "In de bijlage vindt u een kopie van de factuur.",
+"voice": "f"
+},
+"audio/s2364.mp3": {
+"text": "Mocht ik niets van u horen, dan neem ik verdere stappen.",
+"voice": "m"
+},
+"audio/w-leidinggevende.mp3": {
+"text": "leidinggevende",
+"voice": "w"
+},
+"audio/s2365.mp3": {
+"text": "Kunt u mij doorverbinden met een leidinggevende?",
+"voice": "f"
+},
+"audio/s2366.mp3": {
+"text": "Ik waardeer het dat u dit zo snel heeft opgelost.",
+"voice": "m"
+},
+"audio/w-verslag.mp3": {
+"text": "verslag",
+"voice": "w"
+},
+"audio/w-beschrijft.mp3": {
+"text": "beschrijft",
+"voice": "w"
+},
+"audio/s2367.mp3": {
+"text": "Dit verslag beschrijft de resultaten van het project.",
+"voice": "f"
+},
+"audio/w-tweeledig.mp3": {
+"text": "tweeledig",
+"voice": "w"
+},
+"audio/s2368.mp3": {
+"text": "Het doel van dit onderzoek was tweeledig.",
+"voice": "m"
+},
+"audio/w-aanpak.mp3": {
+"text": "aanpak",
+"voice": "w"
+},
+"audio/w-toegelicht.mp3": {
+"text": "toegelicht",
+"voice": "w"
+},
+"audio/s2369.mp3": {
+"text": "Eerst wordt de aanpak toegelicht.",
+"voice": "f"
+},
+"audio/w-cijfers.mp3": {
+"text": "cijfers",
+"voice": "w"
+},
+"audio/w-stijging.mp3": {
+"text": "stijging",
+"voice": "w"
+},
+"audio/s2370.mp3": {
+"text": "Uit de cijfers blijkt een duidelijke stijging.",
+"voice": "m"
+},
+"audio/w-tabel.mp3": {
+"text": "tabel",
+"voice": "w"
+},
+"audio/w-belangrijkste.mp3": {
+"text": "belangrijkste",
+"voice": "w"
+},
+"audio/w-weergegeven.mp3": {
+"text": "weergegeven",
+"voice": "w"
+},
+"audio/s2371.mp3": {
+"text": "In tabel twee zijn de belangrijkste gegevens weergegeven.",
+"voice": "f"
+},
+"audio/s2372.mp3": {
+"text": "Hieruit kunnen we concluderen dat de aanpak werkt.",
+"voice": "m"
+},
+"audio/w-beperking.mp3": {
+"text": "beperking",
+"voice": "w"
+},
+"audio/s2373.mp3": {
+"text": "Een beperking van dit onderzoek is de korte duur.",
+"voice": "f"
+},
+"audio/w-bevelen.mp3": {
+"text": "bevelen",
+"voice": "w"
+},
+"audio/w-voort.mp3": {
+"text": "voort",
+"voice": "w"
+},
+"audio/s2374.mp3": {
+"text": "Wij bevelen aan om het project voort te zetten.",
+"voice": "m"
+},
+"audio/w-gebleken.mp3": {
+"text": "gebleken",
+"voice": "w"
+},
+"audio/w-tevreden.mp3": {
+"text": "tevreden",
+"voice": "w"
+},
+"audio/s2375.mp3": {
+"text": "Daarnaast is gebleken dat de klanten tevreden zijn.",
+"voice": "f"
+},
+"audio/w-volgt.mp3": {
+"text": "volgt",
+"voice": "w"
+},
+"audio/w-samenvatting.mp3": {
+"text": "samenvatting",
+"voice": "w"
+},
+"audio/s2376.mp3": {
+"text": "Tot slot volgt een korte samenvatting.",
+"voice": "m"
+},
+"audio/w-uiterlijk.mp3": {
+"text": "uiterlijk",
+"voice": "w"
+},
+"audio/w-ingeleverd.mp3": {
+"text": "ingeleverd",
+"voice": "w"
+},
+"audio/s2377.mp3": {
+"text": "Het verslag moet uiterlijk vrijdag worden ingeleverd.",
+"voice": "f"
+},
+"audio/w-enkele.mp3": {
+"text": "enkele",
+"voice": "w"
+},
+"audio/w-kanttekeningen.mp3": {
+"text": "kanttekeningen",
+"voice": "w"
+},
+"audio/s2378.mp3": {
+"text": "Er zijn enkele kanttekeningen te plaatsen.",
+"voice": "m"
+},
+"audio/w-samengevat.mp3": {
+"text": "samengevat",
+"voice": "w"
+},
+"audio/w-hierop.mp3": {
+"text": "hierop",
+"voice": "w"
+},
+"audio/w-neer.mp3": {
+"text": "neer",
+"voice": "w"
+},
+"audio/s2379.mp3": {
+"text": "Kort samengevat komt het hierop neer.",
+"voice": "f"
+},
+"audio/s2380.mp3": {
+"text": "Met andere woorden: we hebben meer tijd nodig.",
+"voice": "m"
+},
+"audio/w-kern.mp3": {
+"text": "kern",
+"voice": "w"
+},
+"audio/w-ontslag.mp3": {
+"text": "ontslag",
+"voice": "w"
+},
+"audio/s2381.mp3": {
+"text": "De kern van het verhaal is dat hij ontslag neemt.",
+"voice": "f"
+},
+"audio/s2382.mp3": {
+"text": "Als ik je goed begrijp, ben je het niet eens.",
+"voice": "m"
+},
+"audio/w-schrijver.mp3": {
+"text": "schrijver",
+"voice": "w"
+},
+"audio/w-stelt.mp3": {
+"text": "stelt",
+"voice": "w"
+},
+"audio/s2383.mp3": {
+"text": "De schrijver stelt dat lezen gelukkig maakt.",
+"voice": "f"
+},
+"audio/s2384.mp3": {
+"text": "Volgens het artikel stijgen de prijzen verder.",
+"voice": "m"
+},
+"audio/s2385.mp3": {
+"text": "In het kort: het plan gaat niet door.",
+"voice": "f"
+},
+"audio/w-bedoelde.mp3": {
+"text": "bedoelde",
+"voice": "w"
+},
+"audio/s2386.mp3": {
+"text": "Hij bedoelde eigenlijk dat hij moe was.",
+"voice": "m"
+},
+"audio/w-spreker.mp3": {
+"text": "spreker",
+"voice": "w"
+},
+"audio/w-samenwerken.mp3": {
+"text": "samenwerken",
+"voice": "w"
+},
+"audio/s2387.mp3": {
+"text": "Wat de spreker wil zeggen, is dat we moeten samenwerken.",
+"voice": "f"
+},
+"audio/w-hoofdgedachte.mp3": {
+"text": "hoofdgedachte",
+"voice": "w"
+},
+"audio/w-alinea.mp3": {
+"text": "alinea",
+"voice": "w"
+},
+"audio/s2388.mp3": {
+"text": "De hoofdgedachte staat in de eerste alinea.",
+"voice": "m"
+},
+"audio/w-uitleggen.mp3": {
+"text": "uitleggen",
+"voice": "w"
+},
+"audio/s2389.mp3": {
+"text": "Ik zal het in mijn eigen woorden uitleggen.",
+"voice": "f"
+},
+"audio/s2390.mp3": {
+"text": "Bedoel je dat we moeten wachten?",
+"voice": "m"
+},
+"audio/s2391.mp3": {
+"text": "Ik zou het anders hebben gedaan.",
+"voice": "f"
+},
+"audio/s2392.mp3": {
+"text": "Als ik dat had geweten, zou ik niet gekomen zijn.",
+"voice": "m"
+},
+"audio/s2393.mp3": {
+"text": "Je had me moeten bellen.",
+"voice": "f"
+},
+"audio/s2394.mp3": {
+"text": "Hij zou om acht uur komen.",
+"voice": "m"
+},
+"audio/w-aftreden.mp3": {
+"text": "aftreden",
+"voice": "w"
+},
+"audio/s2395.mp3": {
+"text": "Volgens de krant zou de minister aftreden.",
+"voice": "f"
+},
+"audio/s2396.mp3": {
+"text": "Had ik maar meer gestudeerd!",
+"voice": "m"
+},
+"audio/w-gedurfd.mp3": {
+"text": "gedurfd",
+"voice": "w"
+},
+"audio/s2397.mp3": {
+"text": "Dat zou ik nooit hebben gedurfd.",
+"voice": "f"
+},
+"audio/s2398.mp3": {
+"text": "Ik had graag willen komen, maar ik was ziek.",
+"voice": "m"
+},
+"audio/w-geregend.mp3": {
+"text": "geregend",
+"voice": "w"
+},
+"audio/s2399.mp3": {
+"text": "Als het had geregend, waren we thuisgebleven.",
+"voice": "f"
+},
+"audio/s2400.mp3": {
+"text": "Wat zou jij in mijn plaats doen?",
+"voice": "m"
+},
+"audio/s2401.mp3": {
+"text": "Het zou kunnen dat hij gelijk heeft.",
+"voice": "f"
+},
+"audio/s2402.mp3": {
+"text": "Was ik maar eerder vertrokken!",
+"voice": "m"
+},
+"audio/s2403.mp3": {
+"text": "Over vijf jaar hoop ik een eigen bedrijf te hebben.",
+"voice": "f"
+},
+"audio/w-master.mp3": {
+"text": "master",
+"voice": "w"
+},
+"audio/s2404.mp3": {
+"text": "Ik ben van plan om een master te doen.",
+"voice": "m"
+},
+"audio/w-droom.mp3": {
+"text": "droom",
+"voice": "w"
+},
+"audio/s2405.mp3": {
+"text": "Mijn droom is om ooit een boek te schrijven.",
+"voice": "f"
+},
+"audio/w-ontwikkelen.mp3": {
+"text": "ontwikkelen",
+"voice": "w"
+},
+"audio/s2406.mp3": {
+"text": "Ik wil mezelf blijven ontwikkelen.",
+"voice": "m"
+},
+"audio/s2407.mp3": {
+"text": "Tegen die tijd spreek ik vloeiend Nederlands.",
+"voice": "f"
+},
+"audio/w-streef.mp3": {
+"text": "streef",
+"voice": "w"
+},
+"audio/w-balans.mp3": {
+"text": "balans",
+"voice": "w"
+},
+"audio/w-prive.mp3": {
+"text": "privé",
+"voice": "w"
+},
+"audio/s2408.mp3": {
+"text": "Ik streef naar een betere balans tussen werk en privé.",
+"voice": "m"
+},
+"audio/s2409.mp3": {
+"text": "Wie weet waar ik over tien jaar woon.",
+"voice": "f"
+},
+"audio/s2410.mp3": {
+"text": "Ik heb mezelf een doel gesteld.",
+"voice": "m"
+},
+"audio/w-kanten.mp3": {
+"text": "kanten",
+"voice": "w"
+},
+"audio/s2411.mp3": {
+"text": "Het kan alle kanten op gaan.",
+"voice": "f"
+},
+"audio/w-afkomen.mp3": {
+"text": "afkomen",
+"voice": "w"
+},
+"audio/s2412.mp3": {
+"text": "Ik laat het op me afkomen.",
+"voice": "m"
+},
+"audio/w-betekenen.mp3": {
+"text": "betekenen",
+"voice": "w"
+},
+"audio/s2413.mp3": {
+"text": "Ik wil later iets betekenen voor anderen.",
+"voice": "f"
+},
+"audio/w-wens.mp3": {
+"text": "wens",
+"voice": "w"
+},
+"audio/s2414.mp3": {
+"text": "Mijn grootste wens is gezond oud worden.",
+"voice": "m"
+},
+"audio/s2415.mp3": {
+"text": "In Iran eten we veel later dan in Nederland.",
+"voice": "f"
+},
+"audio/w-directer.mp3": {
+"text": "directer",
+"voice": "w"
+},
+"audio/w-iraniers.mp3": {
+"text": "Iraniërs",
+"voice": "w"
+},
+"audio/s2416.mp3": {
+"text": "Nederlanders zijn directer dan Iraniërs.",
+"voice": "m"
+},
+"audio/w-gastvrijheid.mp3": {
+"text": "gastvrijheid",
+"voice": "w"
+},
+"audio/s2417.mp3": {
+"text": "Bij ons is gastvrijheid heel belangrijk.",
+"voice": "f"
+},
+"audio/w-taarof.mp3": {
+"text": "Taarof",
+"voice": "w"
+},
+"audio/s2418.mp3": {
+"text": "Taarof bestaat in Nederland eigenlijk niet.",
+"voice": "m"
+},
+"audio/w-tevoren.mp3": {
+"text": "tevoren",
+"voice": "w"
+},
+"audio/s2419.mp3": {
+"text": "Hier spreek je weken van tevoren af.",
+"voice": "f"
+},
+"audio/s2420.mp3": {
+"text": "Nowruz vieren we met de hele familie.",
+"voice": "m"
+},
+"audio/s2421.mp3": {
+"text": "Sinterklaas is voor kinderen een groot feest.",
+"voice": "f"
+},
+"audio/w-beide.mp3": {
+"text": "Beide",
+"voice": "w"
+},
+"audio/s2422.mp3": {
+"text": "Beide culturen hebben hun sterke kanten.",
+"voice": "m"
+},
+"audio/w-fietst.mp3": {
+"text": "fietst",
+"voice": "w"
+},
+"audio/s2423.mp3": {
+"text": "In tegenstelling tot Iran fietst hier iedereen.",
+"voice": "f"
+},
+"audio/w-poezie.mp3": {
+"text": "poëzie",
+"voice": "w"
+},
+"audio/s2424.mp3": {
+"text": "Zowel Iraniërs als Nederlanders houden van poëzie.",
+"voice": "m"
+},
+"audio/w-opvalt.mp3": {
+"text": "opvalt",
+"voice": "w"
+},
+"audio/w-punctueel.mp3": {
+"text": "punctueel",
+"voice": "w"
+},
+"audio/s2425.mp3": {
+"text": "Wat mij opvalt, is hoe punctueel mensen hier zijn.",
+"voice": "f"
+},
+"audio/w-overgenomen.mp3": {
+"text": "overgenomen",
+"voice": "w"
+},
+"audio/s2426.mp3": {
+"text": "Ik heb van beide culturen het beste overgenomen.",
+"voice": "m"
+},
+"audio/w-geschikte.mp3": {
+"text": "geschikte",
+"voice": "w"
+},
+"audio/w-kandidaat.mp3": {
+"text": "kandidaat",
+"voice": "w"
+},
+"audio/s2427.mp3": {
+"text": "Waarom bent u de geschikte kandidaat?",
+"voice": "f"
+},
+"audio/w-ruime.mp3": {
+"text": "ruime",
+"voice": "w"
+},
+"audio/w-projectmanagement.mp3": {
+"text": "projectmanagement",
+"voice": "w"
+},
+"audio/s2428.mp3": {
+"text": "Ik breng ruime ervaring mee in projectmanagement.",
+"voice": "m"
+},
+"audio/w-kracht.mp3": {
+"text": "kracht",
+"voice": "w"
+},
+"audio/w-overzicht.mp3": {
+"text": "overzicht",
+"voice": "w"
+},
+"audio/s2429.mp3": {
+"text": "Mijn kracht is dat ik goed overzicht houd.",
+"voice": "f"
+},
+"audio/w-valkuil.mp3": {
+"text": "valkuil",
+"voice": "w"
+},
+"audio/w-perfectionisme.mp3": {
+"text": "perfectionisme",
+"voice": "w"
+},
+"audio/s2430.mp3": {
+"text": "Een valkuil van mij is perfectionisme.",
+"voice": "m"
+},
+"audio/w-voorbeeld.mp3": {
+"text": "voorbeeld",
+"voice": "w"
+},
+"audio/w-lastige.mp3": {
+"text": "lastige",
+"voice": "w"
+},
+"audio/w-situatie.mp3": {
+"text": "situatie",
+"voice": "w"
+},
+"audio/s2431.mp3": {
+"text": "Kunt u een voorbeeld geven van een lastige situatie?",
+"voice": "f"
+},
+"audio/w-initiatief.mp3": {
+"text": "initiatief",
+"voice": "w"
+},
+"audio/s2432.mp3": {
+"text": "Ik heb toen het initiatief genomen.",
+"voice": "m"
+},
+"audio/s2433.mp3": {
+"text": "Wat spreekt u aan in deze functie?",
+"voice": "f"
+},
+"audio/w-uitdaging.mp3": {
+"text": "uitdaging",
+"voice": "w"
+},
+"audio/s2434.mp3": {
+"text": "Ik ben toe aan een nieuwe uitdaging.",
+"voice": "m"
+},
+"audio/w-salarisverwachtingen.mp3": {
+"text": "salarisverwachtingen",
+"voice": "w"
+},
+"audio/s2435.mp3": {
+"text": "Wat zijn uw salarisverwachtingen?",
+"voice": "f"
+},
+"audio/w-werktijden.mp3": {
+"text": "werktijden",
+"voice": "w"
+},
+"audio/s2436.mp3": {
+"text": "Ik ben flexibel wat betreft werktijden.",
+"voice": "m"
+},
+"audio/w-inwerkperiode.mp3": {
+"text": "inwerkperiode",
+"voice": "w"
+},
+"audio/s2437.mp3": {
+"text": "Hoe ziet de inwerkperiode eruit?",
+"voice": "f"
+},
+"audio/w-terugkoppeling.mp3": {
+"text": "terugkoppeling",
+"voice": "w"
+},
+"audio/w-verwachten.mp3": {
+"text": "verwachten",
+"voice": "w"
+},
+"audio/s2438.mp3": {
+"text": "Wanneer kan ik een terugkoppeling verwachten?",
+"voice": "m"
+},
+"audio/w-drukte.mp3": {
+"text": "drukte",
+"voice": "w"
+},
+"audio/s2439.mp3": {
+"text": "Ondanks de drukte heb ik het verslag op tijd ingeleverd.",
+"voice": "f"
+},
+"audio/w-vloeiender.mp3": {
+"text": "vloeiender",
+"voice": "w"
+},
+"audio/s2440.mp3": {
+"text": "Hoe meer je oefent, hoe vloeiender je spreekt.",
+"voice": "m"
+},
+"audio/w-opgevallen.mp3": {
+"text": "opgevallen",
+"voice": "w"
+},
+"audio/w-vooruit.mp3": {
+"text": "vooruit",
+"voice": "w"
+},
+"audio/s2441.mp3": {
+"text": "Het is mij opgevallen dat je veel vooruit bent gegaan.",
+"voice": "f"
+},
+"audio/s2442.mp3": {
+"text": "Mocht je vragen hebben, laat het me weten.",
+"voice": "m"
+},
+"audio/s2443.mp3": {
+"text": "Had ik maar eerder Nederlands geleerd!",
+"voice": "f"
+},
+"audio/w-cultuur.mp3": {
+"text": "cultuur",
+"voice": "w"
+},
+"audio/s2444.mp3": {
+"text": "Niet alleen de taal, maar ook de cultuur is belangrijk.",
+"voice": "m"
+},
+"audio/s2445.mp3": {
+"text": "Het onderwerp waar ik het over wil hebben, is integratie.",
+"voice": "f"
+},
+"audio/s2446.mp3": {
+"text": "Dat hangt ervan af hoe je het bekijkt.",
+"voice": "m"
+},
+"audio/s2447.mp3": {
+"text": "Ik ben het grotendeels met je eens.",
+"voice": "f"
+},
+"audio/w-vooruitgang.mp3": {
+"text": "vooruitgang",
+"voice": "w"
+},
+"audio/s2448.mp3": {
+"text": "Al met al ben ik tevreden over mijn vooruitgang.",
+"voice": "m"
+},
+"audio/w-b-niveau.mp3": {
+"text": "B-niveau",
+"voice": "w"
+},
+"audio/w-bereikt.mp3": {
+"text": "bereikt",
+"voice": "w"
+},
+"audio/s2449.mp3": {
+"text": "Je hebt het B2-niveau bereikt.",
+"voice": "f"
+},
+"audio/s2450.mp3": {
+"text": "Nu kun je bijna alles zeggen wat je wilt.",
+"voice": "m"
+},
+"audio/w-overspannen.mp3": {
+"text": "overspannen",
+"voice": "w"
+},
+"audio/s2451.mp3": {
+"text": "De woningmarkt in de Randstad is volledig overspannen.",
+"voice": "f"
+},
+"audio/w-wachtlijst.mp3": {
+"text": "wachtlijst",
+"voice": "w"
+},
+"audio/s2452.mp3": {
+"text": "Voor een huurhuis sta je soms tien jaar op een wachtlijst.",
+"voice": "m"
+},
+"audio/w-huurprijs.mp3": {
+"text": "huurprijs",
+"voice": "w"
+},
+"audio/w-gekoppeld.mp3": {
+"text": "gekoppeld",
+"voice": "w"
+},
+"audio/s2453.mp3": {
+"text": "De huurprijs is gekoppeld aan het aantal punten van de woning.",
+"voice": "f"
+},
+"audio/w-huisbaas.mp3": {
+"text": "huisbaas",
+"voice": "w"
+},
+"audio/w-weigert.mp3": {
+"text": "weigert",
+"voice": "w"
+},
+"audio/s2454.mp3": {
+"text": "Mijn huisbaas weigert de lekkage te laten repareren.",
+"voice": "m"
+},
+"audio/w-huurcommissie.mp3": {
+"text": "huurcommissie",
+"voice": "w"
+},
+"audio/s2455.mp3": {
+"text": "Je kunt naar de huurcommissie stappen als de huur te hoog is.",
+"voice": "f"
+},
+"audio/w-vaste.mp3": {
+"text": "vaste",
+"voice": "w"
+},
+"audio/s2456.mp3": {
+"text": "Wij hebben de hypotheek met een vaste rente afgesloten.",
+"voice": "m"
+},
+"audio/w-verkocht.mp3": {
+"text": "verkocht",
+"voice": "w"
+},
+"audio/s2457.mp3": {
+"text": "Het huis werd binnen een week ver boven de vraagprijs verkocht.",
+"voice": "f"
+},
+"audio/w-bijzonder.mp3": {
+"text": "bijzonder",
+"voice": "w"
+},
+"audio/s2458.mp3": {
+"text": "Starters hebben het bijzonder moeilijk op de woningmarkt.",
+"voice": "m"
+},
+"audio/s2459.mp3": {
+"text": "De borg krijg je terug zodra de woning is gecontroleerd.",
+"voice": "f"
+},
+"audio/s2460.mp3": {
+"text": "Volgens het huurcontract mag ik geen huisdieren houden.",
+"voice": "m"
+},
+"audio/w-overwegen.mp3": {
+"text": "overwegen",
+"voice": "w"
+},
+"audio/w-kleinere.mp3": {
+"text": "kleinere",
+"voice": "w"
+},
+"audio/s2461.mp3": {
+"text": "We overwegen om naar een kleinere stad te verhuizen.",
+"voice": "f"
+},
+"audio/s2462.mp3": {
+"text": "Een groot deel van mijn salaris gaat op aan huur.",
+"voice": "m"
+},
+"audio/s2463.mp3": {
+"text": "De gemeente wil meer betaalbare woningen bouwen.",
+"voice": "f"
+},
+"audio/w-huurt.mp3": {
+"text": "huurt",
+"voice": "w"
+},
+"audio/s2464.mp3": {
+"text": "Hij huurt een kamer zonder dat hij ingeschreven mag worden.",
+"voice": "m"
+},
+"audio/w-vergunning.mp3": {
+"text": "vergunning",
+"voice": "w"
+},
+"audio/w-verhuren.mp3": {
+"text": "verhuren",
+"voice": "w"
+},
+"audio/s2465.mp3": {
+"text": "Het is verboden om zonder vergunning onder te verhuren.",
+"voice": "f"
+},
+"audio/w-bezichtiging.mp3": {
+"text": "bezichtiging",
+"voice": "w"
+},
+"audio/w-kandidaten.mp3": {
+"text": "kandidaten",
+"voice": "w"
+},
+"audio/s2466.mp3": {
+"text": "Bij de bezichtiging waren er wel dertig andere kandidaten.",
+"voice": "m"
+},
+"audio/w-werkgeversverklaring.mp3": {
+"text": "werkgeversverklaring",
+"voice": "w"
+},
+"audio/s2467.mp3": {
+"text": "De makelaar vroeg om een werkgeversverklaring.",
+"voice": "f"
+},
+"audio/s2468.mp3": {
+"text": "Door de hoge rente kopen minder mensen een huis.",
+"voice": "m"
+},
+"audio/w-zolder.mp3": {
+"text": "zolder",
+"voice": "w"
+},
+"audio/s2469.mp3": {
+"text": "We hebben de zolder verbouwd tot een slaapkamer.",
+"voice": "f"
+},
+"audio/s2470.mp3": {
+"text": "Het energielabel van dit huis is helaas slecht.",
+"voice": "m"
+},
+"audio/w-aangevraagd.mp3": {
+"text": "aangevraagd",
+"voice": "w"
+},
+"audio/s2471.mp3": {
+"text": "Ik heb recht op huurtoeslag, maar ik heb het nooit aangevraagd.",
+"voice": "f"
+},
+"audio/w-vereniging.mp3": {
+"text": "vereniging",
+"voice": "w"
+},
+"audio/w-eigenaren.mp3": {
+"text": "eigenaren",
+"voice": "w"
+},
+"audio/w-onderhoud.mp3": {
+"text": "onderhoud",
+"voice": "w"
+},
+"audio/w-beslist.mp3": {
+"text": "beslist",
+"voice": "w"
+},
+"audio/s2472.mp3": {
+"text": "In de vereniging van eigenaren wordt over het onderhoud beslist.",
+"voice": "m"
+},
+"audio/w-verhoogd.mp3": {
+"text": "verhoogd",
+"voice": "w"
+},
+"audio/w-huurders.mp3": {
+"text": "huurders",
+"voice": "w"
+},
+"audio/s2473.mp3": {
+"text": "Nadat de huur was verhoogd, zijn veel huurders vertrokken.",
+"voice": "f"
+},
+"audio/w-eindelijk.mp3": {
+"text": "eindelijk",
+"voice": "w"
+},
+"audio/w-stabiliseren.mp3": {
+"text": "stabiliseren",
+"voice": "w"
+},
+"audio/s2474.mp3": {
+"text": "Het lijkt erop dat de prijzen eindelijk stabiliseren.",
+"voice": "m"
+},
+"audio/w-grondrecht.mp3": {
+"text": "grondrecht",
+"voice": "w"
+},
+"audio/w-vanzelfsprekend.mp3": {
+"text": "vanzelfsprekend",
+"voice": "w"
+},
+"audio/s2475.mp3": {
+"text": "Wonen is een grondrecht, maar steeds minder vanzelfsprekend.",
+"voice": "f"
+},
+"audio/w-werknemers.mp3": {
+"text": "werknemers",
+"voice": "w"
+},
+"audio/s2476.mp3": {
+"text": "Steeds meer werknemers hebben last van een burn-out.",
+"voice": "m"
+},
+"audio/s2477.mp3": {
+"text": "Het is belangrijk om op tijd je grenzen aan te geven.",
+"voice": "f"
+},
+"audio/s2478.mp3": {
+"text": "Sinds ik minder werk, slaap ik veel beter.",
+"voice": "m"
+},
+"audio/w-doorverwezen.mp3": {
+"text": "doorverwezen",
+"voice": "w"
+},
+"audio/s2479.mp3": {
+"text": "Mijn huisarts heeft me doorverwezen naar een psycholoog.",
+"voice": "f"
+},
+"audio/w-gevoelens.mp3": {
+"text": "gevoelens",
+"voice": "w"
+},
+"audio/w-zwakte.mp3": {
+"text": "zwakte",
+"voice": "w"
+},
+"audio/s2480.mp3": {
+"text": "Praten over je gevoelens is geen teken van zwakte.",
+"voice": "m"
+},
+"audio/s2481.mp3": {
+"text": "Ik probeer 's avonds niet meer op mijn telefoon te kijken.",
+"voice": "f"
+},
+"audio/w-gezin.mp3": {
+"text": "gezin",
+"voice": "w"
+},
+"audio/s2482.mp3": {
+"text": "Door de werkdruk had ik nauwelijks tijd voor mijn gezin.",
+"voice": "m"
+},
+"audio/w-wandeling.mp3": {
+"text": "wandeling",
+"voice": "w"
+},
+"audio/w-natuur.mp3": {
+"text": "natuur",
+"voice": "w"
+},
+"audio/s2483.mp3": {
+"text": "Een wandeling in de natuur helpt me om tot rust te komen.",
+"voice": "f"
+},
+"audio/w-stressklachten.mp3": {
+"text": "stressklachten",
+"voice": "w"
+},
+"audio/s2484.mp3": {
+"text": "Hij heeft zich ziek gemeld vanwege stressklachten.",
+"voice": "m"
+},
+"audio/w-durven.mp3": {
+"text": "durven",
+"voice": "w"
+},
+"audio/s2485.mp3": {
+"text": "Veel mensen durven niet toe te geven dat ze het zwaar hebben.",
+"voice": "f"
+},
+"audio/w-werkgever.mp3": {
+"text": "werkgever",
+"voice": "w"
+},
+"audio/w-biedt.mp3": {
+"text": "biedt",
+"voice": "w"
+},
+"audio/w-coaching.mp3": {
+"text": "coaching",
+"voice": "w"
+},
+"audio/s2486.mp3": {
+"text": "Mijn werkgever biedt gratis coaching aan.",
+"voice": "m"
+},
+"audio/s2487.mp3": {
+"text": "Ik heb geleerd om vaker nee te zeggen.",
+"voice": "f"
+},
+"audio/w-dagritme.mp3": {
+"text": "dagritme",
+"voice": "w"
+},
+"audio/w-houvast.mp3": {
+"text": "houvast",
+"voice": "w"
+},
+"audio/s2488.mp3": {
+"text": "Een vast dagritme geeft me houvast.",
+"voice": "m"
+},
+"audio/s2489.mp3": {
+"text": "Het duurde maanden voordat ik weer de oude was.",
+"voice": "f"
+},
+"audio/w-thuiswerken.mp3": {
+"text": "Thuiswerken",
+"voice": "w"
+},
+"audio/s2490.mp3": {
+"text": "Thuiswerken heeft voor- en nadelen.",
+"voice": "m"
+},
+"audio/w-geirriteerd.mp3": {
+"text": "geïrriteerd",
+"voice": "w"
+},
+"audio/w-raak.mp3": {
+"text": "raak",
+"voice": "w"
+},
+"audio/s2491.mp3": {
+"text": "Ik merk dat ik sneller geïrriteerd raak als ik moe ben.",
+"voice": "f"
+},
+"audio/w-perfect.mp3": {
+"text": "perfect",
+"voice": "w"
+},
+"audio/s2492.mp3": {
+"text": "Je hoeft niet altijd perfect te zijn.",
+"voice": "m"
+},
+"audio/w-geestelijke.mp3": {
+"text": "geestelijke",
+"voice": "w"
+},
+"audio/w-gezondheidszorg.mp3": {
+"text": "gezondheidszorg",
+"voice": "w"
+},
+"audio/s2493.mp3": {
+"text": "De wachtlijsten in de geestelijke gezondheidszorg zijn lang.",
+"voice": "f"
+},
+"audio/w-medicijn.mp3": {
+"text": "medicijn",
+"voice": "w"
+},
+"audio/s2494.mp3": {
+"text": "Sporten werkt voor mij beter dan welk medicijn ook.",
+"voice": "m"
+},
+"audio/w-zocht.mp3": {
+"text": "zocht",
+"voice": "w"
+},
+"audio/w-afleiding.mp3": {
+"text": "afleiding",
+"voice": "w"
+},
+"audio/s2495.mp3": {
+"text": "Ze zocht afleiding door vrijwilligerswerk te doen.",
+"voice": "f"
+},
+"audio/w-reageerde.mp3": {
+"text": "reageerde",
+"voice": "w"
+},
+"audio/w-begripvol.mp3": {
+"text": "begripvol",
+"voice": "w"
+},
+"audio/s2496.mp3": {
+"text": "Mijn leidinggevende reageerde gelukkig heel begripvol.",
+"voice": "m"
+},
+"audio/w-bewust.mp3": {
+"text": "bewust",
+"voice": "w"
+},
+"audio/w-momenten.mp3": {
+"text": "momenten",
+"voice": "w"
+},
+"audio/w-hoef.mp3": {
+"text": "hoef",
+"voice": "w"
+},
+"audio/s2497.mp3": {
+"text": "Ik plan bewust momenten in waarop ik niets hoef.",
+"voice": "f"
+},
+"audio/s2498.mp3": {
+"text": "Eenzaamheid komt vaker voor dan je zou denken.",
+"voice": "m"
+},
+"audio/s2499.mp3": {
+"text": "Het is geen schande om hulp te vragen.",
+"voice": "f"
+},
+"audio/w-welzijn.mp3": {
+"text": "welzijn",
+"voice": "w"
+},
+"audio/s2500.mp3": {
+"text": "Uiteindelijk ben je zelf verantwoordelijk voor je welzijn.",
+"voice": "m"
 }
 }
