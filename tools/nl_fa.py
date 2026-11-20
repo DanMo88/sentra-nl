@@ -38,9 +38,9 @@ def word(w0):
     if w.endswith("tie") and len(w) > 4: w = w[:-3] + "tsie"
     w = re.sub(r"tion(s?)$", r"sjon\1", w)
     if w.endswith("isch"): w = w[:-4] + "ies"
-    if w.endswith("lijk"): w = w[:-4] + "luk"
-    if w.endswith("lijke"): w = w[:-5] + "luke"
-    if w.endswith("lijkheid"): w = w[:-8] + "lukheid"
+    if not re.match(r"^(on|te|ins|ver|ver)?gelijk", w): w = re.sub(r"lijk(?=(e|en|er|ere|ers|erd|st|ste|heid|heden|s)?$)", "lək", w)  # -lijk = schwa (natuurlijk, maatschappelijke)
+    w = re.sub(r"gie(s|ën)?$", lambda m: "ʒie" + (m.group(1) or ""), w)  # energie, technologie -> ژی
+    w = re.sub(r"sc(?=[eiy])", "s", w)  # scenario
     if w.startswith("ph"): w = "f" + w[2:]
     T = tokenize(w)
     # stress-ish: schwa for unstressed prefix e and for -e/-en/-el/-er/-es/-em endings; we write both short e and schwa as ِ
@@ -57,6 +57,7 @@ def word(w0):
         if t == "C":
             prevV = k > 0 and T[k - 1][0] == "V"
             if u == "§": res.append(""); continue
+            if u == "ʒ": res.append("ژ"); continue
             if u == "SX": res.append("سخ" if not last else "س"); continue
             if u == "X": res.append("خ"); continue
             if u == "C": res.append("چ"); continue
