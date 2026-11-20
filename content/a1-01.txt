@@ -1,0 +1,27 @@
+# A1 · Les 1 · Hallo! · سلام و آشنایی
+# Dutch | Persian meaning | Persian-letter reading (one reading token per Dutch word)
+Hallo, goedemorgen! | سلام، صبح بخیر! | هالو، خودِمُرخِه!
+Hoe gaat het met je? | حالت چطوره؟ | هو خات هِت مِت یِه؟
+Goed, dank je. En met jou? | خوبم، ممنون. تو چطوری؟ | خوت، دانک یِه. اِن مِت یائو؟
+Ook goed, dank je wel. | من هم خوبم، خیلی ممنون. | اُک خوت، دانک یِه وِل.
+Hoe heet je? | اسمت چیه؟ | هو هِیت یِه؟
+Ik heet Sara. | اسم من ساراست. | ایک هِیت سارا.
+Leuk je te ontmoeten. | از آشنایی‌ات خوشحالم. | لؤک یِه تِه اُنتموتِه.
+Insgelijks! | همچنین! | اینسخِلَیکس!
+Waar kom je vandaan? | اهل کجایی؟ | وار کُم یِه فاندان؟
+Ik kom uit Iran. | من اهل ایرانم. | ایک کُم اُئوت ایران.
+Waar woon je? | کجا زندگی می‌کنی؟ | وار وُن یِه؟
+Ik woon nu in Utrecht. | الان در اوترخت زندگی می‌کنم. | ایک وُن نو این اوترِخت.
+Spreek je Nederlands? | هلندی حرف می‌زنی؟ | سپرِیک یِه نِیدِرلانتس؟
+Ja, een beetje. | آره، یه کمی. | یا، اِن بِیچِه.
+Ik leer elke dag Nederlands. | هر روز هلندی یاد می‌گیرم. | ایک لِیر اِلکِه داخ نِیدِرلانتس.
+Wat doe je voor werk? | کارت چیه؟ | وات دو یِه فُر وِرک؟
+Ik ben verpleegkundige. | من پرستارم. | ایک بِن فِرپلِیخکُندِخِه.
+Dit is mijn man, Ali. | این شوهرمه، علی. | دیت ایس مَین مان، آلی.
+En dit is onze dochter. | و این دخترمونه. | اِن دیت ایس اُنزِه دُختِر.
+Hoe oud ben je? | چند سالته؟ | هو آئوت بِن یِه؟
+Ik ben dertig jaar. | سی سالمه. | ایک بِن دِرتِخ یار.
+Goedemiddag, hoe gaat het met u? | عصر بخیر، حال شما چطوره؟ | خودِمیداخ، هو خات هِت مِت او؟
+Fijne dag nog! | روز خوبی داشته باشی! | فَینِه داخ نُخ!
+Dank je, jij ook! | ممنون، همچنین تو! | دانک یِه، یَی اُک!
+Tot ziens! | خداحافظ! | تُت زینس!

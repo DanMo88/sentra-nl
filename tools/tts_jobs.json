@@ -1,0 +1,342 @@
+{
+"audio/w-hallo.mp3": {
+"text": "Hallo",
+"voice": "w"
+},
+"audio/w-goedemorgen.mp3": {
+"text": "goedemorgen",
+"voice": "w"
+},
+"audio/s0001.mp3": {
+"text": "Hallo, goedemorgen!",
+"voice": "f"
+},
+"audio/w-hoe.mp3": {
+"text": "Hoe",
+"voice": "w"
+},
+"audio/w-gaat.mp3": {
+"text": "gaat",
+"voice": "w"
+},
+"audio/w-het.mp3": {
+"text": "het",
+"voice": "w"
+},
+"audio/w-met.mp3": {
+"text": "met",
+"voice": "w"
+},
+"audio/w-je.mp3": {
+"text": "je",
+"voice": "w"
+},
+"audio/s0002.mp3": {
+"text": "Hoe gaat het met je?",
+"voice": "m"
+},
+"audio/w-goed.mp3": {
+"text": "Goed",
+"voice": "w"
+},
+"audio/w-dank.mp3": {
+"text": "dank",
+"voice": "w"
+},
+"audio/w-en.mp3": {
+"text": "En",
+"voice": "w"
+},
+"audio/w-jou.mp3": {
+"text": "jou",
+"voice": "w"
+},
+"audio/s0003.mp3": {
+"text": "Goed, dank je. En met jou?",
+"voice": "f"
+},
+"audio/w-ook.mp3": {
+"text": "Ook",
+"voice": "w"
+},
+"audio/w-wel.mp3": {
+"text": "wel",
+"voice": "w"
+},
+"audio/s0004.mp3": {
+"text": "Ook goed, dank je wel.",
+"voice": "m"
+},
+"audio/w-heet.mp3": {
+"text": "heet",
+"voice": "w"
+},
+"audio/s0005.mp3": {
+"text": "Hoe heet je?",
+"voice": "f"
+},
+"audio/w-ik.mp3": {
+"text": "Ik",
+"voice": "w"
+},
+"audio/w-sara.mp3": {
+"text": "Sara",
+"voice": "w"
+},
+"audio/s0006.mp3": {
+"text": "Ik heet Sara.",
+"voice": "m"
+},
+"audio/w-leuk.mp3": {
+"text": "Leuk",
+"voice": "w"
+},
+"audio/w-te.mp3": {
+"text": "te",
+"voice": "w"
+},
+"audio/w-ontmoeten.mp3": {
+"text": "ontmoeten",
+"voice": "w"
+},
+"audio/s0007.mp3": {
+"text": "Leuk je te ontmoeten.",
+"voice": "f"
+},
+"audio/w-insgelijks.mp3": {
+"text": "Insgelijks",
+"voice": "w"
+},
+"audio/s0008.mp3": {
+"text": "Insgelijks!",
+"voice": "m"
+},
+"audio/w-waar.mp3": {
+"text": "Waar",
+"voice": "w"
+},
+"audio/w-kom.mp3": {
+"text": "kom",
+"voice": "w"
+},
+"audio/w-vandaan.mp3": {
+"text": "vandaan",
+"voice": "w"
+},
+"audio/s0009.mp3": {
+"text": "Waar kom je vandaan?",
+"voice": "f"
+},
+"audio/w-uit.mp3": {
+"text": "uit",
+"voice": "w"
+},
+"audio/w-iran.mp3": {
+"text": "Iran",
+"voice": "w"
+},
+"audio/s0010.mp3": {
+"text": "Ik kom uit Iran.",
+"voice": "m"
+},
+"audio/w-woon.mp3": {
+"text": "woon",
+"voice": "w"
+},
+"audio/s0011.mp3": {
+"text": "Waar woon je?",
+"voice": "f"
+},
+"audio/w-nu.mp3": {
+"text": "nu",
+"voice": "w"
+},
+"audio/w-in.mp3": {
+"text": "in",
+"voice": "w"
+},
+"audio/w-utrecht.mp3": {
+"text": "Utrecht",
+"voice": "w"
+},
+"audio/s0012.mp3": {
+"text": "Ik woon nu in Utrecht.",
+"voice": "m"
+},
+"audio/w-spreek.mp3": {
+"text": "Spreek",
+"voice": "w"
+},
+"audio/w-nederlands.mp3": {
+"text": "Nederlands",
+"voice": "w"
+},
+"audio/s0013.mp3": {
+"text": "Spreek je Nederlands?",
+"voice": "f"
+},
+"audio/w-ja.mp3": {
+"text": "Ja",
+"voice": "w"
+},
+"audio/w-een.mp3": {
+"text": "een",
+"voice": "w"
+},
+"audio/w-beetje.mp3": {
+"text": "beetje",
+"voice": "w"
+},
+"audio/s0014.mp3": {
+"text": "Ja, een beetje.",
+"voice": "m"
+},
+"audio/w-leer.mp3": {
+"text": "leer",
+"voice": "w"
+},
+"audio/w-elke.mp3": {
+"text": "elke",
+"voice": "w"
+},
+"audio/w-dag.mp3": {
+"text": "dag",
+"voice": "w"
+},
+"audio/s0015.mp3": {
+"text": "Ik leer elke dag Nederlands.",
+"voice": "f"
+},
+"audio/w-wat.mp3": {
+"text": "Wat",
+"voice": "w"
+},
+"audio/w-doe.mp3": {
+"text": "doe",
+"voice": "w"
+},
+"audio/w-voor.mp3": {
+"text": "voor",
+"voice": "w"
+},
+"audio/w-werk.mp3": {
+"text": "werk",
+"voice": "w"
+},
+"audio/s0016.mp3": {
+"text": "Wat doe je voor werk?",
+"voice": "m"
+},
+"audio/w-ben.mp3": {
+"text": "ben",
+"voice": "w"
+},
+"audio/w-verpleegkundige.mp3": {
+"text": "verpleegkundige",
+"voice": "w"
+},
+"audio/s0017.mp3": {
+"text": "Ik ben verpleegkundige.",
+"voice": "f"
+},
+"audio/w-dit.mp3": {
+"text": "Dit",
+"voice": "w"
+},
+"audio/w-is.mp3": {
+"text": "is",
+"voice": "w"
+},
+"audio/w-mijn.mp3": {
+"text": "mijn",
+"voice": "w"
+},
+"audio/w-man.mp3": {
+"text": "man",
+"voice": "w"
+},
+"audio/w-ali.mp3": {
+"text": "Ali",
+"voice": "w"
+},
+"audio/s0018.mp3": {
+"text": "Dit is mijn man, Ali.",
+"voice": "m"
+},
+"audio/w-onze.mp3": {
+"text": "onze",
+"voice": "w"
+},
+"audio/w-dochter.mp3": {
+"text": "dochter",
+"voice": "w"
+},
+"audio/s0019.mp3": {
+"text": "En dit is onze dochter.",
+"voice": "f"
+},
+"audio/w-oud.mp3": {
+"text": "oud",
+"voice": "w"
+},
+"audio/s0020.mp3": {
+"text": "Hoe oud ben je?",
+"voice": "m"
+},
+"audio/w-dertig.mp3": {
+"text": "dertig",
+"voice": "w"
+},
+"audio/w-jaar.mp3": {
+"text": "jaar",
+"voice": "w"
+},
+"audio/s0021.mp3": {
+"text": "Ik ben dertig jaar.",
+"voice": "f"
+},
+"audio/w-goedemiddag.mp3": {
+"text": "Goedemiddag",
+"voice": "w"
+},
+"audio/w-u.mp3": {
+"text": "u",
+"voice": "w"
+},
+"audio/s0022.mp3": {
+"text": "Goedemiddag, hoe gaat het met u?",
+"voice": "m"
+},
+"audio/w-fijne.mp3": {
+"text": "Fijne",
+"voice": "w"
+},
+"audio/w-nog.mp3": {
+"text": "nog",
+"voice": "w"
+},
+"audio/s0023.mp3": {
+"text": "Fijne dag nog!",
+"voice": "f"
+},
+"audio/w-jij.mp3": {
+"text": "jij",
+"voice": "w"
+},
+"audio/s0024.mp3": {
+"text": "Dank je, jij ook!",
+"voice": "m"
+},
+"audio/w-tot.mp3": {
+"text": "Tot",
+"voice": "w"
+},
+"audio/w-ziens.mp3": {
+"text": "ziens",
+"voice": "w"
+},
+"audio/s0025.mp3": {
+"text": "Tot ziens!",
+"voice": "f"
+}
+}
