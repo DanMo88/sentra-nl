@@ -16,7 +16,7 @@ async def one(sem, fn, job, fails):
     async with sem:
         for a in range(5):
             try:
-                await edge_tts.Communicate(job["text"], voice, rate=rate).save(path + ".part")
+                await asyncio.wait_for(edge_tts.Communicate(job["text"], voice, rate=rate).save(path + ".part"), 60)
                 assert os.path.getsize(path + ".part") > 1000
                 os.replace(path + ".part", path); man[fn] = sig(job); NEW.append(path); return
             except Exception:
@@ -32,5 +32,10 @@ async def main():
         print("progress", min(k + 400, len(items)), "/", len(items), flush=True)
     return fails
 FAILS = asyncio.run(main())
-if NEW: subprocess.run([sys.executable, os.path.join(ROOT, "tools", "trim.py")] + NEW, check=True)  # trim only new files
+# trim every mp3 changed since the last trim pass (covers files from interrupted runs too)
+MARK = os.path.join(ROOT, "tools", ".trim_mark"); t0 = os.path.getmtime(MARK) if os.path.exists(MARK) else 0
+import glob, time; now = time.time()
+todo = [f for f in glob.glob(os.path.join(ROOT, "audio", "*.mp3")) if os.path.getmtime(f) > t0 - 5]
+if todo: subprocess.run([sys.executable, os.path.join(ROOT, "tools", "trim.py")] + todo, check=True)
+open(MARK, "w").close(); os.utime(MARK, (now, now))
 if FAILS: print("FAILED", FAILS); sys.exit(1)

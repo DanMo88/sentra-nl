@@ -1,3 +1,4 @@
 *.part
 __pycache__/
 .env*
+tools/.trim_mark
