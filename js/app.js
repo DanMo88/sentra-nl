@@ -11,8 +11,11 @@
   const pad = n => String(n).padStart(4, '0');
   /* fold diacritics: é→e, ë→e, ĳ/ÿ→ij (must match fold/slug/bare in tools/build.py) */
   const fold = w => w.replace(/ĳ/g, 'ij').replace(/Ĳ/g, 'IJ').replace(/ÿ/g, 'ij').normalize('NFD').replace(/[\u0300-\u036f]/g, '');
-  const wslug = w => fold(w).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 80).replace(/-+$/, '');
-  const bareW = w => w.replace(/[^\p{L}\p{M}'\-]/gu, '').replace(/^[-']+|[-']+$/g, '') || w.replace(/[^\p{L}\p{M}]/gu, '');
+  /* leading-apostrophe short forms ('t, 's, 'n, 'k, 'm) keep their apostrophe and get their own sound file (w-apos-t …) */
+  const APOS = /^'[a-z]{1,2}$/i;
+  const wslug = w => fold(w).toLowerCase().replace(/^'/, 'apos-').replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 80).replace(/-+$/, '');
+  const bareW = w => { const b = w.replace(/[\u2019\u2018`]/g, "'").replace(/[^\p{L}\p{M}'\-]/gu, ''); if (APOS.test(b)) return b;
+    return b.replace(/^[-']+|[-']+$/g, '') || w.replace(/[^\p{L}\p{M}]/gu, ''); };
   LESSONS.forEach(l => {
     l.fa = l.title; l.en = 'Les ' + l.num;
     l.s = l.s.map(([en, fa, rd], k) => { const n = l.n0 + k, ws = en.split(/\s+/), rs = rd.split(/\s+/);
@@ -500,6 +503,6 @@
   }
   window.addEventListener('hashchange', route);
   document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible' && wake === null && tok) {} });
-  window.__sentra = { S, grade, norm };
+  window.__sentra = { S, grade, norm, bareW };
   route();
 })();

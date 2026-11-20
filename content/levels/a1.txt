@@ -1,0 +1,809 @@
+# Sentra NL · A1 pool — Dutch | Persian. From Daniel's Zinsmaken course (DanMo88/dutch-sentences) + Dutch in 90 Days Interactive (days 2–45)
+## معرفی خودت
+Ik heet Sara. | اسم من سارا است.
+Ik ben student. | من دانشجو هستم.
+Ik woon in Amsterdam. | من در آمستردام زندگی می‌کنم.
+Ik kom uit Iran. | من اهل ایران هستم.
+Ik spreek een beetje Nederlands. | من کمی هلندی حرف می‌زنم.
+Hoe heet je? | اسمت چیست؟
+Waar woon je? | کجا زندگی می‌کنی؟
+Ik leer Nederlands. | من هلندی یاد می‌گیرم.
+Ik werk in Utrecht. | من در اوترخت کار می‌کنم.
+Ik drink koffie. | من قهوه می‌نوشم.
+## سلام و احوالپرسی
+Goedemorgen! | صبح بخیر!
+Goedemiddag! | ظهر بخیر! / عصر بخیر!
+Hoe gaat het? | حالت چطور است؟
+Het gaat goed. | خوب است. / خوبم.
+Goed, dank je. | خوبم، ممنون.
+En met jou? | تو چطور؟
+Met mij gaat het ook goed. | من هم خوبم.
+Hoe gaat het met u? | حال شما چطور است؟
+Leuk je te ontmoeten. | از آشنایی با تو خوشحالم.
+Tot ziens! | خداحافظ!
+Tot morgen! | تا فردا!
+## تو و شما
+Hoe heet u? | اسم شما چیست؟
+Waar woont u? | شما کجا زندگی می‌کنید؟
+Jij woont in Rotterdam. | تو در روتردام زندگی می‌کنی.
+Woon jij in Rotterdam? | تو در روتردام زندگی می‌کنی؟
+Jij werkt in Den Haag. | تو در لاهه کار می‌کنی.
+Werk je in Den Haag? | در لاهه کار می‌کنی؟
+Spreekt u Engels? | شما انگلیسی حرف می‌زنید؟
+Ja, ik spreek Engels. | بله، من انگلیسی حرف می‌زنم.
+Komt u uit Duitsland? | شما اهل آلمان هستید؟
+Nee, ik kom uit Iran. | نه، من اهل ایران هستم.
+Kom je uit Turkije? | اهل ترکیه هستی؟
+## بودن: zijn
+Ik ben moe. | من خسته‌ام.
+Jij bent aardig. | تو مهربانی.
+Hij is leraar. | او معلم است.
+Zij is arts. | او پزشک است.
+Het is koud. | هوا سرد است.
+Bent u de docent? | شما مدرس هستید؟
+Ben jij Sara? | تو سارا هستی؟
+Mijn naam is Ali. | اسم من علی است.
+Het huis is groot. | خانه بزرگ است.
+De stad is mooi. | شهر زیباست.
+Waar is het station? | ایستگاه کجاست؟
+## داشتن: hebben
+Ik heb een broer. | من یک برادر دارم.
+Jij hebt een zus. | تو یک خواهر داری.
+Hij heeft een auto. | او یک ماشین دارد.
+Zij heeft een kat. | او یک گربه دارد.
+Heb je tijd? | وقت داری؟
+Heeft u een pen? | شما خودکار دارید؟
+Ik heb een vraag. | یک سؤال دارم.
+Ik heb honger. | گرسنه‌ام.
+Ik heb dorst. | تشنه‌ام.
+Hij heeft een kind. | او یک بچه دارد.
+Wij hebben een huis. | ما یک خانه داریم.
+## de یا het
+De man is lang. | مرد قدبلند است.
+De vrouw is jong. | زن جوان است.
+Het kind is klein. | بچه کوچک است.
+Het boek is nieuw. | کتاب نو است.
+De tafel is oud. | میز قدیمی است.
+Het raam is open. | پنجره باز است.
+De deur is dicht. | در بسته است.
+Het meisje is mijn dochter. | دختر، دختر من است.
+De jongen is mijn zoon. | پسر، پسر من است.
+De kinderen zijn thuis. | بچه‌ها خانه هستند.
+Het water is koud. | آب سرد است.
+## این و آن: dit en dat
+Dit is mijn tas. | این کیف من است.
+Dat is jouw jas. | آن کت توست.
+Dit is een boek. | این یک کتاب است.
+Dat is een fiets. | آن یک دوچرخه است.
+Is dit jouw telefoon? | این تلفن توست؟
+Ja, dat is mijn telefoon. | بله، آن تلفن من است.
+Dit is mijn vriend Tom. | این دوستم تام است.
+Dat is de bus. | آن اتوبوس است.
+Wat is dat? | آن چیست؟
+Dat is een appel. | آن یک سیب است.
+Dit is lekker. | این خوشمزه است.
+## سؤال با wat، wie، waar، hoe
+Wie is dat? | آن کیست؟
+Wat doe je? | چه کار می‌کنی؟
+Waar is de wc? | دستشویی کجاست؟
+Hoe oud ben je? | چند سالته؟
+Wanneer kom je? | کی می‌آیی؟
+Waarom leer je Nederlands? | چرا هلندی یاد می‌گیری؟
+Welke dag is het vandaag? | امروز چه روزی است؟
+Hoeveel kost het? | چقدر قیمت دارد؟
+Wat is je adres? | آدرست چیست؟
+Wie is je docent? | معلمت کیست؟
+Hoe gaat het met je moeder? | حال مادرت چطور است؟
+## سؤال بله و نه
+Ben je moe? | خسته‌ای؟
+Heb je een fiets? | دوچرخه داری؟
+Woon je hier? | این‌جا زندگی می‌کنی؟
+Spreek je Nederlands? | هلندی حرف می‌زنی؟
+Is het ver? | دور است؟
+Is de winkel open? | مغازه باز است؟
+Werkt hij vandaag? | او امروز کار می‌کند؟
+Drink je thee? | چای می‌نوشی؟
+Ja, graag. | بله، لطفاً. / بله، با کمال میل.
+Nee, dank je. | نه، ممنون.
+Kom je morgen? | فردا می‌آیی؟
+## منفی با niet
+Ik ben niet moe. | من خسته نیستم.
+Het is niet ver. | دور نیست.
+Ik woon niet in Amsterdam. | من در آمستردام زندگی نمی‌کنم.
+Hij werkt vandaag niet. | او امروز کار نمی‌کند.
+Ik weet het niet. | نمی‌دانم.
+Dat is niet goed. | آن خوب نیست.
+Ik begrijp het niet. | متوجه نمی‌شوم.
+De winkel is niet open. | مغازه باز نیست.
+Ik drink geen koffie, maar thee. | من قهوه نمی‌نوشم، بلکه چای می‌نوشم.
+Is dat niet jouw tas? | آن کیف تو نیست؟
+Ik kom morgen niet. | فردا نمی‌آیم.
+## منفی با geen
+Ik heb geen auto. | ماشین ندارم.
+Ik heb geen tijd. | وقت ندارم.
+Hij heeft geen kinderen. | او بچه ندارد.
+Wij hebben geen tuin. | ما باغچه نداریم.
+Er is geen melk. | شیر نیست.
+Ik spreek geen Duits. | من آلمانی حرف نمی‌زنم.
+Dat is geen probleem. | مشکلی نیست.
+Ik heb geen honger. | گرسنه نیستم.
+Zij heeft geen broer. | او برادر ندارد.
+Heb je geen pen? | خودکار نداری؟
+Ik ben geen student. | من دانشجو نیستم.
+## خانواده
+Mijn vader heet Hassan. | اسم پدرم حسن است.
+Mijn moeder is lerares. | مادرم معلم است.
+Ik heb twee broers. | دو برادر دارم.
+Mijn zus woont in Canada. | خواهرم در کانادا زندگی می‌کند.
+Mijn ouders wonen in Shiraz. | پدر و مادرم در شیراز زندگی می‌کنند.
+Ik ben getrouwd. | من متأهلم.
+Mijn man heet Amir. | اسم شوهرم امیر است.
+Mijn vrouw werkt in een ziekenhuis. | همسرم در بیمارستان کار می‌کند.
+We hebben een dochter en een zoon. | ما یک دختر و یک پسر داریم.
+Mijn opa en oma zijn oud. | پدربزرگ و مادربزرگم پیرند.
+Heb je broers of zussen? | خواهر یا برادر داری؟
+## مال من، مال تو
+Dit is mijn huis. | این خانه من است.
+Is dit jouw sleutel? | این کلید توست؟
+Dat is zijn auto. | آن ماشین اوست (مرد).
+Dat is haar fiets. | آن دوچرخه اوست (زن).
+Onze buurman is aardig. | همسایه ما مهربان است.
+Ons huis is klein. | خانه ما کوچک است.
+Is dit uw jas? | این کت شماست؟
+Waar is jullie school? | مدرسه شما کجاست؟
+Hun kinderen zijn lief. | بچه‌هایشان مهربان‌اند.
+Mijn telefoon is kapot. | تلفنم خراب است.
+Wat is je telefoonnummer? | شماره تلفنت چیست؟
+## جمع بستن
+Ik heb twee kinderen. | دو بچه دارم.
+Er zijn drie boeken. | سه کتاب هست.
+De tafels zijn nieuw. | میزها نو هستند.
+Ik heb vier katten. | چهار گربه دارم.
+De huizen zijn duur. | خانه‌ها گران هستند.
+Mijn vrienden komen vanavond. | دوستانم امشب می‌آیند.
+De meisjes spelen buiten. | دخترها بیرون بازی می‌کنند.
+Twee koffie, alstublieft. | دو تا قهوه، لطفاً.
+De auto's zijn wit. | ماشین‌ها سفیدند.
+De dagen zijn lang. | روزها بلندند.
+Ik heb twee zussen. | دو خواهر دارم.
+## عددها و سن
+Ik ben dertig jaar. | سی سالم است.
+Hoe oud is je zoon? | پسرت چند سالش است؟
+Hij is zeven jaar oud. | او هفت سال دارد.
+Mijn dochter is twaalf. | دخترم دوازده سالش است.
+Ik heb maar één zus. | فقط یک خواهر دارم.
+Er zijn vijftien studenten. | پانزده دانشجو هست.
+De bus komt over tien minuten. | اتوبوس ده دقیقه دیگر می‌آید.
+Mijn huisnummer is achttien. | پلاک خانه‌ام هجده است.
+Ik woon hier al vijf jaar. | پنج سال است این‌جا زندگی می‌کنم.
+Mijn moeder is zestig. | مادرم شصت سالش است.
+Hoe oud bent u? | شما چند سال دارید؟
+## عدد و قیمت
+Het kost tien euro. | ده یورو قیمت دارد.
+Wat kost dat? | آن چند است؟
+Dat is vijfentwintig euro. | آن بیست‌وپنج یورو است.
+De koffie kost drie euro vijftig. | قهوه سه یورو و پنجاه سنت است.
+Mijn nummer is zes, twee, acht, nul. | شماره من شش، دو، هشت، صفر است.
+Ik woon op nummer negenendertig. | من در پلاک سی‌ونه زندگی می‌کنم.
+Dat is te duur. | آن خیلی گران است.
+Het is goedkoop. | ارزان است.
+Honderd euro is veel geld. | صد یورو پول زیادی است.
+Kan ik pinnen? | می‌توانم با کارت پرداخت کنم؟
+Het is twee euro per stuk. | دانه‌ای دو یورو است.
+## ما، شما، آن‌ها
+Wij wonen in Delft. | ما در دلفت زندگی می‌کنیم.
+Jullie werken veel. | شما خیلی کار می‌کنید.
+Zij spreken Arabisch. | آن‌ها عربی حرف می‌زنند.
+We zijn blij. | ما خوشحالیم.
+Zijn jullie klaar? | شما آماده‌اید؟
+Ze hebben een hond. | آن‌ها یک سگ دارند.
+Wonen jullie hier al lang? | خیلی وقت است این‌جا زندگی می‌کنید؟
+We leren samen Nederlands. | با هم هلندی یاد می‌گیریم.
+Mijn ouders komen uit Tabriz. | پدر و مادرم اهل تبریزند.
+Jullie zijn welkom! | خوش آمدید!
+Wij eten om zes uur. | ما ساعت شش غذا می‌خوریم.
+## خانه
+Ik woon in een appartement. | من در یک آپارتمان زندگی می‌کنم.
+Het huis heeft drie kamers. | خانه سه اتاق دارد.
+De keuken is klein. | آشپزخانه کوچک است.
+De woonkamer is groot. | اتاق نشیمن بزرگ است.
+De badkamer is boven. | حمام طبقه بالاست.
+Mijn slaapkamer is licht. | اتاق خوابم روشن است.
+We hebben een balkon. | ما بالکن داریم.
+De bank staat in de woonkamer. | مبل در اتاق نشیمن است.
+Het bed is nieuw. | تخت نو است.
+De huur is hoog. | اجاره بالاست.
+Ik woon op de tweede verdieping. | من طبقه دوم زندگی می‌کنم.
+## هست و نیست: er is، er zijn
+Er is een tafel in de keuken. | در آشپزخانه یک میز هست.
+Er zijn twee stoelen. | دو صندلی هست.
+Er is een supermarkt in de buurt. | در این نزدیکی یک سوپرمارکت هست.
+Is er een apotheek hier? | این‌جا داروخانه هست؟
+Er zijn veel fietsen in Amsterdam. | در آمستردام دوچرخه زیادی هست.
+Er is geen lift. | آسانسور نیست.
+Er staat een plant op de tafel. | روی میز یک گلدان هست.
+Er ligt een boek op het bed. | روی تخت یک کتاب افتاده.
+Zijn er vragen? | سؤالی هست؟
+Er is iemand aan de deur. | یک نفر دم در است.
+Wat is er? | چی شده؟
+## صفت قبل از اسم
+Ik heb een grote tas. | من یک کیف بزرگ دارم.
+Het is een mooie stad. | شهر زیبایی است.
+We hebben een klein huis. | ما یک خانه کوچک داریم.
+Het kleine huis is van ons. | خانه کوچک مال ماست.
+De nieuwe docent is aardig. | معلم جدید مهربان است.
+Ik zoek een goedkope fiets. | دنبال یک دوچرخه ارزان می‌گردم.
+Dat is een oud boek. | آن یک کتاب قدیمی است.
+Hij heeft blauwe ogen. | او چشم‌های آبی دارد.
+Het is lekker weer. | هوا خوب است.
+Ik drink warme melk. | شیر گرم می‌نوشم.
+Mijn huis is klein. | خانه‌ام کوچک است.
+## کارهای روزانه
+Ik werk elke dag. | هر روز کار می‌کنم.
+Ik ontbijt om acht uur. | ساعت هشت صبحانه می‌خورم.
+Ik ga naar mijn werk. | سر کار می‌روم.
+Hij gaat met de fiets. | او با دوچرخه می‌رود.
+Ik lunch om twaalf uur. | ساعت دوازده ناهار می‌خورم.
+Ik kook 's avonds. | عصرها آشپزی می‌کنم.
+Ik kijk tv. | تلویزیون تماشا می‌کنم.
+Zij slaapt acht uur. | او هشت ساعت می‌خوابد.
+Ik douche 's ochtends. | صبح‌ها دوش می‌گیرم.
+Ik lees een boek in bed. | در تخت کتاب می‌خوانم.
+We doen boodschappen op zaterdag. | شنبه‌ها خرید می‌کنیم.
+## ساعت
+Hoe laat is het? | ساعت چند است؟
+Het is drie uur. | ساعت سه است.
+Het is half vier. | ساعت سه و نیم است.
+Het is kwart over twee. | ساعت دو و ربع است.
+Het is kwart voor zes. | یک ربع به شش است.
+Het is tien over acht. | هشت و ده دقیقه است.
+De les begint om negen uur. | کلاس ساعت نه شروع می‌شود.
+Hoe laat begint de film? | فیلم ساعت چند شروع می‌شود؟
+De winkel gaat om zes uur dicht. | مغازه ساعت شش می‌بندد.
+Ik ben om vijf uur thuis. | ساعت پنج خانه‌ام.
+Het is twaalf uur 's middags. | ساعت دوازده ظهر است.
+## روزهای هفته
+Vandaag is het maandag. | امروز دوشنبه است.
+Morgen is het dinsdag. | فردا سه‌شنبه است.
+Op woensdag werk ik niet. | چهارشنبه‌ها کار نمی‌کنم.
+Donderdag heb ik les. | پنجشنبه کلاس دارم.
+Vrijdag ga ik naar de markt. | جمعه به بازار می‌روم.
+Zaterdag slaap ik lang. | شنبه دیر از خواب بیدار می‌شوم.
+Zondag bezoek ik mijn ouders. | یکشنبه به پدر و مادرم سر می‌زنم.
+Wat doe je in het weekend? | آخر هفته چه کار می‌کنی؟
+Ik werk van maandag tot vrijdag. | از دوشنبه تا جمعه کار می‌کنم.
+Volgende week heb ik vakantie. | هفته بعد تعطیلات دارم.
+Welke dag past jou? | چه روزی برایت مناسب است؟
+## اول زمان یا مکان، بعد فعل
+Vandaag ga ik naar de markt. | امروز به بازار می‌روم.
+Morgen werk ik thuis. | فردا در خانه کار می‌کنم.
+Nu ben ik moe. | الان خسته‌ام.
+Hier woon ik. | این‌جا زندگی می‌کنم.
+In Nederland regent het veel. | در هلند زیاد باران می‌بارد.
+Na de les drink ik koffie. | بعد از کلاس قهوه می‌نوشم.
+Soms kook ik voor mijn vrienden. | گاهی برای دوستانم آشپزی می‌کنم.
+'s Ochtends drinkt hij thee. | صبح‌ها او چای می‌نوشد.
+Dan gaan we naar huis. | بعد به خانه می‌رویم.
+Om acht uur begint mijn werk. | ساعت هشت کارم شروع می‌شود.
+Gelukkig ben ik niet ziek. | خوشبختانه مریض نیستم.
+## خوردن و نوشیدن
+Ik eet brood met kaas. | نان و پنیر می‌خورم.
+Wil je thee of koffie? | چای می‌خواهی یا قهوه؟
+Ik drink graag water. | دوست دارم آب بنوشم.
+We eten vanavond rijst met kip. | امشب برنج با مرغ می‌خوریم.
+Hij eet geen vlees. | او گوشت نمی‌خورد.
+De soep is heet. | سوپ داغ است.
+Ik heb zin in pizza. | هوس پیتزا کرده‌ام.
+Het ontbijt is klaar. | صبحانه آماده است.
+Eet smakelijk! | نوش جان!
+Ik lust geen vis. | ماهی دوست ندارم.
+Mag ik een glas water? | می‌شود یک لیوان آب بدهید؟
+## خواستن: willen
+Ik wil koffie drinken. | می‌خواهم قهوه بنوشم.
+Wil je mee? | می‌خواهی با ما بیایی؟
+Hij wil een nieuwe telefoon. | او یک تلفن جدید می‌خواهد.
+We willen naar het strand. | می‌خواهیم برویم ساحل.
+Wat wil je eten? | چه می‌خواهی بخوری؟
+Ik wil Nederlands leren. | می‌خواهم هلندی یاد بگیرم.
+Willen jullie iets drinken? | چیزی می‌خواهید بنوشید؟
+Ik wil graag een kopje thee. | یک فنجان چای می‌خواهم، لطفاً.
+Zij wil in Utrecht wonen. | او می‌خواهد در اوترخت زندگی کند.
+Ik wil het niet. | نمی‌خواهمش.
+Wanneer wil je komen? | کی می‌خواهی بیایی؟
+## توانستن: kunnen
+Ik kan zwemmen. | من می‌توانم شنا کنم.
+Kun je mij helpen? | می‌توانی کمکم کنی؟
+Hij kan goed koken. | او خوب آشپزی می‌کند.
+Ik kan niet komen. | نمی‌توانم بیایم.
+Kunt u dat herhalen? | می‌شود تکرار کنید؟
+We kunnen morgen gaan. | می‌توانیم فردا برویم.
+Kan ik hier betalen? | می‌توانم این‌جا پرداخت کنم؟
+Ik kan je niet verstaan. | صدایت را نمی‌شنوم / نمی‌فهمم.
+Kunt u langzaam praten? | می‌شود آهسته حرف بزنید؟
+Zij kan geen Nederlands lezen. | او نمی‌تواند هلندی بخواند.
+Dat kan. | امکانش هست. / می‌شود.
+## باید: moeten
+Ik moet werken. | باید کار کنم.
+Je moet hier links. | این‌جا باید بپیچی چپ.
+We moeten om acht uur weg. | باید ساعت هشت برویم.
+Hij moet naar de dokter. | او باید برود دکتر.
+Moet ik nu betalen? | الان باید پرداخت کنم؟
+Je hoeft niet te komen. | لازم نیست بیایی.
+Ik moet mijn huiswerk maken. | باید تکلیفم را انجام بدهم.
+Jullie moeten stil zijn. | باید ساکت باشید.
+Wat moet ik doen? | چه کار باید بکنم؟
+Je moet vroeg opstaan. | باید زود بیدار شوی.
+Zij moet elke dag fietsen. | او باید هر روز دوچرخه‌سواری کند.
+## در کافه و رستوران
+Een tafel voor twee, alstublieft. | یک میز برای دو نفر، لطفاً.
+Mag ik de kaart? | منو را می‌دهید؟
+Ik wil graag bestellen. | می‌خواهم سفارش بدهم.
+Voor mij een cappuccino. | برای من یک کاپوچینو.
+Wat raadt u aan? | چه پیشنهاد می‌کنید؟
+Is er een vegetarisch gerecht? | غذای گیاهی دارید؟
+Het eten is erg lekker. | غذا خیلی خوشمزه است.
+Mag ik de rekening? | صورت‌حساب را می‌دهید؟
+We betalen apart. | جداگانه حساب می‌کنیم.
+Kan ik met de kaart betalen? | می‌توانم با کارت پرداخت کنم؟
+Dank u wel, tot ziens! | خیلی ممنون، خداحافظ!
+## دوست داشتن: graag و houden van
+Ik eet graag rijst. | برنج دوست دارم.
+Ik lees niet graag. | کتاب خواندن را دوست ندارم.
+Ik houd van muziek. | موسیقی را دوست دارم.
+Ik hou van jou. | دوستت دارم.
+Hij houdt van voetbal. | او فوتبال دوست دارد.
+Wat doe je graag? | چه کاری را دوست داری؟
+Ik wandel graag in het park. | دوست دارم در پارک قدم بزنم.
+Ze danst graag. | او رقص دوست دارد.
+Ik vind dit boek leuk. | این کتاب را دوست دارم.
+Ik vind koffie niet lekker. | قهوه را دوست ندارم (مزه‌اش را).
+Ik hou niet van regen. | باران دوست ندارم.
+## خرید
+Hoeveel kost deze broek? | این شلوار چند است؟
+Ik zoek een jas. | دنبال یک کت می‌گردم.
+Heeft u dit in maat M? | این را در سایز M دارید؟
+Mag ik dit passen? | می‌توانم این را امتحان کنم؟
+Waar is de paskamer? | اتاق پرو کجاست؟
+Het is te klein. | خیلی کوچک است.
+Heeft u een grotere maat? | سایز بزرگ‌تر دارید؟
+Ik neem deze. | این را برمی‌دارم.
+Wilt u een tas? | کیسه می‌خواهید؟
+Nee, dank u, ik heb een tas. | نه ممنون، کیسه دارم.
+Mag ik de bon? | رسید را می‌دهید؟
+## رنگ و لباس
+De jas is blauw. | کت آبی است.
+Ik draag een zwarte broek. | شلوار مشکی می‌پوشم.
+Zij heeft een rode jurk. | او یک پیراهن زنانه قرمز دارد.
+Mijn schoenen zijn bruin. | کفش‌هایم قهوه‌ای‌اند.
+Welke kleur vind je mooi? | چه رنگی را قشنگ می‌دانی؟
+Ik vind groen mooi. | سبز را قشنگ می‌دانم.
+Het overhemd is wit. | پیراهن مردانه سفید است.
+Hij draagt een grijze trui. | او یک پلیور خاکستری پوشیده.
+Ik heb een geel T-shirt. | یک تی‌شرت زرد دارم.
+Doe je jas aan, het is koud. | کتت را بپوش، سرد است.
+Die sokken zijn niet schoon. | آن جوراب‌ها تمیز نیستند.
+## این‌ها و آن‌ها: deze، die، dit، dat
+Deze stoel is vrij. | این صندلی خالی است.
+Die man is mijn buurman. | آن مرد همسایه من است.
+Dit huis is te duur. | این خانه خیلی گران است.
+Dat restaurant is goed. | آن رستوران خوب است.
+Deze appels zijn zoet. | این سیب‌ها شیرین‌اند.
+Die schoenen zijn mooi. | آن کفش‌ها قشنگ‌اند.
+Wie is die vrouw? | آن زن کیست؟
+Ik wil dit brood. | این نان را می‌خواهم.
+Welke wil je, deze of die? | کدام را می‌خواهی، این یا آن؟
+Dat is waar. | درست است.
+Dit jaar woon ik in Leiden. | امسال در لیدن زندگی می‌کنم.
+## در شهر
+Waar is het gemeentehuis? | شهرداری کجاست؟
+Het station is naast de bank. | ایستگاه کنار بانک است.
+De bakker is tegenover de kerk. | نانوایی روبه‌روی کلیساست.
+Het museum is in het centrum. | موزه در مرکز شهر است.
+Is de bibliotheek ver? | کتابخانه دور است؟
+De bushalte is om de hoek. | ایستگاه اتوبوس سر نبش است.
+Het postkantoor is achter het gemeentehuis. | اداره پست پشت شهرداری است.
+Er is een markt op het plein. | در میدان یک بازار هست.
+Ik zoek de apotheek. | دنبال داروخانه می‌گردم.
+De supermarkt is tussen de bank en de school. | سوپرمارکت بین بانک و مدرسه است.
+Is hier een geldautomaat? | این‌جا خودپرداز هست؟
+## آدرس پرسیدن
+Pardon, waar is de markt? | ببخشید، بازار کجاست؟
+Ga rechtdoor. | مستقیم برو.
+Ga hier rechts. | این‌جا برو راست.
+Neem de eerste straat links. | اولین خیابان را بپیچ چپ.
+Steek de brug over. | از پل رد شو.
+Het is aan de rechterkant. | سمت راست است.
+Het is vijf minuten lopen. | پنج دقیقه پیاده است.
+Ga tot het stoplicht. | تا چراغ‌راهنما برو.
+Is het ver lopen? | پیاده دور است؟
+Neem bus tien. | اتوبوس ده را سوار شو.
+Dank u, dat is duidelijk. | ممنون، روشن است.
+## رفت‌وآمد
+Ik ga met de trein. | با قطار می‌روم.
+Ik fiets naar mijn werk. | با دوچرخه سر کار می‌روم.
+De trein vertrekt om tien uur. | قطار ساعت ده حرکت می‌کند.
+Hoe laat komt de bus aan? | اتوبوس ساعت چند می‌رسد؟
+Ik koop een kaartje. | یک بلیت می‌خرم.
+Ik check in met mijn ov-chipkaart. | با کارت مترو/اتوبوس وارد می‌شوم.
+Je moet overstappen in Utrecht. | باید در اوترخت قطار عوض کنی.
+De trein heeft vertraging. | قطار تأخیر دارد.
+Van welk spoor vertrekt de trein? | قطار از کدام سکو حرکت می‌کند؟
+Ik ga lopen. | پیاده می‌روم.
+Hij rijdt auto. | او رانندگی می‌کند.
+## آینده نزدیک: gaan + فعل
+Ik ga morgen koken. | فردا آشپزی می‌کنم.
+We gaan zaterdag verhuizen. | شنبه اسباب‌کشی می‌کنیم.
+Wat ga je doen? | چه کار می‌خواهی بکنی؟
+Hij gaat een huis kopen. | او می‌خواهد خانه بخرد.
+Ga je vanavond sporten? | امشب ورزش می‌کنی؟
+Het gaat regenen. | باران خواهد بارید.
+Ik ga even boodschappen doen. | یک سر می‌روم خرید.
+Zij gaan in juni trouwen. | آن‌ها در ژوئن ازدواج می‌کنند.
+We gaan uit eten. | می‌رویم بیرون غذا بخوریم.
+Ik ga je bellen. | بهت زنگ می‌زنم.
+Volgend jaar ga ik studeren. | سال بعد می‌روم درس بخوانم.
+## هوا
+Het regent. | باران می‌بارد.
+Het waait hard. | باد شدید می‌وزد.
+De zon schijnt. | آفتاب می‌تابد.
+Het is warm vandaag. | امروز گرم است.
+Het sneeuwt in de winter. | در زمستان برف می‌بارد.
+Wat voor weer is het? | هوا چطور است؟
+Het is bewolkt. | هوا ابری است.
+Neem een paraplu mee. | چتر با خودت ببر.
+In de zomer is het lang licht. | در تابستان هوا تا دیر روشن است.
+Het is vijf graden. | پنج درجه است.
+Wat een mooi weer! | چه هوای خوبی!
+## کار
+Wat voor werk doe je? | چه کاری می‌کنی؟ (شغلت چیست؟)
+Ik werk als kok. | به عنوان آشپز کار می‌کنم.
+Ik werk bij een bank. | در یک بانک کار می‌کنم.
+Hij werkt in de zorg. | او در بخش مراقبت (پرستاری) کار می‌کند.
+Ik werk fulltime. | تمام‌وقت کار می‌کنم.
+Ik zoek werk. | دنبال کار می‌گردم.
+Mijn collega's zijn aardig. | همکارانم مهربان‌اند.
+Ik begin om negen uur. | ساعت نه شروع می‌کنم.
+Mijn baas heet Peter. | اسم رئیسم پیتر است.
+Ik verdien niet veel. | درآمد زیادی ندارم.
+Ze heeft een eigen bedrijf. | او شرکت خودش را دارد.
+## درس و مدرسه
+Ik zit op taalles. | کلاس زبان می‌روم.
+Mijn dochter zit in groep vijf. | دخترم کلاس پنجم (دبستان) است.
+De school begint om half negen. | مدرسه ساعت هشت و نیم شروع می‌شود.
+Ik studeer economie. | من اقتصاد می‌خوانم.
+Ik leer elke dag nieuwe woorden. | هر روز واژه‌های جدید یاد می‌گیرم.
+Het examen is moeilijk. | امتحان سخت است.
+De les is makkelijk. | درس آسان است.
+Ik maak mijn huiswerk. | تکلیفم را انجام می‌دهم.
+Wat betekent dit woord? | این واژه یعنی چه؟
+Hoe zeg je dat in het Nederlands? | این را به هلندی چطور می‌گویی؟
+Ik heb een woordenboek nodig. | یک فرهنگ لغت لازم دارم.
+## مرا، او را: mij، hem، haar
+Hij helpt mij. | او به من کمک می‌کند.
+Ik zie hem. | او را می‌بینم.
+Ik ken haar. | او را می‌شناسم.
+Bel me morgen. | فردا به من زنگ بزن.
+Ik bel je straks. | بعداً بهت زنگ می‌زنم.
+Zij bezoekt ons. | او به ما سر می‌زند.
+Ik zie jullie morgen. | فردا شما را می‌بینم.
+Ik geef hun een cadeau. | به آن‌ها یک هدیه می‌دهم.
+Waar is de sleutel? Ik zie hem niet. | کلید کجاست؟ نمی‌بینمش.
+Waar is het boek? Ik heb het. | کتاب کجاست؟ دست من است.
+Kunt u ons helpen? | می‌توانید به ما کمک کنید؟
+## فعل‌های دو تکه
+Ik sta om zeven uur op. | ساعت هفت بیدار می‌شوم.
+Hij belt zijn moeder op. | او به مادرش زنگ می‌زند.
+Ik ruim mijn kamer op. | اتاقم را مرتب می‌کنم.
+Ik zet de tv aan. | تلویزیون را روشن می‌کنم.
+Ik doe het licht uit. | چراغ را خاموش می‌کنم.
+De winkel gaat om negen uur open. | مغازه ساعت نه باز می‌شود.
+Hij komt morgen terug. | او فردا برمی‌گردد.
+Ik nodig mijn vrienden uit. | دوستانم را دعوت می‌کنم.
+Wanneer kom je thuis? | کی خانه می‌آیی؟
+Ik moet morgen vroeg opstaan. | فردا باید زود بیدار شوم.
+Doe de deur dicht, alsjeblieft. | در را ببند، لطفاً.
+## بدن و سلامتی
+Ik ben ziek. | مریضم.
+Ik heb hoofdpijn. | سردرد دارم.
+Mijn buik doet pijn. | شکمم درد می‌کند.
+Ik heb koorts. | تب دارم.
+Hij heeft keelpijn. | او گلودرد دارد.
+Ik ben verkouden. | سرما خورده‌ام.
+Ik moet naar de huisarts. | باید بروم پیش پزشک خانواده.
+Ik wil een afspraak maken. | می‌خواهم وقت بگیرم.
+Mijn rug doet pijn. | کمرم درد می‌کند.
+Neem deze tabletten twee keer per dag. | این قرص‌ها را روزی دو بار بخور.
+Beterschap! | زود خوب شوی!
+Ik voel me niet goed. | حالم خوب نیست.
+## وقت آزاد
+Wat doe je in je vrije tijd? | در وقت آزادت چه کار می‌کنی؟
+Ik lees graag. | کتاب خواندن دوست دارم.
+In het weekend sport ik. | آخر هفته ورزش می‌کنم.
+Ik speel gitaar. | گیتار می‌زنم.
+Hij zit op voetbal. | او فوتبال می‌رود (در باشگاه).
+We gaan vaak naar de bioscoop. | اغلب به سینما می‌رویم.
+Ik luister naar muziek. | به موسیقی گوش می‌دهم.
+Zij schildert graag. | او نقاشی دوست دارد.
+Ik maak foto's. | عکس می‌گیرم.
+Ik ga twee keer per week zwemmen. | هفته‌ای دو بار شنا می‌روم.
+Heb je een hobby? | سرگرمی داری؟
+Ik wandel met de hond. | سگ را پیاده‌روی می‌برم.
+## مرور A1: یک روز من
+Ik heet Mina en ik kom uit Iran. | اسمم میناست و اهل ایرانم.
+Ik woon al drie jaar in Utrecht. | سه سال است در اوترخت زندگی می‌کنم.
+Ik sta elke dag om zeven uur op. | هر روز ساعت هفت بیدار می‌شوم.
+Eerst drink ik thee. | اول چای می‌نوشم.
+Dan fiets ik naar mijn werk. | بعد با دوچرخه سر کارم می‌روم.
+Ik werk als verpleegkundige. | به عنوان پرستار کار می‌کنم.
+Mijn werk is zwaar, maar leuk. | کارم سخت ولی جذاب است.
+Om vijf uur kom ik thuis. | ساعت پنج خانه می‌آیم.
+Ik kook en we eten samen. | آشپزی می‌کنم و با هم غذا می‌خوریم.
+Na het eten ruim ik de keuken op. | بعد از غذا آشپزخانه را مرتب می‌کنم.
+'s Avonds lees ik een boek. | شب‌ها کتاب می‌خوانم.
+Om elf uur ga ik slapen. | ساعت یازده می‌خوابم.
+Morgen ga ik naar mijn taalles. | فردا به کلاس زبانم می‌روم.
+# --- Dutch in 90 Days Interactive
+## خرید از آلبرت هاین
+Vandaag doen we boodschappen. | امروز خرید می‌کنیم.
+De supermarkt is om de hoek. | سوپرمارکت همین سر نبش است.
+Heeft u een Bonuskaart? | کارت Bonus دارید؟
+Ik wil graag pinnen. | می‌خواهم با کارت پرداخت کنم.
+Ik heb een eigen tas. | خودم کیسه دارم.
+## هاخلسلاخ روی نان
+Wil je ook een boterham? | تو هم یک ساندویچ می‌خواهی؟
+Mia doet boter op haar boterham. | میا روی نانش کره می‌مالد.
+Karnemelk is zuur. | دوغ هلندی ترش است.
+Ik heb al gegeten. | من قبلاً غذا خورده‌ام.
+Hagelslag eet ik elke dag. | هر روز هاخلسلاخ می‌خورم.
+## یک دوچرخه برای سارا
+Ik zoek een fiets. | دنبال یک دوچرخه می‌گردم.
+Hoeveel kost deze fiets? | این دوچرخه چند است؟
+De fiets is niet te duur. | دوچرخه زیاد گران نیست.
+Je hebt twee sloten nodig. | به دو قفل احتیاج داری.
+Ik fiets naar huis. | با دوچرخه به خانه می‌روم.
+## در بازار آلبرت کاوپ
+Het is druk en gezellig. | شلوغ و دلنشین است.
+Mag ik even proeven? | می‌توانم کمی بچشم؟
+Eén stroopwafel, alstublieft. | یک استروپ‌وافل، لطفاً.
+Mia betaalt zelf. | میا خودش پول می‌دهد.
+Ik zet de bloemen in een vaas. | گل‌ها را در گلدان می‌گذارم.
+## اولین روز مدرسه
+Vandaag is een belangrijke dag. | امروز روز مهمی است.
+Mia gaat naar school. | میا به مدرسه می‌رود.
+Ze is een beetje bang. | او کمی می‌ترسد.
+Om drie uur haal ik haar op. | ساعت سه دنبالش می‌روم.
+De juf is heel lief. | خانم معلم خیلی مهربان است.
+## باران، باران، باران
+Het regent de hele dag. | تمام روز باران می‌آید.
+Fiets je in de regen? | زیر باران دوچرخه‌سواری می‌کنی؟
+Over tien minuten is het droog. | ده دقیقه‌ی دیگر هوا خشک می‌شود.
+Ik ben drijfnat! | خیسِ آب شده‌ام!
+Nu ben ik klaar voor het Nederlandse weer. | حالا برای هوای هلند آماده‌ام.
+## در فروشگاه هِما
+Mia heeft spullen nodig voor school. | میا برای مدرسه وسایل لازم دارد.
+Je kunt er bijna alles kopen. | آنجا تقریباً همه‌چیز می‌شود خرید.
+Dat is heel bekend in Nederland. | این در هلند خیلی معروف است.
+Dat is niet makkelijk! | این آسان نیست!
+Mia heeft room op haar neus. | روی بینی میا خامه است.
+## با دوچرخه سر کار
+Let goed op! | خوب حواست را جمع کن!
+Het stoplicht is rood. | چراغ قرمز است.
+Rechts gaat voor. | سمت راست حق تقدم دارد.
+Ik zet mijn fiets in de fietsenstalling. | دوچرخه‌ام را در پارکینگ دوچرخه می‌گذارم.
+Fietsen is gezond. | دوچرخه‌سواری برای سلامتی خوب است.
+## قهوه پیش همسایه‌ها
+Welkom, kom binnen! | خوش آمدید، بیایید داخل!
+Iedereen neemt één koekje. | هر کس یک بیسکویت برمی‌دارد.
+Dat is hier normaal. | اینجا این عادی است.
+Wij krijgen een baby! | ما بچه‌دار می‌شویم!
+Nu begrijp ik het. | حالا می‌فهمم.
+## با تراموا به میدان دام
+Hebben we een kaartje nodig? | بلیت لازم داریم؟
+Ik check in met mijn bankpas. | با کارت بانکی‌ام چک‌این می‌کنم.
+De volgende halte is de Dam. | ایستگاه بعدی دام است.
+Vergeet niet uit te checken. | یادت نرود چک‌اوت کنی.
+Wat een mooie stad! | چه شهر زیبایی!
+## با فِری به آمستردام شمالی
+De pont is gratis. | فِری رایگان است.
+De wind is koud en fris. | باد سرد و خنک است.
+Hier is het rustig. | اینجا آرام است.
+We eten een broodje. | یک ساندویچ می‌خوریم.
+Nog een keer! | یک بار دیگر!
+## گشت‌وگذار در فروشگاه اَکشن
+Daar is alles goedkoop! | آنجا همه‌چیز ارزان است!
+Ik neem een winkelwagen. | یک چرخ خرید برمی‌دارم.
+Die lijkt op Lucy! | این شبیه لوسی است!
+Ik zet de lamp naast de bank. | چراغ را کنار کاناپه می‌گذارم.
+Wat is het hier gezellig! | اینجا چقدر دلنشین است!
+## رفتن به کرویدفات
+Mia is ziek. | میا بیمار است.
+Ze blijft vandaag thuis. | امروز در خانه می‌ماند.
+Twee voor de prijs van één! | دو تا به قیمت یکی!
+Veel water drinken en rusten! | زیاد آب بخور و استراحت کن!
+Morgen is ze vast beter. | فردا حتماً حالش بهتر است.
+## جشن تولد در حلقه
+Dani is vandaag jarig. | امروز تولد دانی است.
+Gefeliciteerd met je kleinzoon! | تولد نوه‌تان مبارک!
+We geven iedereen een hand. | با همه دست می‌دهیم.
+Er is koffie met taart. | قهوه و کیک هست.
+Hij is prachtig! | خیلی قشنگ است!
+## در کتابخانه‌ی OBA
+Hoe word ik lid? | چطور عضو می‌شوم؟
+Kinderen zijn gratis lid. | بچه‌ها رایگان عضو می‌شوند.
+Binnen is het licht en stil. | داخل روشن و ساکت است.
+Ik wil Nederlands oefenen. | می‌خواهم هلندی تمرین کنم.
+Ik zie ons huis! | خانه‌مان را می‌بینم!
+## تفکیک زباله
+Wij scheiden ons afval. | ما زباله‌هایمان را تفکیک می‌کنیم.
+Blauw is voor papier. | آبی برای کاغذ است.
+Breng de flessen terug naar de supermarkt. | بطری‌ها را به سوپرمارکت برگردان.
+Dan krijg je geld terug. | آن‌وقت پولت را پس می‌گیری.
+Ik ben rijk! | من پولدارم!
+## پاییز در پارک فوندل
+Het is herfst. | پاییز است.
+Het waait hard. | باد شدیدی می‌وزد.
+Ze zoekt kastanjes. | او دنبال شاه‌بلوط می‌گردد.
+De klok gaat een uur terug. | ساعت یک ساعت عقب کشیده می‌شود.
+Dan is het vroeg donker. | آن‌وقت هوا زود تاریک می‌شود.
+## پنکیک در محله‌ی یوردان
+Ik heb honger! | گرسنه‌ام!
+Wat wilt u? | چه میل دارید؟
+Ik wil graag een pannenkoek met kaas. | لطفاً یک پنکیک با پنیر می‌خواهم.
+Zonder spek, alstublieft. | بدون بیکن، لطفاً.
+De pannenkoeken zijn groter dan het bord. | پنکیک‌ها از بشقاب بزرگ‌ترند.
+## در یومبو و لیدل
+Vergelijk de prijzen! | قیمت‌ها را مقایسه کن!
+Er zijn veel aanbiedingen. | حراج‌های زیادی هست.
+Heeft u een klantenkaart? | کارت مشتری دارید؟
+De groente en het fruit zijn vers. | سبزی و میوه تازه است.
+We hebben twaalf euro bespaard! | دوازده یورو صرفه‌جویی کرده‌ایم!
+## باغ‌وحش آرتیس و سیب‌زمینی سرخ‌کرده
+Waar zijn de olifanten? | فیل‌ها کجا هستند؟
+De apen springen en roepen. | میمون‌ها می‌پرند و جیغ می‌کشند.
+Hij vindt mij lief! | از من خوشش می‌آید!
+Een patatje met mayonaise, graag. | یک سیب‌زمینی سرخ‌کرده با مایونز، لطفاً.
+Ik voel het! | حسش می‌کنم!
+## جشن سینت‌مارتن
+Vanavond gaan we langs de deuren. | امشب در خانه‌ها را می‌زنیم.
+Het is al donker. | هوا دیگر تاریک شده است.
+Mia belt aan bij Dani. | میا زنگ خانه‌ی دانی را می‌زند.
+Haar tas is vol. | کیسه‌اش پر است.
+Dit is het leukste feest! | این باحال‌ترین جشن است!
+## سینترکلاس می‌رسد!
+Komt hij echt? | واقعاً می‌آید؟
+Hij heeft een lange witte baard. | او ریش سفید بلندی دارد.
+Hij zwaait naar de kinderen. | او برای بچه‌ها دست تکان می‌دهد.
+Mia vangt er drie! | میا سه تا می‌گیرد!
+Hij zag mij! | مرا دید!
+## گذاشتن کفش برای سینترکلاس
+Mag ik mijn schoen zetten? | اجازه هست کفشم را بگذارم؟
+Hij heeft vast honger. | حتماً گرسنه است.
+Ik kan niet slapen! | نمی‌توانم بخوابم!
+De wortel is weg. | هویج غیب شده است.
+Hij is geweest! | او آمده است!
+## شب هدیه‌ها
+Iedereen trekt een lootje. | همه یک قرعه برمی‌دارند.
+Ik heb Alex! | اسم الکس به من افتاده!
+Er wordt hard op de deur geklopt. | محکم به در می‌کوبند.
+Sinterklaas is geweest! | سینترکلاس آمده است!
+Mia is dolblij. | میا خیلی خوشحال است.
+## خرید درخت کریسمس
+Wij willen een kerstboom. | ما یک درخت کریسمس می‌خواهیم.
+Welke boom wilt u? | کدام درخت را می‌خواهید؟
+We hebben geen auto. | ما ماشین نداریم.
+Ik pas op hem! | مواظبش هستم!
+We zetten de boom in de hoek. | درخت را در گوشه می‌گذاریم.
+## کریسمس با همسایه‌ها
+Wat eten we? | چه می‌خوریم؟
+Iedereen bakt zijn eigen eten. | هر کس غذای خودش را می‌پزد.
+Kijk, ik ben een kok! | ببین، من آشپزم!
+Als toetje is er ijs. | برای دسر بستنی هست.
+Ze is net familie. | او مثل خانواده است.
+## اولیبول (پیراشکی هلندی)
+Kom morgen oliebollen bakken! | فردا بیا اولیبول بپزیم!
+Mia mag roeren. | میا اجازه دارد هم بزند.
+Het deeg moet een uur rijzen. | خمیر باید یک ساعت ور بیاید.
+Haar neus is helemaal wit! | بینی‌اش کاملاً سفید شده!
+Volgend jaar bak jij ze zelf. | سال بعد خودت آن‌ها را می‌پزی.
+## شب سال نو
+Vuurwerk is nu verboden. | آتش‌بازی حالا ممنوع است.
+Sterretjes mogen nog wel. | فشفشه هنوز مجاز است.
+We tellen samen af. | با هم شمارش معکوس می‌کنیم.
+Iedereen geeft elkaar drie zoenen. | همه سه بار همدیگر را می‌بوسند.
+Ons eerste nieuwjaar in Nederland. | اولین سال نوی ما در هلند.
+## شیرجه‌ی سال نو
+Het is maar vijf graden. | فقط پنج درجه است.
+Iedereen rent de zee in. | همه به دریا می‌دوند.
+We nemen de trein. | با قطار می‌رویم.
+Ik spreek al een beetje Nederlands. | حالا کمی هلندی صحبت می‌کنم.
+Ik wil nog meer Nederlands leren. | می‌خواهم باز هم بیشتر هلندی یاد بگیرم.
+## تصمیم‌های خوب سال نو
+Ik ga meer sporten. | بیشتر ورزش می‌کنم.
+Ik wil beter Nederlands leren. | می‌خواهم هلندی را بهتر یاد بگیرم.
+De docent praat langzaam en duidelijk. | معلم آهسته و واضح حرف می‌زند.
+Wij wonen hier sinds september. | ما از سپتامبر اینجا زندگی می‌کنیم.
+Twee leerlingen zijn sterker dan één. | دو شاگرد از یکی قوی‌ترند.
+## قرار ملاقات در شهرداری
+Ik heb online een afspraak gemaakt. | آنلاین وقت گرفتم.
+Ik trok een nummertje. | یک شماره‌ی نوبت برداشتم.
+Na tien minuten was ik aan de beurt. | بعد از ده دقیقه نوبتم شد.
+Wat is uw BSN? | شماره‌ی BSN شما چیست؟
+Ik had alles goed begrepen! | همه‌چیز را خوب فهمیده بودم!
+## بیمار! تماس با پزشک خانواده
+Mijn dochter heeft hoge koorts. | دخترم تب بالایی دارد.
+Bel voor tien uur. | قبل از ساعت ده زنگ بزن.
+Wat zijn de klachten? | علائم چیست؟
+U mag vanmiddag komen. | می‌توانید امروز بعدازظهر بیایید.
+Ze moet veel drinken. | او باید زیاد مایعات بنوشد.
+## در داروخانه
+Het recept stuur ik naar de apotheek. | نسخه را به داروخانه می‌فرستم.
+Drie keer per dag, bij het eten. | روزی سه بار، همراه غذا.
+Stop niet te vroeg. | زود قطعش نکن.
+Moet ik iets betalen? | باید چیزی بپردازم؟
+Het drankje smaakt naar aardbei. | شربت مزه‌ی توت‌فرنگی می‌دهد.
+## اسکیت روی یخ طبیعی
+Is het ijs al dik genoeg? | آیا یخ به اندازه‌ی کافی ضخیم شده است؟
+Ik had nog nooit op ijs gestaan. | تا حالا هیچ‌وقت روی یخ نایستاده بودم.
+Mia leerde het snel. | میا زود یادش گرفت.
+Alex viel drie keer. | الکس سه بار زمین خورد.
+Vroeger was er vaker ijs. | قدیم‌ها بیشتر یخ می‌بست.
+## سوپ نخود و استامپوت
+Kom vanavond eten. | امشب برای شام بیا.
+De baby komt over drie weken. | بچه سه هفته‌ی دیگر می‌آید.
+We koken aardappelen en boerenkool. | سیب‌زمینی و کلم کیل می‌پزیم.
+Die is zonder vlees. | آن بدون گوشت است.
+Wat attent van je! | چقدر باملاحظه‌ای!
+## خرید از مارکت‌پلاتس
+Is de bakfiets nog beschikbaar? | آیا دوچرخه‌ی باری هنوز موجود است؟
+Kom morgen maar kijken. | فردا بیا ببین.
+De banden zijn oud. | لاستیک‌ها کهنه‌اند.
+Is zeshonderd euro goed? | ششصد یورو خوب است؟
+Nu zijn we echte Amsterdammers! | حالا آمستردامیِ واقعی هستیم!
+## یک بسته پیش همسایه‌ها
+Ik heb online een jas besteld. | آنلاین یک کاپشن سفارش داده‌ام.
+Wij hebben uw pakket bij de buren bezorgd. | بسته‌ی شما را به همسایه‌ها تحویل داده‌ایم.
+Hij had veel haast! | خیلی عجله داشت!
+De jas was te klein! | کاپشن خیلی کوچک بود!
+Je kunt hem gratis terugsturen. | می‌توانی آن را رایگان پس بفرستی.
+## بیسکویت تُرد با «موشک‌ها»
+De baby is geboren! | نوزاد به دنیا آمده است!
+Kom zaterdag op kraamvisite! | شنبه برای دیدن نوزاد بیا!
+Mag ik hem vasthouden? | می‌توانم بغلش کنم؟
+Ga maar op de bank zitten. | روی کاناپه بنشین.
+Het is een jongen. | پسر است.
+## مرکز مراقبت از کودک
+Ze wegen en meten Noah. | نوآ را وزن می‌کنند و قدش را اندازه می‌گیرند.
+Hij groeit goed. | خوب رشد می‌کند.
+Het is niet verplicht. | اجباری نیست.
+Bijna iedereen doet mee. | تقریباً همه شرکت می‌کنند.
+Het is een mooi doel. | هدف خوبی است.
+## کارناوال در جنوب
+Gaan we samen kijken? | با هم برویم تماشا؟
+De hele stad was rood, wit en geel. | تمام شهر قرمز، سفید و زرد بود.
+De muziek was hard en vrolijk. | موسیقی بلند و شاد بود.
+Mia zat op de schouders van Alex. | میا روی شانه‌های الکس نشسته بود.
+Volgend jaar wil ik een kikker zijn! | سال بعد می‌خواهم قورباغه باشم!
+## تیکی بعد از موزه‌ی نِمو
+Binnen mag je alles aanraken. | داخل به همه‌چیز می‌شود دست زد.
+Samen of apart betalen? | با هم پرداخت می‌کنید یا جدا؟
+Ik betaal met mijn pas. | با کارتم پرداخت می‌کنم.
+Ik stuur jullie straks een Tikkie. | کمی بعد برایتان یک تیکی می‌فرستم.
+Ik klikte en betaalde. | کلیک کردم و پرداختم.
+## تعمیرات خانگی با گاما
+Ik wil een nieuwe kleur voor mijn kamer. | برای اتاقم یک رنگ جدید می‌خواهم.
+Is dit genoeg voor een kleine kamer? | این برای یک اتاق کوچک کافی است؟
+Eerst goed schoonmaken! | اول خوب تمیز کن!
+Mia mocht ook helpen. | میا هم اجازه داشت کمک کند.
+Het rook naar verf. | بوی رنگ می‌داد.
+## رفتن به ایکیا
+Veel winkels zijn op zondag open. | خیلی از مغازه‌ها یکشنبه باز هستند.
+Mia probeerde elk bed uit. | میا همه‌ی تخت‌ها را امتحان کرد.
+Dat is raar. | عجیب است.
+De dozen waren zwaar. | جعبه‌ها سنگین بودند.
+We zetten de kast samen in elkaar. | کمد را با هم سوار می‌کنیم.
+## یک همراه زبان
+Alleen Nederlands, geen Engels! | فقط هلندی، انگلیسی نه!
+Zullen we elke week afspreken? | هر هفته قرار بگذاریم؟
+Ik schrijf alle fouten in een schriftje. | همه‌ی اشتباه‌ها را در یک دفترچه می‌نویسم.
+Ik durf meer te praten. | جرئت می‌کنم بیشتر حرف بزنم.
+Ik denk soms in het Nederlands. | گاهی به هلندی فکر می‌کنم.

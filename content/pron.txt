@@ -1,0 +1,13 @@
+# Dutch word = Persian-letter reading (overrides tools/nl_fa.py)
+een = اِن
+hallo = هالو
+utrecht = اوترِخت
+de = دِه
+het = هِت
+je = یِه
+me = مِه
+we = وِه
+ze = زِه
+te = تِه
+u = او
+zzp'er = زِت‌زِت‌پِیِر
