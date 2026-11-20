@@ -5006,5 +5006,4545 @@
 "audio/s0600.mp3": {
 "text": "Ik wil graag een pannenkoek met kaas.",
 "voice": "m"
+},
+"audio/w-gewerkt.mp3": {
+"text": "gewerkt",
+"voice": "w"
+},
+"audio/s0601.mp3": {
+"text": "Ik heb gewerkt.",
+"voice": "f"
+},
+"audio/w-gisteren.mp3": {
+"text": "gisteren",
+"voice": "w"
+},
+"audio/w-gekookt.mp3": {
+"text": "gekookt",
+"voice": "w"
+},
+"audio/s0602.mp3": {
+"text": "Ik heb gisteren gekookt.",
+"voice": "m"
+},
+"audio/w-geleerd.mp3": {
+"text": "geleerd",
+"voice": "w"
+},
+"audio/s0603.mp3": {
+"text": "Hij heeft Nederlands geleerd.",
+"voice": "f"
+},
+"audio/w-gewandeld.mp3": {
+"text": "gewandeld",
+"voice": "w"
+},
+"audio/s0604.mp3": {
+"text": "We hebben de hele dag gewandeld.",
+"voice": "m"
+},
+"audio/w-geslapen.mp3": {
+"text": "geslapen",
+"voice": "w"
+},
+"audio/s0605.mp3": {
+"text": "Heb je goed geslapen?",
+"voice": "f"
+},
+"audio/w-gebeld.mp3": {
+"text": "gebeld",
+"voice": "w"
+},
+"audio/s0606.mp3": {
+"text": "Ik heb mijn moeder gebeld.",
+"voice": "m"
+},
+"audio/w-gedaan.mp3": {
+"text": "gedaan",
+"voice": "w"
+},
+"audio/s0607.mp3": {
+"text": "Wat heb je gedaan?",
+"voice": "f"
+},
+"audio/w-gekocht.mp3": {
+"text": "gekocht",
+"voice": "w"
+},
+"audio/s0608.mp3": {
+"text": "Zij heeft een nieuwe fiets gekocht.",
+"voice": "m"
+},
+"audio/w-gehoord.mp3": {
+"text": "gehoord",
+"voice": "w"
+},
+"audio/s0609.mp3": {
+"text": "Ik heb het niet gehoord.",
+"voice": "f"
+},
+"audio/s0610.mp3": {
+"text": "Jullie hebben hard gewerkt.",
+"voice": "m"
+},
+"audio/w-e-mail.mp3": {
+"text": "e-mail",
+"voice": "w"
+},
+"audio/w-gestuurd.mp3": {
+"text": "gestuurd",
+"voice": "w"
+},
+"audio/s0611.mp3": {
+"text": "Ik heb een e-mail gestuurd.",
+"voice": "f"
+},
+"audio/w-gefietst.mp3": {
+"text": "gefietst",
+"voice": "w"
+},
+"audio/s0612.mp3": {
+"text": "Ik heb gefietst.",
+"voice": "m"
+},
+"audio/w-teheran.mp3": {
+"text": "Teheran",
+"voice": "w"
+},
+"audio/w-gewoond.mp3": {
+"text": "gewoond",
+"voice": "w"
+},
+"audio/s0613.mp3": {
+"text": "Ik heb in Teheran gewoond.",
+"voice": "f"
+},
+"audio/w-gespeeld.mp3": {
+"text": "gespeeld",
+"voice": "w"
+},
+"audio/s0614.mp3": {
+"text": "Wij hebben gespeeld.",
+"voice": "m"
+},
+"audio/w-gewacht.mp3": {
+"text": "gewacht",
+"voice": "w"
+},
+"audio/s0615.mp3": {
+"text": "Ik heb gewacht.",
+"voice": "f"
+},
+"audio/w-gedanst.mp3": {
+"text": "gedanst",
+"voice": "w"
+},
+"audio/s0616.mp3": {
+"text": "Hij heeft gedanst.",
+"voice": "m"
+},
+"audio/w-gezwommen.mp3": {
+"text": "gezwommen",
+"voice": "w"
+},
+"audio/s0617.mp3": {
+"text": "Ik heb gefietst en gezwommen.",
+"voice": "f"
+},
+"audio/w-schoongemaakt.mp3": {
+"text": "schoongemaakt",
+"voice": "w"
+},
+"audio/s0618.mp3": {
+"text": "Ze heeft de kamer schoongemaakt.",
+"voice": "m"
+},
+"audio/w-opgebeld.mp3": {
+"text": "opgebeld",
+"voice": "w"
+},
+"audio/s0619.mp3": {
+"text": "Ik heb hem opgebeld.",
+"voice": "f"
+},
+"audio/w-betaald.mp3": {
+"text": "betaald",
+"voice": "w"
+},
+"audio/s0620.mp3": {
+"text": "Ik heb het boek betaald.",
+"voice": "m"
+},
+"audio/w-begrepen.mp3": {
+"text": "begrepen",
+"voice": "w"
+},
+"audio/s0621.mp3": {
+"text": "Ik heb het niet begrepen.",
+"voice": "f"
+},
+"audio/w-verteld.mp3": {
+"text": "verteld",
+"voice": "w"
+},
+"audio/s0622.mp3": {
+"text": "Hebben jullie het verteld?",
+"voice": "m"
+},
+"audio/w-gegaan.mp3": {
+"text": "gegaan",
+"voice": "w"
+},
+"audio/s0623.mp3": {
+"text": "Ik ben naar huis gegaan.",
+"voice": "f"
+},
+"audio/w-gekomen.mp3": {
+"text": "gekomen",
+"voice": "w"
+},
+"audio/s0624.mp3": {
+"text": "Hij is gisteren gekomen.",
+"voice": "m"
+},
+"audio/w-spanje.mp3": {
+"text": "Spanje",
+"voice": "w"
+},
+"audio/w-gevlogen.mp3": {
+"text": "gevlogen",
+"voice": "w"
+},
+"audio/s0625.mp3": {
+"text": "We zijn naar Spanje gevlogen.",
+"voice": "f"
+},
+"audio/w-geboren.mp3": {
+"text": "geboren",
+"voice": "w"
+},
+"audio/s0626.mp3": {
+"text": "Ze is in Iran geboren.",
+"voice": "m"
+},
+"audio/w-verhuisd.mp3": {
+"text": "verhuisd",
+"voice": "w"
+},
+"audio/s0627.mp3": {
+"text": "Ik ben verhuisd.",
+"voice": "f"
+},
+"audio/w-vertrokken.mp3": {
+"text": "vertrokken",
+"voice": "w"
+},
+"audio/s0628.mp3": {
+"text": "De trein is vertrokken.",
+"voice": "m"
+},
+"audio/w-gebleven.mp3": {
+"text": "gebleven",
+"voice": "w"
+},
+"audio/s0629.mp3": {
+"text": "Ben je thuis gebleven?",
+"voice": "f"
+},
+"audio/w-geworden.mp3": {
+"text": "geworden",
+"voice": "w"
+},
+"audio/s0630.mp3": {
+"text": "Hij is ziek geworden.",
+"voice": "m"
+},
+"audio/w-opgestaan.mp3": {
+"text": "opgestaan",
+"voice": "w"
+},
+"audio/s0631.mp3": {
+"text": "Ik ben om zes uur opgestaan.",
+"voice": "f"
+},
+"audio/s0632.mp3": {
+"text": "We zijn naar het strand gefietst.",
+"voice": "m"
+},
+"audio/w-gebeurd.mp3": {
+"text": "gebeurd",
+"voice": "w"
+},
+"audio/s0633.mp3": {
+"text": "Wat is er gebeurd?",
+"voice": "f"
+},
+"audio/s0634.mp3": {
+"text": "Ik heb brood gegeten.",
+"voice": "m"
+},
+"audio/w-gedronken.mp3": {
+"text": "gedronken",
+"voice": "w"
+},
+"audio/s0635.mp3": {
+"text": "Hij heeft thee gedronken.",
+"voice": "f"
+},
+"audio/w-gezien.mp3": {
+"text": "gezien",
+"voice": "w"
+},
+"audio/s0636.mp3": {
+"text": "Ik heb die film gezien.",
+"voice": "m"
+},
+"audio/w-brief.mp3": {
+"text": "brief",
+"voice": "w"
+},
+"audio/w-geschreven.mp3": {
+"text": "geschreven",
+"voice": "w"
+},
+"audio/s0637.mp3": {
+"text": "Ze heeft een brief geschreven.",
+"voice": "f"
+},
+"audio/w-gelezen.mp3": {
+"text": "gelezen",
+"voice": "w"
+},
+"audio/s0638.mp3": {
+"text": "Heb je dat boek gelezen?",
+"voice": "m"
+},
+"audio/w-gevonden.mp3": {
+"text": "gevonden",
+"voice": "w"
+},
+"audio/s0639.mp3": {
+"text": "Ik heb mijn sleutel gevonden.",
+"voice": "f"
+},
+"audio/w-gezegd.mp3": {
+"text": "gezegd",
+"voice": "w"
+},
+"audio/s0640.mp3": {
+"text": "Wat heeft hij gezegd?",
+"voice": "m"
+},
+"audio/w-taxi.mp3": {
+"text": "taxi",
+"voice": "w"
+},
+"audio/w-genomen.mp3": {
+"text": "genomen",
+"voice": "w"
+},
+"audio/s0641.mp3": {
+"text": "We hebben een taxi genomen.",
+"voice": "f"
+},
+"audio/w-gegeven.mp3": {
+"text": "gegeven",
+"voice": "w"
+},
+"audio/s0642.mp3": {
+"text": "Ik heb het hem gegeven.",
+"voice": "m"
+},
+"audio/w-gesproken.mp3": {
+"text": "gesproken",
+"voice": "w"
+},
+"audio/s0643.mp3": {
+"text": "Ze hebben lang gesproken.",
+"voice": "f"
+},
+"audio/w-geweten.mp3": {
+"text": "geweten",
+"voice": "w"
+},
+"audio/s0644.mp3": {
+"text": "Ik heb het geweten.",
+"voice": "m"
+},
+"audio/s0645.mp3": {
+"text": "Gisteren ben ik naar de markt gegaan.",
+"voice": "f"
+},
+"audio/w-vorige.mp3": {
+"text": "Vorige",
+"voice": "w"
+},
+"audio/s0646.mp3": {
+"text": "Vorige week heb ik veel gewerkt.",
+"voice": "m"
+},
+"audio/w-vorig.mp3": {
+"text": "Vorig",
+"voice": "w"
+},
+"audio/w-geweest.mp3": {
+"text": "geweest",
+"voice": "w"
+},
+"audio/s0647.mp3": {
+"text": "Vorig jaar zijn we naar Turkije geweest.",
+"voice": "f"
+},
+"audio/w-ooit.mp3": {
+"text": "ooit",
+"voice": "w"
+},
+"audio/w-parijs.mp3": {
+"text": "Parijs",
+"voice": "w"
+},
+"audio/s0648.mp3": {
+"text": "Ben je ooit in Parijs geweest?",
+"voice": "m"
+},
+"audio/w-nooit.mp3": {
+"text": "nooit",
+"voice": "w"
+},
+"audio/s0649.mp3": {
+"text": "Ik heb het nog nooit gedaan.",
+"voice": "f"
+},
+"audio/w-geleden.mp3": {
+"text": "geleden",
+"voice": "w"
+},
+"audio/s0650.mp3": {
+"text": "Twee dagen geleden heb ik hem gezien.",
+"voice": "m"
+},
+"audio/w-eergisteren.mp3": {
+"text": "Eergisteren",
+"voice": "w"
+},
+"audio/w-was.mp3": {
+"text": "was",
+"voice": "w"
+},
+"audio/s0651.mp3": {
+"text": "Eergisteren was ik ziek.",
+"voice": "f"
+},
+"audio/w-vanochtend.mp3": {
+"text": "Vanochtend",
+"voice": "w"
+},
+"audio/w-hardgelopen.mp3": {
+"text": "hardgelopen",
+"voice": "w"
+},
+"audio/s0652.mp3": {
+"text": "Vanochtend heb ik hardgelopen.",
+"voice": "m"
+},
+"audio/w-afgelopen.mp3": {
+"text": "Afgelopen",
+"voice": "w"
+},
+"audio/w-gefeest.mp3": {
+"text": "gefeest",
+"voice": "w"
+},
+"audio/s0653.mp3": {
+"text": "Afgelopen weekend hebben we gefeest.",
+"voice": "f"
+},
+"audio/w-aangekomen.mp3": {
+"text": "aangekomen",
+"voice": "w"
+},
+"audio/s0654.mp3": {
+"text": "Wanneer ben je aangekomen?",
+"voice": "m"
+},
+"audio/w-vergeten.mp3": {
+"text": "vergeten",
+"voice": "w"
+},
+"audio/s0655.mp3": {
+"text": "Ik ben het vergeten.",
+"voice": "f"
+},
+"audio/s0656.mp3": {
+"text": "Ik was moe.",
+"voice": "m"
+},
+"audio/s0657.mp3": {
+"text": "Het was een mooie dag.",
+"voice": "f"
+},
+"audio/s0658.mp3": {
+"text": "Waar was je gisteren?",
+"voice": "m"
+},
+"audio/w-waren.mp3": {
+"text": "waren",
+"voice": "w"
+},
+"audio/s0659.mp3": {
+"text": "We waren thuis.",
+"voice": "f"
+},
+"audio/s0660.mp3": {
+"text": "De kinderen waren blij.",
+"voice": "m"
+},
+"audio/s0661.mp3": {
+"text": "Het eten was lekker.",
+"voice": "f"
+},
+"audio/s0662.mp3": {
+"text": "Was het druk?",
+"voice": "m"
+},
+"audio/w-vroeger.mp3": {
+"text": "Vroeger",
+"voice": "w"
+},
+"audio/s0663.mp3": {
+"text": "Vroeger was ik lerares.",
+"voice": "f"
+},
+"audio/s0664.mp3": {
+"text": "Jullie waren te laat.",
+"voice": "m"
+},
+"audio/w-slecht.mp3": {
+"text": "slecht",
+"voice": "w"
+},
+"audio/s0665.mp3": {
+"text": "Het weer was slecht.",
+"voice": "f"
+},
+"audio/s0666.mp3": {
+"text": "De winkel was dicht.",
+"voice": "m"
+},
+"audio/w-had.mp3": {
+"text": "had",
+"voice": "w"
+},
+"audio/s0667.mp3": {
+"text": "Ik had geen tijd.",
+"voice": "f"
+},
+"audio/w-oude.mp3": {
+"text": "oude",
+"voice": "w"
+},
+"audio/s0668.mp3": {
+"text": "Hij had een oude auto.",
+"voice": "m"
+},
+"audio/w-hadden.mp3": {
+"text": "hadden",
+"voice": "w"
+},
+"audio/s0669.mp3": {
+"text": "We hadden een hond.",
+"voice": "f"
+},
+"audio/s0670.mp3": {
+"text": "Had je honger?",
+"voice": "m"
+},
+"audio/s0671.mp3": {
+"text": "Ze had hoofdpijn.",
+"voice": "f"
+},
+"audio/s0672.mp3": {
+"text": "Vroeger hadden we een tuin.",
+"voice": "m"
+},
+"audio/w-gelijk.mp3": {
+"text": "gelijk",
+"voice": "w"
+},
+"audio/s0673.mp3": {
+"text": "Ik had gelijk.",
+"voice": "f"
+},
+"audio/w-geluk.mp3": {
+"text": "geluk",
+"voice": "w"
+},
+"audio/s0674.mp3": {
+"text": "Jullie hadden geluk.",
+"voice": "m"
+},
+"audio/s0675.mp3": {
+"text": "Hadden ze kinderen?",
+"voice": "f"
+},
+"audio/s0676.mp3": {
+"text": "Ik had het druk.",
+"voice": "m"
+},
+"audio/w-toen.mp3": {
+"text": "Toen",
+"voice": "w"
+},
+"audio/s0677.mp3": {
+"text": "Toen had ik nog geen werk.",
+"voice": "f"
+},
+"audio/w-woonde.mp3": {
+"text": "woonde",
+"voice": "w"
+},
+"audio/s0678.mp3": {
+"text": "Ik woonde in Teheran.",
+"voice": "m"
+},
+"audio/w-werkte.mp3": {
+"text": "werkte",
+"voice": "w"
+},
+"audio/s0679.mp3": {
+"text": "Hij werkte bij een bank.",
+"voice": "f"
+},
+"audio/w-speelden.mp3": {
+"text": "speelden",
+"voice": "w"
+},
+"audio/s0680.mp3": {
+"text": "We speelden elke dag buiten.",
+"voice": "m"
+},
+"audio/w-fietste.mp3": {
+"text": "fietste",
+"voice": "w"
+},
+"audio/s0681.mp3": {
+"text": "Ze fietste naar school.",
+"voice": "f"
+},
+"audio/w-maakte.mp3": {
+"text": "maakte",
+"voice": "w"
+},
+"audio/w-fouten.mp3": {
+"text": "fouten",
+"voice": "w"
+},
+"audio/s0682.mp3": {
+"text": "Ik maakte veel fouten.",
+"voice": "m"
+},
+"audio/w-belde.mp3": {
+"text": "belde",
+"voice": "w"
+},
+"audio/s0683.mp3": {
+"text": "Hij belde me elke week.",
+"voice": "f"
+},
+"audio/w-zei.mp3": {
+"text": "zei",
+"voice": "w"
+},
+"audio/s0684.mp3": {
+"text": "Wat zei je?",
+"voice": "m"
+},
+"audio/w-wachtten.mp3": {
+"text": "wachtten",
+"voice": "w"
+},
+"audio/s0685.mp3": {
+"text": "We wachtten op de bus.",
+"voice": "f"
+},
+"audio/w-rookte.mp3": {
+"text": "rookte",
+"voice": "w"
+},
+"audio/s0686.mp3": {
+"text": "Vroeger rookte mijn vader.",
+"voice": "m"
+},
+"audio/w-duurde.mp3": {
+"text": "duurde",
+"voice": "w"
+},
+"audio/s0687.mp3": {
+"text": "De les duurde twee uur.",
+"voice": "f"
+},
+"audio/w-leerde.mp3": {
+"text": "leerde",
+"voice": "w"
+},
+"audio/w-snel.mp3": {
+"text": "snel",
+"voice": "w"
+},
+"audio/s0688.mp3": {
+"text": "Ze leerde snel.",
+"voice": "m"
+},
+"audio/w-ging.mp3": {
+"text": "ging",
+"voice": "w"
+},
+"audio/s0689.mp3": {
+"text": "Ik ging naar de markt.",
+"voice": "f"
+},
+"audio/w-kwam.mp3": {
+"text": "kwam",
+"voice": "w"
+},
+"audio/s0690.mp3": {
+"text": "Hij kwam te laat.",
+"voice": "m"
+},
+"audio/w-zagen.mp3": {
+"text": "zagen",
+"voice": "w"
+},
+"audio/s0691.mp3": {
+"text": "We zagen een mooie film.",
+"voice": "f"
+},
+"audio/w-at.mp3": {
+"text": "at",
+"voice": "w"
+},
+"audio/s0692.mp3": {
+"text": "Ze at een appel.",
+"voice": "m"
+},
+"audio/w-dronk.mp3": {
+"text": "dronk",
+"voice": "w"
+},
+"audio/s0693.mp3": {
+"text": "Ik dronk koffie.",
+"voice": "f"
+},
+"audio/w-schreef.mp3": {
+"text": "schreef",
+"voice": "w"
+},
+"audio/s0694.mp3": {
+"text": "Hij schreef een brief.",
+"voice": "m"
+},
+"audio/w-gaf.mp3": {
+"text": "gaf",
+"voice": "w"
+},
+"audio/s0695.mp3": {
+"text": "Ze gaf mij een cadeau.",
+"voice": "f"
+},
+"audio/w-vond.mp3": {
+"text": "vond",
+"voice": "w"
+},
+"audio/s0696.mp3": {
+"text": "Ik vond het leuk.",
+"voice": "m"
+},
+"audio/w-bleven.mp3": {
+"text": "bleven",
+"voice": "w"
+},
+"audio/s0697.mp3": {
+"text": "Wij bleven thuis.",
+"voice": "f"
+},
+"audio/w-liep.mp3": {
+"text": "liep",
+"voice": "w"
+},
+"audio/s0698.mp3": {
+"text": "Hij liep naar huis.",
+"voice": "m"
+},
+"audio/w-wist.mp3": {
+"text": "wist",
+"voice": "w"
+},
+"audio/s0699.mp3": {
+"text": "Ik wist het niet.",
+"voice": "f"
+},
+"audio/w-groter.mp3": {
+"text": "groter",
+"voice": "w"
+},
+"audio/s0700.mp3": {
+"text": "Mijn broer is groter dan ik.",
+"voice": "m"
+},
+"audio/s0701.mp3": {
+"text": "Amsterdam is groter dan Leiden.",
+"voice": "f"
+},
+"audio/w-sneller.mp3": {
+"text": "sneller",
+"voice": "w"
+},
+"audio/s0702.mp3": {
+"text": "De trein is sneller dan de bus.",
+"voice": "m"
+},
+"audio/w-duurder.mp3": {
+"text": "duurder",
+"voice": "w"
+},
+"audio/s0703.mp3": {
+"text": "Dit huis is duurder.",
+"voice": "f"
+},
+"audio/w-kouder.mp3": {
+"text": "kouder",
+"voice": "w"
+},
+"audio/s0704.mp3": {
+"text": "Vandaag is het kouder dan gisteren.",
+"voice": "m"
+},
+"audio/w-ouder.mp3": {
+"text": "ouder",
+"voice": "w"
+},
+"audio/s0705.mp3": {
+"text": "Mijn zus is ouder dan mijn broer.",
+"voice": "f"
+},
+"audio/w-goedkoper.mp3": {
+"text": "goedkoper",
+"voice": "w"
+},
+"audio/w-rijden.mp3": {
+"text": "rijden",
+"voice": "w"
+},
+"audio/s0706.mp3": {
+"text": "Fietsen is goedkoper dan rijden.",
+"voice": "m"
+},
+"audio/s0707.mp3": {
+"text": "Ik spreek beter Nederlands dan vorig jaar.",
+"voice": "f"
+},
+"audio/w-meer.mp3": {
+"text": "meer",
+"voice": "w"
+},
+"audio/s0708.mp3": {
+"text": "Hij eet meer dan ik.",
+"voice": "m"
+},
+"audio/w-minder.mp3": {
+"text": "minder",
+"voice": "w"
+},
+"audio/s0709.mp3": {
+"text": "Ik heb minder tijd dan vroeger.",
+"voice": "f"
+},
+"audio/s0710.mp3": {
+"text": "Ik wil een grotere kamer.",
+"voice": "m"
+},
+"audio/w-grootste.mp3": {
+"text": "grootste",
+"voice": "w"
+},
+"audio/s0711.mp3": {
+"text": "Dit is het grootste huis.",
+"voice": "f"
+},
+"audio/w-jongste.mp3": {
+"text": "jongste",
+"voice": "w"
+},
+"audio/w-klas.mp3": {
+"text": "klas",
+"voice": "w"
+},
+"audio/s0712.mp3": {
+"text": "Zij is de jongste van de klas.",
+"voice": "m"
+},
+"audio/w-beste.mp3": {
+"text": "beste",
+"voice": "w"
+},
+"audio/s0713.mp3": {
+"text": "Wat is de beste tijd om te bellen?",
+"voice": "f"
+},
+"audio/w-mooiste.mp3": {
+"text": "mooiste",
+"voice": "w"
+},
+"audio/s0714.mp3": {
+"text": "Dat is het mooiste museum van Nederland.",
+"voice": "m"
+},
+"audio/w-goedkoopst.mp3": {
+"text": "goedkoopst",
+"voice": "w"
+},
+"audio/s0715.mp3": {
+"text": "Deze jas is het goedkoopst.",
+"voice": "f"
+},
+"audio/w-hardst.mp3": {
+"text": "hardst",
+"voice": "w"
+},
+"audio/s0716.mp3": {
+"text": "Wie werkt het hardst?",
+"voice": "m"
+},
+"audio/w-leukst.mp3": {
+"text": "leukst",
+"voice": "w"
+},
+"audio/s0717.mp3": {
+"text": "Ik vind deze film het leukst.",
+"voice": "f"
+},
+"audio/w-meeste.mp3": {
+"text": "meeste",
+"voice": "w"
+},
+"audio/s0718.mp3": {
+"text": "Hij heeft de meeste boeken.",
+"voice": "m"
+},
+"audio/w-kortste.mp3": {
+"text": "kortste",
+"voice": "w"
+},
+"audio/s0719.mp3": {
+"text": "Dit is de kortste weg.",
+"voice": "f"
+},
+"audio/w-december.mp3": {
+"text": "December",
+"voice": "w"
+},
+"audio/w-donkerste.mp3": {
+"text": "donkerste",
+"voice": "w"
+},
+"audio/w-maand.mp3": {
+"text": "maand",
+"voice": "w"
+},
+"audio/s0720.mp3": {
+"text": "December is de donkerste maand.",
+"voice": "m"
+},
+"audio/w-oudste.mp3": {
+"text": "oudste",
+"voice": "w"
+},
+"audio/w-studeert.mp3": {
+"text": "studeert",
+"voice": "w"
+},
+"audio/s0721.mp3": {
+"text": "Mijn oudste zoon studeert in Delft.",
+"voice": "f"
+},
+"audio/s0722.mp3": {
+"text": "Ik ben even oud als jij.",
+"voice": "m"
+},
+"audio/w-net.mp3": {
+"text": "net",
+"voice": "w"
+},
+"audio/w-zo.mp3": {
+"text": "zo",
+"voice": "w"
+},
+"audio/s0723.mp3": {
+"text": "Hij is net zo lang als zijn vader.",
+"voice": "f"
+},
+"audio/s0724.mp3": {
+"text": "Het is niet zo koud als gisteren.",
+"voice": "m"
+},
+"audio/s0725.mp3": {
+"text": "Deze tas is even duur als die.",
+"voice": "f"
+},
+"audio/s0726.mp3": {
+"text": "Zij spreekt even goed Nederlands als haar man.",
+"voice": "m"
+},
+"audio/w-jouwe.mp3": {
+"text": "jouwe",
+"voice": "w"
+},
+"audio/s0727.mp3": {
+"text": "Mijn huis is net zo groot als het jouwe.",
+"voice": "f"
+},
+"audio/s0728.mp3": {
+"text": "Hij werkt net zo hard als ik.",
+"voice": "m"
+},
+"audio/s0729.mp3": {
+"text": "Leiden is niet zo groot als Amsterdam.",
+"voice": "f"
+},
+"audio/s0730.mp3": {
+"text": "Ze zijn even groot.",
+"voice": "m"
+},
+"audio/w-hetzelfde.mp3": {
+"text": "hetzelfde",
+"voice": "w"
+},
+"audio/s0731.mp3": {
+"text": "Het is hetzelfde.",
+"voice": "f"
+},
+"audio/w-dezelfde.mp3": {
+"text": "dezelfde",
+"voice": "w"
+},
+"audio/s0732.mp3": {
+"text": "We hebben dezelfde jas.",
+"voice": "m"
+},
+"audio/w-ochtend.mp3": {
+"text": "ochtend",
+"voice": "w"
+},
+"audio/s0733.mp3": {
+"text": "Ik was me elke ochtend.",
+"voice": "f"
+},
+"audio/w-scheert.mp3": {
+"text": "scheert",
+"voice": "w"
+},
+"audio/w-zich.mp3": {
+"text": "zich",
+"voice": "w"
+},
+"audio/s0734.mp3": {
+"text": "Hij scheert zich.",
+"voice": "m"
+},
+"audio/s0735.mp3": {
+"text": "Ik voel me goed.",
+"voice": "f"
+},
+"audio/w-vergissen.mp3": {
+"text": "vergissen",
+"voice": "w"
+},
+"audio/s0736.mp3": {
+"text": "We vergissen ons.",
+"voice": "m"
+},
+"audio/w-haast.mp3": {
+"text": "Haast",
+"voice": "w"
+},
+"audio/s0737.mp3": {
+"text": "Haast je!",
+"voice": "f"
+},
+"audio/w-verveel.mp3": {
+"text": "verveel",
+"voice": "w"
+},
+"audio/s0738.mp3": {
+"text": "Ik verveel me.",
+"voice": "m"
+},
+"audio/w-kleedt.mp3": {
+"text": "kleedt",
+"voice": "w"
+},
+"audio/s0739.mp3": {
+"text": "Ze kleedt zich aan.",
+"voice": "f"
+},
+"audio/w-herinner.mp3": {
+"text": "herinner",
+"voice": "w"
+},
+"audio/s0740.mp3": {
+"text": "Ik herinner me zijn naam niet.",
+"voice": "m"
+},
+"audio/w-voorbereiden.mp3": {
+"text": "voorbereiden",
+"voice": "w"
+},
+"audio/s0741.mp3": {
+"text": "Jullie moeten je voorbereiden.",
+"voice": "f"
+},
+"audio/w-interesseer.mp3": {
+"text": "interesseer",
+"voice": "w"
+},
+"audio/w-kunst.mp3": {
+"text": "kunst",
+"voice": "w"
+},
+"audio/s0742.mp3": {
+"text": "Ik interesseer me voor kunst.",
+"voice": "m"
+},
+"audio/w-verslapen.mp3": {
+"text": "verslapen",
+"voice": "w"
+},
+"audio/s0743.mp3": {
+"text": "Hij heeft zich verslapen.",
+"voice": "f"
+},
+"audio/w-want.mp3": {
+"text": "want",
+"voice": "w"
+},
+"audio/s0744.mp3": {
+"text": "Ik ben moe, want ik heb slecht geslapen.",
+"voice": "m"
+},
+"audio/s0745.mp3": {
+"text": "Ik wil komen, maar ik heb geen tijd.",
+"voice": "f"
+},
+"audio/w-dus.mp3": {
+"text": "dus",
+"voice": "w"
+},
+"audio/s0746.mp3": {
+"text": "Het regent, dus ik neem de bus.",
+"voice": "m"
+},
+"audio/s0747.mp3": {
+"text": "Wil je thee of wil je koffie?",
+"voice": "f"
+},
+"audio/w-wast.mp3": {
+"text": "wast",
+"voice": "w"
+},
+"audio/w-af.mp3": {
+"text": "af",
+"voice": "w"
+},
+"audio/s0748.mp3": {
+"text": "Ik kook en mijn man wast af.",
+"voice": "m"
+},
+"audio/s0749.mp3": {
+"text": "Hij is ziek, dus hij blijft thuis.",
+"voice": "f"
+},
+"audio/s0750.mp3": {
+"text": "We gaan niet naar het strand, want het is koud.",
+"voice": "m"
+},
+"audio/w-verlegen.mp3": {
+"text": "verlegen",
+"voice": "w"
+},
+"audio/s0751.mp3": {
+"text": "Ze is aardig, maar een beetje verlegen.",
+"voice": "f"
+},
+"audio/w-ontbeten.mp3": {
+"text": "ontbeten",
+"voice": "w"
+},
+"audio/s0752.mp3": {
+"text": "Ik heb honger, want ik heb niet ontbeten.",
+"voice": "m"
+},
+"audio/w-stuur.mp3": {
+"text": "stuur",
+"voice": "w"
+},
+"audio/w-bericht.mp3": {
+"text": "bericht",
+"voice": "w"
+},
+"audio/s0753.mp3": {
+"text": "Bel me of stuur een bericht.",
+"voice": "f"
+},
+"audio/s0754.mp3": {
+"text": "Het is laat, dus ik ga slapen.",
+"voice": "m"
+},
+"audio/w-blijf.mp3": {
+"text": "blijf",
+"voice": "w"
+},
+"audio/w-omdat.mp3": {
+"text": "omdat",
+"voice": "w"
+},
+"audio/s0755.mp3": {
+"text": "Ik blijf thuis omdat ik ziek ben.",
+"voice": "f"
+},
+"audio/w-baan.mp3": {
+"text": "baan",
+"voice": "w"
+},
+"audio/s0756.mp3": {
+"text": "Hij is blij omdat hij een baan heeft.",
+"voice": "m"
+},
+"audio/s0757.mp3": {
+"text": "Ik leer Nederlands omdat ik hier woon.",
+"voice": "f"
+},
+"audio/s0758.mp3": {
+"text": "Ze komt niet omdat ze moet werken.",
+"voice": "m"
+},
+"audio/s0759.mp3": {
+"text": "We fietsen omdat het goedkoop is.",
+"voice": "f"
+},
+"audio/s0760.mp3": {
+"text": "Ik ben laat omdat de trein vertraging had.",
+"voice": "m"
+},
+"audio/s0761.mp3": {
+"text": "Omdat het regent, neem ik de bus.",
+"voice": "f"
+},
+"audio/s0762.mp3": {
+"text": "Waarom ben je moe? Omdat ik slecht heb geslapen.",
+"voice": "m"
+},
+"audio/s0763.mp3": {
+"text": "Hij belt omdat hij een vraag heeft.",
+"voice": "f"
+},
+"audio/w-vegetarier.mp3": {
+"text": "vegetariër",
+"voice": "w"
+},
+"audio/s0764.mp3": {
+"text": "Ik eet geen vlees omdat ik vegetariër ben.",
+"voice": "m"
+},
+"audio/w-familie.mp3": {
+"text": "familie",
+"voice": "w"
+},
+"audio/s0765.mp3": {
+"text": "Ze is gelukkig omdat haar familie hier is.",
+"voice": "f"
+},
+"audio/w-denk.mp3": {
+"text": "denk",
+"voice": "w"
+},
+"audio/s0766.mp3": {
+"text": "Ik denk dat het gaat regenen.",
+"voice": "m"
+},
+"audio/s0767.mp3": {
+"text": "Ik weet dat je moe bent.",
+"voice": "f"
+},
+"audio/w-zegt.mp3": {
+"text": "zegt",
+"voice": "w"
+},
+"audio/w-later.mp3": {
+"text": "later",
+"voice": "w"
+},
+"audio/s0768.mp3": {
+"text": "Hij zegt dat hij later komt.",
+"voice": "m"
+},
+"audio/w-hoop.mp3": {
+"text": "hoop",
+"voice": "w"
+},
+"audio/w-wordt.mp3": {
+"text": "wordt",
+"voice": "w"
+},
+"audio/s0769.mp3": {
+"text": "Ik hoop dat je snel beter wordt.",
+"voice": "f"
+},
+"audio/w-vindt.mp3": {
+"text": "vindt",
+"voice": "w"
+},
+"audio/s0770.mp3": {
+"text": "Ze vindt dat Nederlands moeilijk is.",
+"voice": "m"
+},
+"audio/w-zwanger.mp3": {
+"text": "zwanger",
+"voice": "w"
+},
+"audio/s0771.mp3": {
+"text": "Wist je dat Sara zwanger is?",
+"voice": "f"
+},
+"audio/s0772.mp3": {
+"text": "Ik denk niet dat hij thuis is.",
+"voice": "m"
+},
+"audio/w-jammer.mp3": {
+"text": "jammer",
+"voice": "w"
+},
+"audio/s0773.mp3": {
+"text": "Het is jammer dat je niet kunt komen.",
+"voice": "f"
+},
+"audio/s0774.mp3": {
+"text": "Ik ben blij dat je er bent.",
+"voice": "m"
+},
+"audio/s0775.mp3": {
+"text": "De docent zegt dat we huiswerk moeten maken.",
+"voice": "f"
+},
+"audio/w-merk.mp3": {
+"text": "merk",
+"voice": "w"
+},
+"audio/s0776.mp3": {
+"text": "Ik merk dat mijn Nederlands beter wordt.",
+"voice": "m"
+},
+"audio/s0777.mp3": {
+"text": "Als het regent, blijf ik thuis.",
+"voice": "f"
+},
+"audio/s0778.mp3": {
+"text": "Als je tijd hebt, kun je komen.",
+"voice": "m"
+},
+"audio/w-help.mp3": {
+"text": "help",
+"voice": "w"
+},
+"audio/s0779.mp3": {
+"text": "Ik help je als je wilt.",
+"voice": "f"
+},
+"audio/s0780.mp3": {
+"text": "Als ik geld heb, koop ik een auto.",
+"voice": "m"
+},
+"audio/s0781.mp3": {
+"text": "Bel me als je er bent.",
+"voice": "f"
+},
+"audio/s0782.mp3": {
+"text": "Als het mooi weer is, gaan we naar het park.",
+"voice": "m"
+},
+"audio/s0783.mp3": {
+"text": "Je mag gaan als je klaar bent.",
+"voice": "f"
+},
+"audio/s0784.mp3": {
+"text": "Als je ziek bent, moet je de huisarts bellen.",
+"voice": "m"
+},
+"audio/s0785.mp3": {
+"text": "Als de winkel open is, koop ik brood.",
+"voice": "f"
+},
+"audio/s0786.mp3": {
+"text": "Ik kom als ik kan.",
+"voice": "m"
+},
+"audio/s0787.mp3": {
+"text": "Wat doe je als je vrij bent?",
+"voice": "f"
+},
+"audio/w-mashhad.mp3": {
+"text": "Mashhad",
+"voice": "w"
+},
+"audio/s0788.mp3": {
+"text": "Toen ik klein was, woonde ik in Mashhad.",
+"voice": "m"
+},
+"audio/w-thuiskwam.mp3": {
+"text": "thuiskwam",
+"voice": "w"
+},
+"audio/s0789.mp3": {
+"text": "Toen hij thuiskwam, was ik al weg.",
+"voice": "f"
+},
+"audio/s0790.mp3": {
+"text": "Wanneer begint de les?",
+"voice": "m"
+},
+"audio/s0791.mp3": {
+"text": "Ik weet niet wanneer hij komt.",
+"voice": "f"
+},
+"audio/w-thuiskom.mp3": {
+"text": "thuiskom",
+"voice": "w"
+},
+"audio/s0792.mp3": {
+"text": "Als ik thuiskom, drink ik thee.",
+"voice": "m"
+},
+"audio/w-aankwam.mp3": {
+"text": "aankwam",
+"voice": "w"
+},
+"audio/w-sprak.mp3": {
+"text": "sprak",
+"voice": "w"
+},
+"audio/s0793.mp3": {
+"text": "Toen ik in Nederland aankwam, sprak ik geen Nederlands.",
+"voice": "f"
+},
+"audio/w-deed.mp3": {
+"text": "deed",
+"voice": "w"
+},
+"audio/s0794.mp3": {
+"text": "Wat deed je toen je jong was?",
+"voice": "m"
+},
+"audio/w-elkaar.mp3": {
+"text": "elkaar",
+"voice": "w"
+},
+"audio/w-ontmoetten.mp3": {
+"text": "ontmoetten",
+"voice": "w"
+},
+"audio/w-twintig.mp3": {
+"text": "twintig",
+"voice": "w"
+},
+"audio/s0795.mp3": {
+"text": "Toen we elkaar ontmoetten, waren we twintig.",
+"voice": "f"
+},
+"audio/w-nieuws.mp3": {
+"text": "nieuws",
+"voice": "w"
+},
+"audio/w-hoorde.mp3": {
+"text": "hoorde",
+"voice": "w"
+},
+"audio/s0796.mp3": {
+"text": "Ik was blij toen ik het nieuws hoorde.",
+"voice": "m"
+},
+"audio/w-telkens.mp3": {
+"text": "Telkens",
+"voice": "w"
+},
+"audio/w-lacht.mp3": {
+"text": "lacht",
+"voice": "w"
+},
+"audio/s0797.mp3": {
+"text": "Telkens als ik hem zie, lacht hij.",
+"voice": "f"
+},
+"audio/w-werd.mp3": {
+"text": "werd",
+"voice": "w"
+},
+"audio/w-gingen.mp3": {
+"text": "gingen",
+"voice": "w"
+},
+"audio/s0798.mp3": {
+"text": "Toen het donker werd, gingen we naar huis.",
+"voice": "m"
+},
+"audio/s0799.mp3": {
+"text": "Ik ga naar de winkel om brood te kopen.",
+"voice": "f"
+},
+"audio/s0800.mp3": {
+"text": "Ik leer Nederlands om hier te werken.",
+"voice": "m"
+},
+"audio/w-spaart.mp3": {
+"text": "spaart",
+"voice": "w"
+},
+"audio/s0801.mp3": {
+"text": "Hij spaart om een auto te kopen.",
+"voice": "f"
+},
+"audio/w-wandelen.mp3": {
+"text": "wandelen",
+"voice": "w"
+},
+"audio/s0802.mp3": {
+"text": "We gaan naar het park om te wandelen.",
+"voice": "m"
+},
+"audio/s0803.mp3": {
+"text": "Ik bel om een afspraak te maken.",
+"voice": "f"
+},
+"audio/w-fit.mp3": {
+"text": "fit",
+"voice": "w"
+},
+"audio/w-blijven.mp3": {
+"text": "blijven",
+"voice": "w"
+},
+"audio/s0804.mp3": {
+"text": "Ze sport om fit te blijven.",
+"voice": "m"
+},
+"audio/s0805.mp3": {
+"text": "Het is te koud om te zwemmen.",
+"voice": "f"
+},
+"audio/s0806.mp3": {
+"text": "Dit boek is makkelijk om te lezen.",
+"voice": "m"
+},
+"audio/s0807.mp3": {
+"text": "Ik heb geen tijd om te koken.",
+"voice": "f"
+},
+"audio/s0808.mp3": {
+"text": "Hij kwam om ons te helpen.",
+"voice": "m"
+},
+"audio/w-belangrijk.mp3": {
+"text": "belangrijk",
+"voice": "w"
+},
+"audio/s0809.mp3": {
+"text": "Het is belangrijk om water te drinken.",
+"voice": "f"
+},
+"audio/w-probeer.mp3": {
+"text": "probeer",
+"voice": "w"
+},
+"audio/s0810.mp3": {
+"text": "Ik probeer Nederlands te spreken.",
+"voice": "m"
+},
+"audio/s0811.mp3": {
+"text": "Vergeet niet de deur dicht te doen.",
+"voice": "f"
+},
+"audio/w-begrijpen.mp3": {
+"text": "begrijpen",
+"voice": "w"
+},
+"audio/s0812.mp3": {
+"text": "Ik begin het te begrijpen.",
+"voice": "m"
+},
+"audio/s0813.mp3": {
+"text": "Hij hoeft niet te werken.",
+"voice": "f"
+},
+"audio/w-belooft.mp3": {
+"text": "belooft",
+"voice": "w"
+},
+"audio/s0814.mp3": {
+"text": "Ze belooft op tijd te komen.",
+"voice": "m"
+},
+"audio/w-zien.mp3": {
+"text": "zien",
+"voice": "w"
+},
+"audio/s0815.mp3": {
+"text": "Ik hoop je snel te zien.",
+"voice": "f"
+},
+"audio/w-besluiten.mp3": {
+"text": "besluiten",
+"voice": "w"
+},
+"audio/s0816.mp3": {
+"text": "We besluiten te verhuizen.",
+"voice": "m"
+},
+"audio/s0817.mp3": {
+"text": "Het begint te regenen.",
+"voice": "f"
+},
+"audio/s0818.mp3": {
+"text": "Ik zit te lezen.",
+"voice": "m"
+},
+"audio/w-wachten.mp3": {
+"text": "wachten",
+"voice": "w"
+},
+"audio/s0819.mp3": {
+"text": "Hij staat te wachten.",
+"voice": "f"
+},
+"audio/s0820.mp3": {
+"text": "Ik ben aan het koken.",
+"voice": "m"
+},
+"audio/w-zal.mp3": {
+"text": "zal",
+"voice": "w"
+},
+"audio/s0821.mp3": {
+"text": "Ik zal je helpen.",
+"voice": "f"
+},
+"audio/w-opendoen.mp3": {
+"text": "opendoen",
+"voice": "w"
+},
+"audio/s0822.mp3": {
+"text": "Zal ik het raam opendoen?",
+"voice": "m"
+},
+"audio/w-zullen.mp3": {
+"text": "Zullen",
+"voice": "w"
+},
+"audio/s0823.mp3": {
+"text": "Zullen we koffie drinken?",
+"voice": "f"
+},
+"audio/s0824.mp3": {
+"text": "Het zal wel goed gaan.",
+"voice": "m"
+},
+"audio/s0825.mp3": {
+"text": "We zullen zien.",
+"voice": "f"
+},
+"audio/s0826.mp3": {
+"text": "Zal ik je morgen bellen?",
+"voice": "m"
+},
+"audio/s0827.mp3": {
+"text": "Ik zal het niet vergeten.",
+"voice": "f"
+},
+"audio/w-afspreken.mp3": {
+"text": "afspreken",
+"voice": "w"
+},
+"audio/s0828.mp3": {
+"text": "Zullen we om acht uur afspreken?",
+"voice": "m"
+},
+"audio/s0829.mp3": {
+"text": "Hij zal wel moe zijn.",
+"voice": "f"
+},
+"audio/w-meenemen.mp3": {
+"text": "meenemen",
+"voice": "w"
+},
+"audio/s0830.mp3": {
+"text": "Zal ik iets meenemen?",
+"voice": "m"
+},
+"audio/s0831.mp3": {
+"text": "Wat zullen we vanavond eten?",
+"voice": "f"
+},
+"audio/w-zou.mp3": {
+"text": "zou",
+"voice": "w"
+},
+"audio/s0832.mp3": {
+"text": "Ik zou graag een afspraak maken.",
+"voice": "m"
+},
+"audio/s0833.mp3": {
+"text": "Zou u mij kunnen helpen?",
+"voice": "f"
+},
+"audio/s0834.mp3": {
+"text": "Ik zou een kopje thee willen.",
+"voice": "m"
+},
+"audio/s0835.mp3": {
+"text": "Zou je het raam dicht willen doen?",
+"voice": "f"
+},
+"audio/s0836.mp3": {
+"text": "Wat zou je doen?",
+"voice": "m"
+},
+"audio/s0837.mp3": {
+"text": "Ik zou het niet doen.",
+"voice": "f"
+},
+"audio/s0838.mp3": {
+"text": "Dat zou leuk zijn.",
+"voice": "m"
+},
+"audio/s0839.mp3": {
+"text": "Hij zou om vijf uur komen.",
+"voice": "f"
+},
+"audio/s0840.mp3": {
+"text": "Zou het morgen regenen?",
+"voice": "m"
+},
+"audio/s0841.mp3": {
+"text": "Je zou meer moeten slapen.",
+"voice": "f"
+},
+"audio/s0842.mp3": {
+"text": "Ik zou graag in Utrecht wonen.",
+"voice": "m"
+},
+"audio/s0843.mp3": {
+"text": "Ik woon in Leiden. Ik woon er al lang.",
+"voice": "f"
+},
+"audio/w-rome.mp3": {
+"text": "Rome",
+"voice": "w"
+},
+"audio/s0844.mp3": {
+"text": "Ben je in Rome geweest? Ja, ik ben er geweest.",
+"voice": "m"
+},
+"audio/w-kantoor.mp3": {
+"text": "kantoor",
+"voice": "w"
+},
+"audio/s0845.mp3": {
+"text": "Is Tom op kantoor? Nee, hij is er niet.",
+"voice": "f"
+},
+"audio/w-naartoe.mp3": {
+"text": "naartoe",
+"voice": "w"
+},
+"audio/s0846.mp3": {
+"text": "Ik ga er morgen naartoe.",
+"voice": "m"
+},
+"audio/w-groningen.mp3": {
+"text": "Groningen",
+"voice": "w"
+},
+"audio/s0847.mp3": {
+"text": "Er wonen veel studenten in Groningen.",
+"voice": "f"
+},
+"audio/s0848.mp3": {
+"text": "Wat een mooi park! Ik kom er vaak.",
+"voice": "m"
+},
+"audio/s0849.mp3": {
+"text": "Ik ken het restaurant, maar ik heb er nooit gegeten.",
+"voice": "f"
+},
+"audio/s0850.mp3": {
+"text": "Ze werkt er al tien jaar.",
+"voice": "m"
+},
+"audio/s0851.mp3": {
+"text": "Is er nog koffie?",
+"voice": "f"
+},
+"audio/w-mis.mp3": {
+"text": "mis",
+"voice": "w"
+},
+"audio/s0852.mp3": {
+"text": "Er is iets mis.",
+"voice": "m"
+},
+"audio/s0853.mp3": {
+"text": "Wie is er vandaag niet?",
+"voice": "f"
+},
+"audio/s0854.mp3": {
+"text": "Hoeveel kinderen heb je? Ik heb er twee.",
+"voice": "m"
+},
+"audio/s0855.mp3": {
+"text": "Heb je appels? Ja, ik heb er veel.",
+"voice": "f"
+},
+"audio/s0856.mp3": {
+"text": "Ik heb er geen.",
+"voice": "m"
+},
+"audio/s0857.mp3": {
+"text": "Hoeveel broers heeft hij? Hij heeft er drie.",
+"voice": "f"
+},
+"audio/w-paar.mp3": {
+"text": "paar",
+"voice": "w"
+},
+"audio/s0858.mp3": {
+"text": "Wil je een koekje? Ik heb er nog een paar.",
+"voice": "m"
+},
+"audio/s0859.mp3": {
+"text": "Er zijn er nog vijf.",
+"voice": "f"
+},
+"audio/s0860.mp3": {
+"text": "Hoeveel kost een kaartje? Ik wil er twee.",
+"voice": "m"
+},
+"audio/w-tassen.mp3": {
+"text": "tassen",
+"voice": "w"
+},
+"audio/w-gebruik.mp3": {
+"text": "gebruik",
+"voice": "w"
+},
+"audio/s0861.mp3": {
+"text": "Ik heb drie tassen, maar ik gebruik er maar één.",
+"voice": "f"
+},
+"audio/w-staan.mp3": {
+"text": "staan",
+"voice": "w"
+},
+"audio/s0862.mp3": {
+"text": "Zijn er nog stoelen? Ja, er staan er nog twee.",
+"voice": "m"
+},
+"audio/w-snoep.mp3": {
+"text": "snoep",
+"voice": "w"
+},
+"audio/s0863.mp3": {
+"text": "Hij eet veel snoep. Hij eet er te veel van.",
+"voice": "f"
+},
+"audio/w-buurvrouw.mp3": {
+"text": "buurvrouw",
+"voice": "w"
+},
+"audio/s0864.mp3": {
+"text": "Ik heb een kat, maar mijn buurvrouw heeft er vier.",
+"voice": "m"
+},
+"audio/w-sinds.mp3": {
+"text": "sinds",
+"voice": "w"
+},
+"audio/w-tweeduizend.mp3": {
+"text": "tweeduizend",
+"voice": "w"
+},
+"audio/s0865.mp3": {
+"text": "Ik woon hier sinds tweeduizend twintig.",
+"voice": "f"
+},
+"audio/s0866.mp3": {
+"text": "Ik werk hier sinds een jaar.",
+"voice": "m"
+},
+"audio/w-tijdens.mp3": {
+"text": "Tijdens",
+"voice": "w"
+},
+"audio/s0867.mp3": {
+"text": "Tijdens de les zet ik mijn telefoon uit.",
+"voice": "f"
+},
+"audio/w-handen.mp3": {
+"text": "handen",
+"voice": "w"
+},
+"audio/s0868.mp3": {
+"text": "Voor het eten was ik mijn handen.",
+"voice": "m"
+},
+"audio/s0869.mp3": {
+"text": "Na het werk ga ik sporten.",
+"voice": "f"
+},
+"audio/s0870.mp3": {
+"text": "Ik ben over een uur terug.",
+"voice": "m"
+},
+"audio/s0871.mp3": {
+"text": "Ik heb drie jaar in Duitsland gewoond.",
+"voice": "f"
+},
+"audio/s0872.mp3": {
+"text": "Het museum is van tien tot vijf open.",
+"voice": "m"
+},
+"audio/s0873.mp3": {
+"text": "Ik moet het voor vrijdag doen.",
+"voice": "f"
+},
+"audio/w-altijd.mp3": {
+"text": "altijd",
+"voice": "w"
+},
+"audio/s0874.mp3": {
+"text": "Ze slaapt altijd tijdens de film.",
+"voice": "m"
+},
+"audio/w-antwoord.mp3": {
+"text": "antwoord",
+"voice": "w"
+},
+"audio/s0875.mp3": {
+"text": "Binnen een week krijg je antwoord.",
+"voice": "f"
+},
+"audio/s0876.mp3": {
+"text": "Wil je een kopje koffie?",
+"voice": "m"
+},
+"audio/s0877.mp3": {
+"text": "Ik neem een broodje kaas.",
+"voice": "f"
+},
+"audio/w-speelt.mp3": {
+"text": "speelt",
+"voice": "w"
+},
+"audio/w-balletje.mp3": {
+"text": "balletje",
+"voice": "w"
+},
+"audio/s0878.mp3": {
+"text": "Het meisje speelt met een balletje.",
+"voice": "m"
+},
+"audio/w-stukje.mp3": {
+"text": "stukje",
+"voice": "w"
+},
+"audio/s0879.mp3": {
+"text": "Mag ik een stukje taart?",
+"voice": "f"
+},
+"audio/w-wandelingetje.mp3": {
+"text": "wandelingetje",
+"voice": "w"
+},
+"audio/s0880.mp3": {
+"text": "We maken een wandelingetje.",
+"voice": "m"
+},
+"audio/w-momentje.mp3": {
+"text": "momentje",
+"voice": "w"
+},
+"audio/s0881.mp3": {
+"text": "Even een momentje.",
+"voice": "f"
+},
+"audio/w-huisje.mp3": {
+"text": "huisje",
+"voice": "w"
+},
+"audio/w-zee.mp3": {
+"text": "zee",
+"voice": "w"
+},
+"audio/s0882.mp3": {
+"text": "Hij woont in een huisje aan zee.",
+"voice": "m"
+},
+"audio/w-berichtje.mp3": {
+"text": "berichtje",
+"voice": "w"
+},
+"audio/s0883.mp3": {
+"text": "Ik stuur je een berichtje.",
+"voice": "f"
+},
+"audio/w-ijsje.mp3": {
+"text": "ijsje",
+"voice": "w"
+},
+"audio/s0884.mp3": {
+"text": "De kinderen eten een ijsje.",
+"voice": "m"
+},
+"audio/s0885.mp3": {
+"text": "Doe maar een klein beetje.",
+"voice": "f"
+},
+"audio/w-vraagje.mp3": {
+"text": "vraagje",
+"voice": "w"
+},
+"audio/s0886.mp3": {
+"text": "Ik heb een vraagje.",
+"voice": "m"
+},
+"audio/s0887.mp3": {
+"text": "Ik ga vaak naar de bioscoop.",
+"voice": "f"
+},
+"audio/s0888.mp3": {
+"text": "Hij komt nooit te laat.",
+"voice": "m"
+},
+"audio/w-meestal.mp3": {
+"text": "meestal",
+"voice": "w"
+},
+"audio/s0889.mp3": {
+"text": "We eten meestal om zes uur.",
+"voice": "f"
+},
+"audio/s0890.mp3": {
+"text": "Ik heb hem nog niet gezien.",
+"voice": "m"
+},
+"audio/w-alcohol.mp3": {
+"text": "alcohol",
+"voice": "w"
+},
+"audio/s0891.mp3": {
+"text": "Ik drink bijna nooit alcohol.",
+"voice": "f"
+},
+"audio/s0892.mp3": {
+"text": "Ze is niet erg rijk.",
+"voice": "m"
+},
+"audio/s0893.mp3": {
+"text": "Ik ken die man niet.",
+"voice": "f"
+},
+"audio/s0894.mp3": {
+"text": "Ik ga niet met de auto.",
+"voice": "m"
+},
+"audio/s0895.mp3": {
+"text": "Hij heeft het boek niet gelezen.",
+"voice": "f"
+},
+"audio/s0896.mp3": {
+"text": "Ik ben er nog nooit geweest.",
+"voice": "m"
+},
+"audio/w-zelden.mp3": {
+"text": "zelden",
+"voice": "w"
+},
+"audio/s0897.mp3": {
+"text": "Ze belt zelden.",
+"voice": "f"
+},
+"audio/w-karimi.mp3": {
+"text": "Karimi",
+"voice": "w"
+},
+"audio/s0898.mp3": {
+"text": "Met Sara Karimi.",
+"voice": "m"
+},
+"audio/w-meneer.mp3": {
+"text": "meneer",
+"voice": "w"
+},
+"audio/w-vries.mp3": {
+"text": "Vries",
+"voice": "w"
+},
+"audio/s0899.mp3": {
+"text": "Spreek ik met meneer De Vries?",
+"voice": "f"
+},
+"audio/s0900.mp3": {
+"text": "Ik bel over mijn afspraak.",
+"voice": "m"
+},
+"audio/w-doorverbinden.mp3": {
+"text": "doorverbinden",
+"voice": "w"
+},
+"audio/s0901.mp3": {
+"text": "Kunt u mij doorverbinden?",
+"voice": "f"
+},
+"audio/w-moment.mp3": {
+"text": "moment",
+"voice": "w"
+},
+"audio/s0902.mp3": {
+"text": "Hij is er op dit moment niet.",
+"voice": "m"
+},
+"audio/w-achterlaten.mp3": {
+"text": "achterlaten",
+"voice": "w"
+},
+"audio/s0903.mp3": {
+"text": "Kan ik een bericht achterlaten?",
+"voice": "f"
+},
+"audio/w-terugbellen.mp3": {
+"text": "terugbellen",
+"voice": "w"
+},
+"audio/s0904.mp3": {
+"text": "Wilt u later terugbellen?",
+"voice": "m"
+},
+"audio/w-versta.mp3": {
+"text": "versta",
+"voice": "w"
+},
+"audio/s0905.mp3": {
+"text": "Ik versta u niet goed.",
+"voice": "f"
+},
+"audio/w-spellen.mp3": {
+"text": "spellen",
+"voice": "w"
+},
+"audio/s0906.mp3": {
+"text": "Kunt u dat spellen?",
+"voice": "m"
+},
+"audio/w-verkeerd.mp3": {
+"text": "verkeerd",
+"voice": "w"
+},
+"audio/w-verbonden.mp3": {
+"text": "verbonden",
+"voice": "w"
+},
+"audio/s0907.mp3": {
+"text": "U bent verkeerd verbonden.",
+"voice": "f"
+},
+"audio/w-bedankt.mp3": {
+"text": "Bedankt",
+"voice": "w"
+},
+"audio/s0908.mp3": {
+"text": "Bedankt voor het bellen.",
+"voice": "m"
+},
+"audio/w-klachten.mp3": {
+"text": "klachten",
+"voice": "w"
+},
+"audio/s0909.mp3": {
+"text": "Wat zijn uw klachten?",
+"voice": "f"
+},
+"audio/s0910.mp3": {
+"text": "Ik heb al drie dagen koorts.",
+"voice": "m"
+},
+"audio/w-hoest.mp3": {
+"text": "hoest",
+"voice": "w"
+},
+"audio/s0911.mp3": {
+"text": "Ik hoest veel.",
+"voice": "f"
+},
+"audio/w-last.mp3": {
+"text": "last",
+"voice": "w"
+},
+"audio/s0912.mp3": {
+"text": "Sinds wanneer heeft u last van uw rug?",
+"voice": "m"
+},
+"audio/w-keel.mp3": {
+"text": "keel",
+"voice": "w"
+},
+"audio/w-kijken.mp3": {
+"text": "kijken",
+"voice": "w"
+},
+"audio/s0913.mp3": {
+"text": "Mag ik even naar uw keel kijken?",
+"voice": "f"
+},
+"audio/w-rust.mp3": {
+"text": "rust",
+"voice": "w"
+},
+"audio/w-nemen.mp3": {
+"text": "nemen",
+"voice": "w"
+},
+"audio/s0914.mp3": {
+"text": "U moet rust nemen.",
+"voice": "m"
+},
+"audio/w-schrijf.mp3": {
+"text": "schrijf",
+"voice": "w"
+},
+"audio/w-recept.mp3": {
+"text": "recept",
+"voice": "w"
+},
+"audio/s0915.mp3": {
+"text": "Ik schrijf een recept voor u.",
+"voice": "f"
+},
+"audio/s0916.mp3": {
+"text": "Neem dit drie keer per dag.",
+"voice": "m"
+},
+"audio/w-ergens.mp3": {
+"text": "ergens",
+"voice": "w"
+},
+"audio/w-allergisch.mp3": {
+"text": "allergisch",
+"voice": "w"
+},
+"audio/s0917.mp3": {
+"text": "Bent u ergens allergisch voor?",
+"voice": "f"
+},
+"audio/w-terugkomen.mp3": {
+"text": "terugkomen",
+"voice": "w"
+},
+"audio/s0918.mp3": {
+"text": "Als het niet beter wordt, moet u terugkomen.",
+"voice": "m"
+},
+"audio/w-verwijzing.mp3": {
+"text": "verwijzing",
+"voice": "w"
+},
+"audio/s0919.mp3": {
+"text": "Ik heb een verwijzing nodig.",
+"voice": "f"
+},
+"audio/w-ophalen.mp3": {
+"text": "ophalen",
+"voice": "w"
+},
+"audio/s0920.mp3": {
+"text": "Ik kom dit recept ophalen.",
+"voice": "m"
+},
+"audio/w-tegen.mp3": {
+"text": "tegen",
+"voice": "w"
+},
+"audio/s0921.mp3": {
+"text": "Heeft u iets tegen hoofdpijn?",
+"voice": "f"
+},
+"audio/w-innemen.mp3": {
+"text": "innemen",
+"voice": "w"
+},
+"audio/s0922.mp3": {
+"text": "Hoe vaak moet ik dit innemen?",
+"voice": "m"
+},
+"audio/s0923.mp3": {
+"text": "Neem het in na het eten.",
+"voice": "f"
+},
+"audio/w-middel.mp3": {
+"text": "middel",
+"voice": "w"
+},
+"audio/w-maakt.mp3": {
+"text": "maakt",
+"voice": "w"
+},
+"audio/w-slaperig.mp3": {
+"text": "slaperig",
+"voice": "w"
+},
+"audio/s0924.mp3": {
+"text": "Dit middel maakt je slaperig.",
+"voice": "m"
+},
+"audio/w-vergoed.mp3": {
+"text": "vergoed",
+"voice": "w"
+},
+"audio/s0925.mp3": {
+"text": "Wordt dit vergoed?",
+"voice": "f"
+},
+"audio/w-verzekeringspas.mp3": {
+"text": "verzekeringspas",
+"voice": "w"
+},
+"audio/s0926.mp3": {
+"text": "Mag ik uw verzekeringspas zien?",
+"voice": "m"
+},
+"audio/w-bewaar.mp3": {
+"text": "Bewaar",
+"voice": "w"
+},
+"audio/w-koelkast.mp3": {
+"text": "koelkast",
+"voice": "w"
+},
+"audio/s0927.mp3": {
+"text": "Bewaar het in de koelkast.",
+"voice": "f"
+},
+"audio/w-gebruiken.mp3": {
+"text": "gebruiken",
+"voice": "w"
+},
+"audio/s0928.mp3": {
+"text": "Ik ben zwanger. Mag ik dit gebruiken?",
+"voice": "m"
+},
+"audio/w-zonder.mp3": {
+"text": "zonder",
+"voice": "w"
+},
+"audio/s0929.mp3": {
+"text": "Het is zonder recept.",
+"voice": "f"
+},
+"audio/w-medicijnen.mp3": {
+"text": "medicijnen",
+"voice": "w"
+},
+"audio/s0930.mp3": {
+"text": "Uw medicijnen zijn morgen klaar.",
+"voice": "m"
+},
+"audio/w-huurhuis.mp3": {
+"text": "huurhuis",
+"voice": "w"
+},
+"audio/s0931.mp3": {
+"text": "Ik zoek een huurhuis.",
+"voice": "f"
+},
+"audio/s0932.mp3": {
+"text": "Hoeveel is de huur per maand?",
+"voice": "m"
+},
+"audio/w-inclusief.mp3": {
+"text": "inclusief",
+"voice": "w"
+},
+"audio/w-gas.mp3": {
+"text": "gas",
+"voice": "w"
+},
+"audio/s0933.mp3": {
+"text": "Is de huur inclusief gas en licht?",
+"voice": "f"
+},
+"audio/w-bekijken.mp3": {
+"text": "bekijken",
+"voice": "w"
+},
+"audio/s0934.mp3": {
+"text": "Wanneer kan ik het huis bekijken?",
+"voice": "m"
+},
+"audio/w-gemeubileerd.mp3": {
+"text": "gemeubileerd",
+"voice": "w"
+},
+"audio/s0935.mp3": {
+"text": "Het appartement is gemeubileerd.",
+"voice": "f"
+},
+"audio/w-borg.mp3": {
+"text": "borg",
+"voice": "w"
+},
+"audio/s0936.mp3": {
+"text": "Ik moet een borg betalen.",
+"voice": "m"
+},
+"audio/w-huisdieren.mp3": {
+"text": "huisdieren",
+"voice": "w"
+},
+"audio/w-toegestaan.mp3": {
+"text": "toegestaan",
+"voice": "w"
+},
+"audio/s0937.mp3": {
+"text": "Zijn huisdieren toegestaan?",
+"voice": "f"
+},
+"audio/s0938.mp3": {
+"text": "Het huis ligt dicht bij het station.",
+"voice": "m"
+},
+"audio/w-huurcontract.mp3": {
+"text": "huurcontract",
+"voice": "w"
+},
+"audio/s0939.mp3": {
+"text": "Ik wil het huurcontract goed lezen.",
+"voice": "f"
+},
+"audio/w-vanaf.mp3": {
+"text": "Vanaf",
+"voice": "w"
+},
+"audio/s0940.mp3": {
+"text": "Vanaf wanneer is het huis vrij?",
+"voice": "m"
+},
+"audio/w-gehuurd.mp3": {
+"text": "gehuurd",
+"voice": "w"
+},
+"audio/s0941.mp3": {
+"text": "Ik heb het huis gehuurd.",
+"voice": "f"
+},
+"audio/w-verwarming.mp3": {
+"text": "verwarming",
+"voice": "w"
+},
+"audio/s0942.mp3": {
+"text": "De verwarming doet het niet.",
+"voice": "m"
+},
+"audio/w-lekkage.mp3": {
+"text": "lekkage",
+"voice": "w"
+},
+"audio/s0943.mp3": {
+"text": "Er is een lekkage in de badkamer.",
+"voice": "f"
+},
+"audio/w-kraan.mp3": {
+"text": "kraan",
+"voice": "w"
+},
+"audio/w-lekt.mp3": {
+"text": "lekt",
+"voice": "w"
+},
+"audio/s0944.mp3": {
+"text": "De kraan lekt.",
+"voice": "m"
+},
+"audio/s0945.mp3": {
+"text": "Het licht is kapot.",
+"voice": "f"
+},
+"audio/w-verstopt.mp3": {
+"text": "verstopt",
+"voice": "w"
+},
+"audio/s0946.mp3": {
+"text": "De wc is verstopt.",
+"voice": "m"
+},
+"audio/w-verhuurder.mp3": {
+"text": "verhuurder",
+"voice": "w"
+},
+"audio/s0947.mp3": {
+"text": "Ik bel de verhuurder.",
+"voice": "f"
+},
+"audio/w-monteur.mp3": {
+"text": "monteur",
+"voice": "w"
+},
+"audio/s0948.mp3": {
+"text": "Wanneer komt de monteur?",
+"voice": "m"
+},
+"audio/s0949.mp3": {
+"text": "Het raam gaat niet dicht.",
+"voice": "f"
+},
+"audio/w-schimmel.mp3": {
+"text": "schimmel",
+"voice": "w"
+},
+"audio/w-muur.mp3": {
+"text": "muur",
+"voice": "w"
+},
+"audio/s0950.mp3": {
+"text": "Er zit schimmel op de muur.",
+"voice": "m"
+},
+"audio/w-mogelijk.mp3": {
+"text": "mogelijk",
+"voice": "w"
+},
+"audio/s0951.mp3": {
+"text": "Kunt u het zo snel mogelijk maken?",
+"voice": "f"
+},
+"audio/w-buren.mp3": {
+"text": "buren",
+"voice": "w"
+},
+"audio/w-lawaai.mp3": {
+"text": "lawaai",
+"voice": "w"
+},
+"audio/s0952.mp3": {
+"text": "De buren maken veel lawaai.",
+"voice": "m"
+},
+"audio/s0953.mp3": {
+"text": "Hallo, ik ben de nieuwe buurvrouw.",
+"voice": "f"
+},
+"audio/s0954.mp3": {
+"text": "Welkom in de straat!",
+"voice": "m"
+},
+"audio/w-binnenkomen.mp3": {
+"text": "binnenkomen",
+"voice": "w"
+},
+"audio/s0955.mp3": {
+"text": "Wilt u even binnenkomen?",
+"voice": "f"
+},
+"audio/w-pakket.mp3": {
+"text": "pakket",
+"voice": "w"
+},
+"audio/w-aannemen.mp3": {
+"text": "aannemen",
+"voice": "w"
+},
+"audio/s0956.mp3": {
+"text": "Kunt u mijn pakket aannemen?",
+"voice": "m"
+},
+"audio/s0957.mp3": {
+"text": "Ik ben volgende week op vakantie.",
+"voice": "f"
+},
+"audio/w-planten.mp3": {
+"text": "planten",
+"voice": "w"
+},
+"audio/s0958.mp3": {
+"text": "Wilt u de planten water geven?",
+"voice": "m"
+},
+"audio/w-feestje.mp3": {
+"text": "feestje",
+"voice": "w"
+},
+"audio/s0959.mp3": {
+"text": "Ik geef zaterdag een feestje.",
+"voice": "f"
+},
+"audio/w-worden.mp3": {
+"text": "worden",
+"voice": "w"
+},
+"audio/s0960.mp3": {
+"text": "Het kan een beetje laat worden.",
+"voice": "m"
+},
+"audio/w-sorry.mp3": {
+"text": "Sorry",
+"voice": "w"
+},
+"audio/s0961.mp3": {
+"text": "Sorry voor het lawaai.",
+"voice": "f"
+},
+"audio/w-behulpzaam.mp3": {
+"text": "behulpzaam",
+"voice": "w"
+},
+"audio/s0962.mp3": {
+"text": "Onze buren zijn erg behulpzaam.",
+"voice": "m"
+},
+"audio/s0963.mp3": {
+"text": "We drinken soms samen koffie.",
+"voice": "f"
+},
+"audio/w-bankrekening.mp3": {
+"text": "bankrekening",
+"voice": "w"
+},
+"audio/w-openen.mp3": {
+"text": "openen",
+"voice": "w"
+},
+"audio/s0964.mp3": {
+"text": "Ik wil een bankrekening openen.",
+"voice": "m"
+},
+"audio/w-rekeningnummer.mp3": {
+"text": "rekeningnummer",
+"voice": "w"
+},
+"audio/s0965.mp3": {
+"text": "Wat is uw rekeningnummer?",
+"voice": "f"
+},
+"audio/w-overmaken.mp3": {
+"text": "overmaken",
+"voice": "w"
+},
+"audio/s0966.mp3": {
+"text": "Ik wil geld overmaken.",
+"voice": "m"
+},
+"audio/w-pinpas.mp3": {
+"text": "pinpas",
+"voice": "w"
+},
+"audio/w-geblokkeerd.mp3": {
+"text": "geblokkeerd",
+"voice": "w"
+},
+"audio/s0967.mp3": {
+"text": "Mijn pinpas is geblokkeerd.",
+"voice": "f"
+},
+"audio/w-pincode.mp3": {
+"text": "pincode",
+"voice": "w"
+},
+"audio/s0968.mp3": {
+"text": "Ik ben mijn pincode vergeten.",
+"voice": "m"
+},
+"audio/s0969.mp3": {
+"text": "Hoeveel staat er op mijn rekening?",
+"voice": "f"
+},
+"audio/w-salaris.mp3": {
+"text": "salaris",
+"voice": "w"
+},
+"audio/w-eind.mp3": {
+"text": "eind",
+"voice": "w"
+},
+"audio/s0970.mp3": {
+"text": "Ik krijg mijn salaris aan het eind van de maand.",
+"voice": "m"
+},
+"audio/w-betaal.mp3": {
+"text": "betaal",
+"voice": "w"
+},
+"audio/w-via.mp3": {
+"text": "via",
+"voice": "w"
+},
+"audio/w-app.mp3": {
+"text": "app",
+"voice": "w"
+},
+"audio/s0971.mp3": {
+"text": "Ik betaal de rekening via de app.",
+"voice": "f"
+},
+"audio/w-biljetten.mp3": {
+"text": "biljetten",
+"voice": "w"
+},
+"audio/w-wisselen.mp3": {
+"text": "wisselen",
+"voice": "w"
+},
+"audio/s0972.mp3": {
+"text": "Kunt u dit in kleine biljetten wisselen?",
+"voice": "m"
+},
+"audio/w-sparen.mp3": {
+"text": "sparen",
+"voice": "w"
+},
+"audio/s0973.mp3": {
+"text": "Ik wil sparen voor een vakantie.",
+"voice": "f"
+},
+"audio/w-lening.mp3": {
+"text": "lening",
+"voice": "w"
+},
+"audio/s0974.mp3": {
+"text": "Ik heb een lening nodig.",
+"voice": "m"
+},
+"audio/w-versturen.mp3": {
+"text": "versturen",
+"voice": "w"
+},
+"audio/s0975.mp3": {
+"text": "Ik wil dit pakket versturen.",
+"voice": "f"
+},
+"audio/w-postzegel.mp3": {
+"text": "postzegel",
+"voice": "w"
+},
+"audio/s0976.mp3": {
+"text": "Hoeveel kost een postzegel?",
+"voice": "m"
+},
+"audio/s0977.mp3": {
+"text": "Mijn pakket is niet aangekomen.",
+"voice": "f"
+},
+"audio/w-bezorger.mp3": {
+"text": "bezorger",
+"voice": "w"
+},
+"audio/s0978.mp3": {
+"text": "De bezorger was er niet.",
+"voice": "m"
+},
+"audio/w-servicepunt.mp3": {
+"text": "servicepunt",
+"voice": "w"
+},
+"audio/s0979.mp3": {
+"text": "Ik kan het pakket ophalen bij het servicepunt.",
+"voice": "f"
+},
+"audio/w-brievenbus.mp3": {
+"text": "brievenbus",
+"voice": "w"
+},
+"audio/s0980.mp3": {
+"text": "Waar is de brievenbus?",
+"voice": "m"
+},
+"audio/w-formulier.mp3": {
+"text": "formulier",
+"voice": "w"
+},
+"audio/w-invullen.mp3": {
+"text": "invullen",
+"voice": "w"
+},
+"audio/s0981.mp3": {
+"text": "Ik moet een formulier invullen.",
+"voice": "f"
+},
+"audio/w-bezorgd.mp3": {
+"text": "bezorgd",
+"voice": "w"
+},
+"audio/s0982.mp3": {
+"text": "Het pakket wordt morgen bezorgd.",
+"voice": "m"
+},
+"audio/w-terugsturen.mp3": {
+"text": "terugsturen",
+"voice": "w"
+},
+"audio/s0983.mp3": {
+"text": "Ik wil dit terugsturen.",
+"voice": "f"
+},
+"audio/w-track-and-tracecode.mp3": {
+"text": "track-and-tracecode",
+"voice": "w"
+},
+"audio/s0984.mp3": {
+"text": "Heeft u een track-and-tracecode?",
+"voice": "m"
+},
+"audio/s0985.mp3": {
+"text": "Stuur me een kaartje uit Iran!",
+"voice": "f"
+},
+"audio/w-inschrijven.mp3": {
+"text": "inschrijven",
+"voice": "w"
+},
+"audio/w-gemeente.mp3": {
+"text": "gemeente",
+"voice": "w"
+},
+"audio/s0986.mp3": {
+"text": "Ik moet me inschrijven bij de gemeente.",
+"voice": "m"
+},
+"audio/w-loket.mp3": {
+"text": "loket",
+"voice": "w"
+},
+"audio/s0987.mp3": {
+"text": "Ik heb een afspraak bij het loket.",
+"voice": "f"
+},
+"audio/w-paspoort.mp3": {
+"text": "paspoort",
+"voice": "w"
+},
+"audio/s0988.mp3": {
+"text": "Neem uw paspoort mee.",
+"voice": "m"
+},
+"audio/w-identiteitskaart.mp3": {
+"text": "identiteitskaart",
+"voice": "w"
+},
+"audio/w-aanvragen.mp3": {
+"text": "aanvragen",
+"voice": "w"
+},
+"audio/s0989.mp3": {
+"text": "Ik wil een nieuwe identiteitskaart aanvragen.",
+"voice": "f"
+},
+"audio/w-burgerservicenummer.mp3": {
+"text": "burgerservicenummer",
+"voice": "w"
+},
+"audio/s0990.mp3": {
+"text": "Wat is uw burgerservicenummer?",
+"voice": "m"
+},
+"audio/w-wijzigen.mp3": {
+"text": "wijzigen",
+"voice": "w"
+},
+"audio/s0991.mp3": {
+"text": "Ik ben verhuisd en ik wil mijn adres wijzigen.",
+"voice": "f"
+},
+"audio/w-ondertekenen.mp3": {
+"text": "ondertekenen",
+"voice": "w"
+},
+"audio/s0992.mp3": {
+"text": "U moet dit formulier ondertekenen.",
+"voice": "m"
+},
+"audio/w-duurt.mp3": {
+"text": "duurt",
+"voice": "w"
+},
+"audio/s0993.mp3": {
+"text": "Hoe lang duurt het?",
+"voice": "f"
+},
+"audio/w-kosten.mp3": {
+"text": "kosten",
+"voice": "w"
+},
+"audio/w-vijfenvijftig.mp3": {
+"text": "vijfenvijftig",
+"voice": "w"
+},
+"audio/s0994.mp3": {
+"text": "De kosten zijn vijfenvijftig euro.",
+"voice": "m"
+},
+"audio/w-krijgt.mp3": {
+"text": "krijgt",
+"voice": "w"
+},
+"audio/w-weken.mp3": {
+"text": "weken",
+"voice": "w"
+},
+"audio/s0995.mp3": {
+"text": "U krijgt binnen twee weken een brief.",
+"voice": "f"
+},
+"audio/s0996.mp3": {
+"text": "Ik begrijp deze brief niet. Kunt u me helpen?",
+"voice": "m"
+},
+"audio/s0997.mp3": {
+"text": "Waar ga je op vakantie?",
+"voice": "f"
+},
+"audio/w-italie.mp3": {
+"text": "Italië",
+"voice": "w"
+},
+"audio/s0998.mp3": {
+"text": "We gaan twee weken naar Italië.",
+"voice": "m"
+},
+"audio/w-hotel.mp3": {
+"text": "hotel",
+"voice": "w"
+},
+"audio/w-geboekt.mp3": {
+"text": "geboekt",
+"voice": "w"
+},
+"audio/s0999.mp3": {
+"text": "Ik heb een hotel geboekt.",
+"voice": "f"
+},
+"audio/w-vliegtuig.mp3": {
+"text": "vliegtuig",
+"voice": "w"
+},
+"audio/s1000.mp3": {
+"text": "We gaan met het vliegtuig.",
+"voice": "m"
+},
+"audio/w-pak.mp3": {
+"text": "pak",
+"voice": "w"
+},
+"audio/w-koffer.mp3": {
+"text": "koffer",
+"voice": "w"
+},
+"audio/s1001.mp3": {
+"text": "Ik pak mijn koffer in.",
+"voice": "f"
+},
+"audio/s1002.mp3": {
+"text": "Vergeet je paspoort niet!",
+"voice": "m"
+},
+"audio/w-kamperen.mp3": {
+"text": "kamperen",
+"voice": "w"
+},
+"audio/w-frankrijk.mp3": {
+"text": "Frankrijk",
+"voice": "w"
+},
+"audio/s1003.mp3": {
+"text": "We gaan kamperen in Frankrijk.",
+"voice": "f"
+},
+"audio/s1004.mp3": {
+"text": "Hoe was je vakantie?",
+"voice": "m"
+},
+"audio/w-heerlijk.mp3": {
+"text": "heerlijk",
+"voice": "w"
+},
+"audio/s1005.mp3": {
+"text": "Het was heerlijk.",
+"voice": "f"
+},
+"audio/s1006.mp3": {
+"text": "We hebben veel gezien.",
+"voice": "m"
+},
+"audio/w-gemaakt.mp3": {
+"text": "gemaakt",
+"voice": "w"
+},
+"audio/s1007.mp3": {
+"text": "Ik heb veel foto's gemaakt.",
+"voice": "f"
+},
+"audio/w-gereserveerd.mp3": {
+"text": "gereserveerd",
+"voice": "w"
+},
+"audio/s1008.mp3": {
+"text": "Ik heb een kamer gereserveerd.",
+"voice": "m"
+},
+"audio/s1009.mp3": {
+"text": "Op welke naam?",
+"voice": "f"
+},
+"audio/w-inbegrepen.mp3": {
+"text": "inbegrepen",
+"voice": "w"
+},
+"audio/s1010.mp3": {
+"text": "Is het ontbijt inbegrepen?",
+"voice": "m"
+},
+"audio/w-uitchecken.mp3": {
+"text": "uitchecken",
+"voice": "w"
+},
+"audio/s1011.mp3": {
+"text": "Hoe laat moet ik uitchecken?",
+"voice": "f"
+},
+"audio/s1012.mp3": {
+"text": "Mijn kamer is te warm.",
+"voice": "m"
+},
+"audio/w-airco.mp3": {
+"text": "airco",
+"voice": "w"
+},
+"audio/s1013.mp3": {
+"text": "De airco werkt niet.",
+"voice": "f"
+},
+"audio/w-extra.mp3": {
+"text": "extra",
+"voice": "w"
+},
+"audio/w-handdoek.mp3": {
+"text": "handdoek",
+"voice": "w"
+},
+"audio/s1014.mp3": {
+"text": "Kan ik een extra handdoek krijgen?",
+"voice": "m"
+},
+"audio/w-wifi.mp3": {
+"text": "wifi",
+"voice": "w"
+},
+"audio/s1015.mp3": {
+"text": "Is er wifi op de kamer?",
+"voice": "f"
+},
+"audio/s1016.mp3": {
+"text": "Kunt u een taxi voor mij bellen?",
+"voice": "m"
+},
+"audio/w-bagage.mp3": {
+"text": "bagage",
+"voice": "w"
+},
+"audio/w-laten.mp3": {
+"text": "laten",
+"voice": "w"
+},
+"audio/s1017.mp3": {
+"text": "Mag ik mijn bagage hier laten?",
+"voice": "f"
+},
+"audio/w-receptie.mp3": {
+"text": "receptie",
+"voice": "w"
+},
+"audio/s1018.mp3": {
+"text": "De sleutel ligt bij de receptie.",
+"voice": "m"
+},
+"audio/w-inchecken.mp3": {
+"text": "inchecken",
+"voice": "w"
+},
+"audio/s1019.mp3": {
+"text": "Waar moet ik inchecken?",
+"voice": "f"
+},
+"audio/w-vlucht.mp3": {
+"text": "vlucht",
+"voice": "w"
+},
+"audio/w-geannuleerd.mp3": {
+"text": "geannuleerd",
+"voice": "w"
+},
+"audio/s1020.mp3": {
+"text": "Mijn vlucht is geannuleerd.",
+"voice": "m"
+},
+"audio/w-gate.mp3": {
+"text": "gate",
+"voice": "w"
+},
+"audio/s1021.mp3": {
+"text": "Het vliegtuig vertrekt van gate acht.",
+"voice": "f"
+},
+"audio/w-alleen.mp3": {
+"text": "alleen",
+"voice": "w"
+},
+"audio/w-handbagage.mp3": {
+"text": "handbagage",
+"voice": "w"
+},
+"audio/s1022.mp3": {
+"text": "Ik heb alleen handbagage.",
+"voice": "m"
+},
+"audio/w-zoekgeraakt.mp3": {
+"text": "zoekgeraakt",
+"voice": "w"
+},
+"audio/s1023.mp3": {
+"text": "Mijn koffer is zoekgeraakt.",
+"voice": "f"
+},
+"audio/s1024.mp3": {
+"text": "Hoe lang duurt de vlucht?",
+"voice": "m"
+},
+"audio/w-retourtje.mp3": {
+"text": "retourtje",
+"voice": "w"
+},
+"audio/s1025.mp3": {
+"text": "Ik wil een retourtje Amsterdam.",
+"voice": "f"
+},
+"audio/s1026.mp3": {
+"text": "Moet ik overstappen?",
+"voice": "m"
+},
+"audio/s1027.mp3": {
+"text": "De volgende trein gaat over twintig minuten.",
+"voice": "f"
+},
+"audio/w-plaats.mp3": {
+"text": "plaats",
+"voice": "w"
+},
+"audio/s1028.mp3": {
+"text": "Is deze plaats vrij?",
+"voice": "m"
+},
+"audio/w-veilig.mp3": {
+"text": "veilig",
+"voice": "w"
+},
+"audio/w-geland.mp3": {
+"text": "geland",
+"voice": "w"
+},
+"audio/s1029.mp3": {
+"text": "We zijn veilig geland.",
+"voice": "f"
+},
+"audio/s1030.mp3": {
+"text": "Ik ben jarig.",
+"voice": "m"
+},
+"audio/s1031.mp3": {
+"text": "Gefeliciteerd!",
+"voice": "f"
+},
+"audio/w-verjaardag.mp3": {
+"text": "verjaardag",
+"voice": "w"
+},
+"audio/s1032.mp3": {
+"text": "Gefeliciteerd met je verjaardag!",
+"voice": "m"
+},
+"audio/w-feest.mp3": {
+"text": "feest",
+"voice": "w"
+},
+"audio/s1033.mp3": {
+"text": "Ik nodig je uit voor mijn feest.",
+"voice": "f"
+},
+"audio/s1034.mp3": {
+"text": "Kom je ook?",
+"voice": "m"
+},
+"audio/s1035.mp3": {
+"text": "Ik kom graag!",
+"voice": "f"
+},
+"audio/w-helaas.mp3": {
+"text": "Helaas",
+"voice": "w"
+},
+"audio/s1036.mp3": {
+"text": "Helaas kan ik niet komen.",
+"voice": "m"
+},
+"audio/s1037.mp3": {
+"text": "Wat zal ik meenemen?",
+"voice": "f"
+},
+"audio/w-cadeautje.mp3": {
+"text": "cadeautje",
+"voice": "w"
+},
+"audio/s1038.mp3": {
+"text": "Ik heb een cadeautje voor je.",
+"voice": "m"
+},
+"audio/s1039.mp3": {
+"text": "Hoe oud word je?",
+"voice": "f"
+},
+"audio/w-uitnodiging.mp3": {
+"text": "uitnodiging",
+"voice": "w"
+},
+"audio/s1040.mp3": {
+"text": "Dank je wel voor de uitnodiging.",
+"voice": "m"
+},
+"audio/s1041.mp3": {
+"text": "Ik ben blij.",
+"voice": "f"
+},
+"audio/w-verdrietig.mp3": {
+"text": "verdrietig",
+"voice": "w"
+},
+"audio/s1042.mp3": {
+"text": "Ik ben verdrietig.",
+"voice": "m"
+},
+"audio/w-boos.mp3": {
+"text": "boos",
+"voice": "w"
+},
+"audio/s1043.mp3": {
+"text": "Hij is boos op mij.",
+"voice": "f"
+},
+"audio/w-honden.mp3": {
+"text": "honden",
+"voice": "w"
+},
+"audio/s1044.mp3": {
+"text": "Ze is bang voor honden.",
+"voice": "m"
+},
+"audio/w-zenuwachtig.mp3": {
+"text": "zenuwachtig",
+"voice": "w"
+},
+"audio/s1045.mp3": {
+"text": "Ik ben zenuwachtig voor het examen.",
+"voice": "f"
+},
+"audio/w-trots.mp3": {
+"text": "trots",
+"voice": "w"
+},
+"audio/s1046.mp3": {
+"text": "Ik ben trots op mijn kinderen.",
+"voice": "m"
+},
+"audio/s1047.mp3": {
+"text": "Ik mis mijn familie.",
+"voice": "f"
+},
+"audio/w-heimwee.mp3": {
+"text": "heimwee",
+"voice": "w"
+},
+"audio/s1048.mp3": {
+"text": "Ik heb heimwee.",
+"voice": "m"
+},
+"audio/w-verrast.mp3": {
+"text": "verrast",
+"voice": "w"
+},
+"audio/s1049.mp3": {
+"text": "Ik ben verrast.",
+"voice": "f"
+},
+"audio/w-zorgen.mp3": {
+"text": "zorgen",
+"voice": "w"
+},
+"audio/s1050.mp3": {
+"text": "Maak je geen zorgen.",
+"voice": "m"
+},
+"audio/w-eenzaam.mp3": {
+"text": "eenzaam",
+"voice": "w"
+},
+"audio/s1051.mp3": {
+"text": "Ik voel me eenzaam.",
+"voice": "f"
+},
+"audio/w-ziet.mp3": {
+"text": "ziet",
+"voice": "w"
+},
+"audio/w-eruit.mp3": {
+"text": "eruit",
+"voice": "w"
+},
+"audio/s1052.mp3": {
+"text": "Hoe ziet hij eruit?",
+"voice": "m"
+},
+"audio/w-kort.mp3": {
+"text": "kort",
+"voice": "w"
+},
+"audio/w-zwart.mp3": {
+"text": "zwart",
+"voice": "w"
+},
+"audio/s1053.mp3": {
+"text": "Hij heeft kort, zwart haar.",
+"voice": "f"
+},
+"audio/w-blond.mp3": {
+"text": "blond",
+"voice": "w"
+},
+"audio/s1054.mp3": {
+"text": "Ze heeft lang, blond haar.",
+"voice": "m"
+},
+"audio/w-slank.mp3": {
+"text": "slank",
+"voice": "w"
+},
+"audio/s1055.mp3": {
+"text": "Hij is lang en slank.",
+"voice": "f"
+},
+"audio/w-bruine.mp3": {
+"text": "bruine",
+"voice": "w"
+},
+"audio/s1056.mp3": {
+"text": "Ze heeft bruine ogen.",
+"voice": "m"
+},
+"audio/w-bril.mp3": {
+"text": "bril",
+"voice": "w"
+},
+"audio/s1057.mp3": {
+"text": "Hij draagt een bril.",
+"voice": "f"
+},
+"audio/w-baard.mp3": {
+"text": "baard",
+"voice": "w"
+},
+"audio/s1058.mp3": {
+"text": "Mijn opa heeft een baard.",
+"voice": "m"
+},
+"audio/s1059.mp3": {
+"text": "Ze lijkt op haar moeder.",
+"voice": "f"
+},
+"audio/w-dik.mp3": {
+"text": "dik",
+"voice": "w"
+},
+"audio/s1060.mp3": {
+"text": "Hij is een beetje dik.",
+"voice": "m"
+},
+"audio/s1061.mp3": {
+"text": "Je ziet er goed uit!",
+"voice": "f"
+},
+"audio/w-ongeveer.mp3": {
+"text": "ongeveer",
+"voice": "w"
+},
+"audio/w-veertig.mp3": {
+"text": "veertig",
+"voice": "w"
+},
+"audio/s1062.mp3": {
+"text": "Zij is ongeveer veertig.",
+"voice": "m"
+},
+"audio/w-vriendelijk.mp3": {
+"text": "vriendelijk",
+"voice": "w"
+},
+"audio/s1063.mp3": {
+"text": "Ze is heel vriendelijk.",
+"voice": "f"
+},
+"audio/w-lui.mp3": {
+"text": "lui",
+"voice": "w"
+},
+"audio/s1064.mp3": {
+"text": "Hij is een beetje lui.",
+"voice": "m"
+},
+"audio/w-collega.mp3": {
+"text": "collega",
+"voice": "w"
+},
+"audio/w-grappig.mp3": {
+"text": "grappig",
+"voice": "w"
+},
+"audio/s1065.mp3": {
+"text": "Mijn collega is erg grappig.",
+"voice": "f"
+},
+"audio/w-eerlijk.mp3": {
+"text": "eerlijk",
+"voice": "w"
+},
+"audio/w-betrouwbaar.mp3": {
+"text": "betrouwbaar",
+"voice": "w"
+},
+"audio/s1066.mp3": {
+"text": "Hij is eerlijk en betrouwbaar.",
+"voice": "m"
+},
+"audio/w-ongeduldig.mp3": {
+"text": "ongeduldig",
+"voice": "w"
+},
+"audio/s1067.mp3": {
+"text": "Ze is soms een beetje ongeduldig.",
+"voice": "f"
+},
+"audio/w-streng.mp3": {
+"text": "streng",
+"voice": "w"
+},
+"audio/w-rechtvaardig.mp3": {
+"text": "rechtvaardig",
+"voice": "w"
+},
+"audio/s1068.mp3": {
+"text": "Mijn baas is streng maar rechtvaardig.",
+"voice": "m"
+},
+"audio/w-nogal.mp3": {
+"text": "nogal",
+"voice": "w"
+},
+"audio/s1069.mp3": {
+"text": "Hij is nogal verlegen.",
+"voice": "f"
+},
+"audio/w-vrolijk.mp3": {
+"text": "vrolijk",
+"voice": "w"
+},
+"audio/s1070.mp3": {
+"text": "Ze is altijd vrolijk.",
+"voice": "m"
+},
+"audio/w-saai.mp3": {
+"text": "saai",
+"voice": "w"
+},
+"audio/s1071.mp3": {
+"text": "Ik vind hem een beetje saai.",
+"voice": "f"
+},
+"audio/w-slim.mp3": {
+"text": "slim",
+"voice": "w"
+},
+"audio/s1072.mp3": {
+"text": "Mijn dochter is heel slim.",
+"voice": "m"
+},
+"audio/w-geduldig.mp3": {
+"text": "geduldig",
+"voice": "w"
+},
+"audio/s1073.mp3": {
+"text": "Hij is behulpzaam en geduldig.",
+"voice": "f"
+},
+"audio/s1074.mp3": {
+"text": "Ik voetbal elke zaterdag.",
+"voice": "m"
+},
+"audio/w-tennis.mp3": {
+"text": "tennis",
+"voice": "w"
+},
+"audio/s1075.mp3": {
+"text": "Ze zit op tennis.",
+"voice": "f"
+},
+"audio/w-sportschool.mp3": {
+"text": "sportschool",
+"voice": "w"
+},
+"audio/s1076.mp3": {
+"text": "Ik ga naar de sportschool.",
+"voice": "m"
+},
+"audio/w-loopt.mp3": {
+"text": "loopt",
+"voice": "w"
+},
+"audio/s1077.mp3": {
+"text": "Hij loopt elke ochtend hard.",
+"voice": "f"
+},
+"audio/w-gewonnen.mp3": {
+"text": "gewonnen",
+"voice": "w"
+},
+"audio/s1078.mp3": {
+"text": "Wie heeft er gewonnen?",
+"voice": "m"
+},
+"audio/w-drie-een.mp3": {
+"text": "drie-één",
+"voice": "w"
+},
+"audio/w-verloren.mp3": {
+"text": "verloren",
+"voice": "w"
+},
+"audio/s1079.mp3": {
+"text": "We hebben met drie-één verloren.",
+"voice": "f"
+},
+"audio/w-schaatsen.mp3": {
+"text": "Schaatsen",
+"voice": "w"
+},
+"audio/w-populair.mp3": {
+"text": "populair",
+"voice": "w"
+},
+"audio/s1080.mp3": {
+"text": "Schaatsen is populair in Nederland.",
+"voice": "m"
+},
+"audio/w-yoga.mp3": {
+"text": "yoga",
+"voice": "w"
+},
+"audio/s1081.mp3": {
+"text": "Ik doe aan yoga.",
+"voice": "f"
+},
+"audio/w-wedstrijd.mp3": {
+"text": "wedstrijd",
+"voice": "w"
+},
+"audio/s1082.mp3": {
+"text": "De wedstrijd begint om acht uur.",
+"voice": "m"
+},
+"audio/w-gezondheid.mp3": {
+"text": "gezondheid",
+"voice": "w"
+},
+"audio/s1083.mp3": {
+"text": "Sporten is goed voor je gezondheid.",
+"voice": "f"
+},
+"audio/w-zwemclub.mp3": {
+"text": "zwemclub",
+"voice": "w"
+},
+"audio/s1084.mp3": {
+"text": "Ik ben lid van een zwemclub.",
+"voice": "m"
+},
+"audio/w-maart.mp3": {
+"text": "maart",
+"voice": "w"
+},
+"audio/s1085.mp3": {
+"text": "Mijn verjaardag is op twaalf maart.",
+"voice": "f"
+},
+"audio/w-lente.mp3": {
+"text": "lente",
+"voice": "w"
+},
+"audio/w-bloeien.mp3": {
+"text": "bloeien",
+"voice": "w"
+},
+"audio/s1086.mp3": {
+"text": "In de lente bloeien de bloemen.",
+"voice": "m"
+},
+"audio/w-vallen.mp3": {
+"text": "vallen",
+"voice": "w"
+},
+"audio/w-bladeren.mp3": {
+"text": "bladeren",
+"voice": "w"
+},
+"audio/s1087.mp3": {
+"text": "In de herfst vallen de bladeren.",
+"voice": "f"
+},
+"audio/w-zomervakantie.mp3": {
+"text": "zomervakantie",
+"voice": "w"
+},
+"audio/w-juli.mp3": {
+"text": "juli",
+"voice": "w"
+},
+"audio/s1088.mp3": {
+"text": "De zomervakantie begint in juli.",
+"voice": "m"
+},
+"audio/w-datum.mp3": {
+"text": "datum",
+"voice": "w"
+},
+"audio/s1089.mp3": {
+"text": "Welke datum is het vandaag?",
+"voice": "f"
+},
+"audio/w-mei.mp3": {
+"text": "mei",
+"voice": "w"
+},
+"audio/s1090.mp3": {
+"text": "Het is vandaag de eerste mei.",
+"voice": "m"
+},
+"audio/w-januari.mp3": {
+"text": "januari",
+"voice": "w"
+},
+"audio/s1091.mp3": {
+"text": "In januari is het vaak koud.",
+"voice": "f"
+},
+"audio/w-nowruz.mp3": {
+"text": "Nowruz",
+"voice": "w"
+},
+"audio/w-eenentwintig.mp3": {
+"text": "eenentwintig",
+"voice": "w"
+},
+"audio/s1092.mp3": {
+"text": "Nowruz is op eenentwintig maart.",
+"voice": "m"
+},
+"audio/w-negentienhonderdnegentig.mp3": {
+"text": "negentienhonderdnegentig",
+"voice": "w"
+},
+"audio/s1093.mp3": {
+"text": "Ik ben geboren in negentienhonderdnegentig.",
+"voice": "f"
+},
+"audio/w-maanden.mp3": {
+"text": "maanden",
+"voice": "w"
+},
+"audio/s1094.mp3": {
+"text": "Over drie maanden ga ik naar Iran.",
+"voice": "m"
+},
+"audio/s1095.mp3": {
+"text": "De winter duurt hier lang.",
+"voice": "f"
+},
+"audio/w-snijd.mp3": {
+"text": "Snijd",
+"voice": "w"
+},
+"audio/w-uien.mp3": {
+"text": "uien",
+"voice": "w"
+},
+"audio/w-stukjes.mp3": {
+"text": "stukjes",
+"voice": "w"
+},
+"audio/s1096.mp3": {
+"text": "Snijd de uien in kleine stukjes.",
+"voice": "m"
+},
+"audio/w-olie.mp3": {
+"text": "olie",
+"voice": "w"
+},
+"audio/w-pan.mp3": {
+"text": "pan",
+"voice": "w"
+},
+"audio/s1097.mp3": {
+"text": "Doe wat olie in de pan.",
+"voice": "f"
+},
+"audio/w-bak.mp3": {
+"text": "Bak",
+"voice": "w"
+},
+"audio/s1098.mp3": {
+"text": "Bak de uien vijf minuten.",
+"voice": "m"
+},
+"audio/w-voeg.mp3": {
+"text": "Voeg",
+"voice": "w"
+},
+"audio/w-tomaten.mp3": {
+"text": "tomaten",
+"voice": "w"
+},
+"audio/w-toe.mp3": {
+"text": "toe",
+"voice": "w"
+},
+"audio/s1099.mp3": {
+"text": "Voeg de tomaten toe.",
+"voice": "f"
+},
+"audio/w-roer.mp3": {
+"text": "Roer",
+"voice": "w"
+},
+"audio/s1100.mp3": {
+"text": "Roer goed.",
+"voice": "m"
+},
+"audio/s1101.mp3": {
+"text": "Laat het een half uur koken.",
+"voice": "f"
+},
+"audio/w-gezouten.mp3": {
+"text": "gezouten",
+"voice": "w"
+},
+"audio/s1102.mp3": {
+"text": "Kook de rijst in gezouten water.",
+"voice": "m"
+},
+"audio/w-zout.mp3": {
+"text": "zout",
+"voice": "w"
+},
+"audio/w-peper.mp3": {
+"text": "peper",
+"voice": "w"
+},
+"audio/s1103.mp3": {
+"text": "Doe er een beetje zout en peper bij.",
+"voice": "f"
+},
+"audio/s1104.mp3": {
+"text": "Het eten is bijna klaar.",
+"voice": "m"
+},
+"audio/w-proef.mp3": {
+"text": "Proef",
+"voice": "w"
+},
+"audio/w-eens.mp3": {
+"text": "eens",
+"voice": "w"
+},
+"audio/s1105.mp3": {
+"text": "Proef eens.",
+"voice": "f"
+},
+"audio/s1106.mp3": {
+"text": "Het is een beetje te zout.",
+"voice": "m"
+},
+"audio/s1107.mp3": {
+"text": "Waar vind ik de melk?",
+"voice": "f"
+},
+"audio/w-koeling.mp3": {
+"text": "koeling",
+"voice": "w"
+},
+"audio/s1108.mp3": {
+"text": "Die staat in de koeling.",
+"voice": "m"
+},
+"audio/w-aanbieding.mp3": {
+"text": "aanbieding",
+"voice": "w"
+},
+"audio/s1109.mp3": {
+"text": "Kaas is deze week in de aanbieding.",
+"voice": "f"
+},
+"audio/w-halen.mp3": {
+"text": "halen",
+"voice": "w"
+},
+"audio/s1110.mp3": {
+"text": "Twee halen, één betalen.",
+"voice": "m"
+},
+"audio/w-vers.mp3": {
+"text": "vers",
+"voice": "w"
+},
+"audio/s1111.mp3": {
+"text": "Is dit brood vers?",
+"voice": "f"
+},
+"audio/s1112.mp3": {
+"text": "Ik heb een tas nodig.",
+"voice": "m"
+},
+"audio/w-kassa.mp3": {
+"text": "kassa",
+"voice": "w"
+},
+"audio/s1113.mp3": {
+"text": "De kassa is daar.",
+"voice": "f"
+},
+"audio/w-zelfscan.mp3": {
+"text": "zelfscan",
+"voice": "w"
+},
+"audio/s1114.mp3": {
+"text": "Ik betaal bij de zelfscan.",
+"voice": "m"
+},
+"audio/w-kilo.mp3": {
+"text": "kilo",
+"voice": "w"
+},
+"audio/s1115.mp3": {
+"text": "Hoeveel kost een kilo tomaten?",
+"voice": "f"
+},
+"audio/w-houdbaarheidsdatum.mp3": {
+"text": "houdbaarheidsdatum",
+"voice": "w"
+},
+"audio/w-verlopen.mp3": {
+"text": "verlopen",
+"voice": "w"
+},
+"audio/s1116.mp3": {
+"text": "De houdbaarheidsdatum is verlopen.",
+"voice": "m"
+},
+"audio/w-solliciteer.mp3": {
+"text": "solliciteer",
+"voice": "w"
+},
+"audio/s1117.mp3": {
+"text": "Ik solliciteer naar deze baan.",
+"voice": "f"
+},
+"audio/w-uzelf.mp3": {
+"text": "uzelf",
+"voice": "w"
+},
+"audio/w-vertellen.mp3": {
+"text": "vertellen",
+"voice": "w"
+},
+"audio/s1118.mp3": {
+"text": "Kunt u iets over uzelf vertellen?",
+"voice": "m"
+},
+"audio/w-ervaring.mp3": {
+"text": "ervaring",
+"voice": "w"
+},
+"audio/s1119.mp3": {
+"text": "Ik heb vijf jaar ervaring.",
+"voice": "f"
+},
+"audio/w-ingenieur.mp3": {
+"text": "ingenieur",
+"voice": "w"
+},
+"audio/s1120.mp3": {
+"text": "Ik heb in Iran als ingenieur gewerkt.",
+"voice": "m"
+},
+"audio/s1121.mp3": {
+"text": "Waarom wilt u hier werken?",
+"voice": "f"
+},
+"audio/w-team.mp3": {
+"text": "team",
+"voice": "w"
+},
+"audio/s1122.mp3": {
+"text": "Ik werk graag in een team.",
+"voice": "m"
+},
+"audio/w-sterke.mp3": {
+"text": "sterke",
+"voice": "w"
+},
+"audio/w-punten.mp3": {
+"text": "punten",
+"voice": "w"
+},
+"audio/s1123.mp3": {
+"text": "Wat zijn uw sterke punten?",
+"voice": "f"
+},
+"audio/w-flexibel.mp3": {
+"text": "flexibel",
+"voice": "w"
+},
+"audio/s1124.mp3": {
+"text": "Ik ben flexibel en ik leer snel.",
+"voice": "m"
+},
+"audio/w-beginnen.mp3": {
+"text": "beginnen",
+"voice": "w"
+},
+"audio/s1125.mp3": {
+"text": "Wanneer kunt u beginnen?",
+"voice": "f"
+},
+"audio/w-meteen.mp3": {
+"text": "meteen",
+"voice": "w"
+},
+"audio/s1126.mp3": {
+"text": "Ik kan meteen beginnen.",
+"voice": "m"
+},
+"audio/w-weten.mp3": {
+"text": "weten",
+"voice": "w"
+},
+"audio/s1127.mp3": {
+"text": "Wij laten het u volgende week weten.",
+"voice": "f"
+},
+"audio/w-horen.mp3": {
+"text": "horen",
+"voice": "w"
+},
+"audio/s1128.mp3": {
+"text": "Ik hoop snel van u te horen.",
+"voice": "m"
+},
+"audio/w-hierbij.mp3": {
+"text": "Hierbij",
+"voice": "w"
+},
+"audio/w-cv.mp3": {
+"text": "cv",
+"voice": "w"
+},
+"audio/s1129.mp3": {
+"text": "Hierbij stuur ik u mijn cv.",
+"voice": "f"
+},
+"audio/s1130.mp3": {
+"text": "Ik schrijf u omdat ik een vraag heb.",
+"voice": "m"
+},
+"audio/w-cursus.mp3": {
+"text": "cursus",
+"voice": "w"
+},
+"audio/w-plek.mp3": {
+"text": "plek",
+"voice": "w"
+},
+"audio/s1131.mp3": {
+"text": "Ik wil graag weten of de cursus nog plek heeft.",
+"voice": "f"
+},
+"audio/s1132.mp3": {
+"text": "Kunt u mij laten weten wanneer de les begint?",
+"voice": "m"
+},
+"audio/w-bijlage.mp3": {
+"text": "bijlage",
+"voice": "w"
+},
+"audio/s1133.mp3": {
+"text": "In de bijlage vindt u het formulier.",
+"voice": "f"
+},
+"audio/s1134.mp3": {
+"text": "Ik kan helaas niet komen op maandag.",
+"voice": "m"
+},
+"audio/w-alvast.mp3": {
+"text": "Alvast",
+"voice": "w"
+},
+"audio/s1135.mp3": {
+"text": "Alvast bedankt voor uw antwoord.",
+"voice": "f"
+},
+"audio/s1136.mp3": {
+"text": "Ik kijk uit naar uw antwoord.",
+"voice": "m"
+},
+"audio/s1137.mp3": {
+"text": "Ik stuur je straks de foto's.",
+"voice": "f"
+},
+"audio/w-groetjes.mp3": {
+"text": "groetjes",
+"voice": "w"
+},
+"audio/s1138.mp3": {
+"text": "Tot snel en groetjes van Mina!",
+"voice": "m"
+},
+"audio/w-basisschool.mp3": {
+"text": "basisschool",
+"voice": "w"
+},
+"audio/s1139.mp3": {
+"text": "Mijn zoon gaat naar de basisschool.",
+"voice": "f"
+},
+"audio/s1140.mp3": {
+"text": "Ik breng de kinderen naar school.",
+"voice": "m"
+},
+"audio/s1141.mp3": {
+"text": "Om drie uur haal ik ze op.",
+"voice": "f"
+},
+"audio/w-ouderavond.mp3": {
+"text": "ouderavond",
+"voice": "w"
+},
+"audio/s1142.mp3": {
+"text": "Morgen is er een ouderavond.",
+"voice": "m"
+},
+"audio/w-rapport.mp3": {
+"text": "rapport",
+"voice": "w"
+},
+"audio/s1143.mp3": {
+"text": "Mijn dochter heeft een goed rapport.",
+"voice": "f"
+},
+"audio/w-spreekbeurt.mp3": {
+"text": "spreekbeurt",
+"voice": "w"
+},
+"audio/w-houden.mp3": {
+"text": "houden",
+"voice": "w"
+},
+"audio/s1144.mp3": {
+"text": "Hij moet een spreekbeurt houden.",
+"voice": "m"
+},
+"audio/s1145.mp3": {
+"text": "De kinderen hebben vandaag vrij.",
+"voice": "f"
+},
+"audio/w-pauze.mp3": {
+"text": "pauze",
+"voice": "w"
+},
+"audio/w-vriendjes.mp3": {
+"text": "vriendjes",
+"voice": "w"
+},
+"audio/s1146.mp3": {
+"text": "Ze speelt in de pauze met haar vriendjes.",
+"voice": "m"
+},
+"audio/s1147.mp3": {
+"text": "Mijn kind is ziek. Hij komt vandaag niet.",
+"voice": "f"
+},
+"audio/s1148.mp3": {
+"text": "Hoe gaat het met hem in de klas?",
+"voice": "m"
+},
+"audio/w-koningsdag.mp3": {
+"text": "Koningsdag",
+"voice": "w"
+},
+"audio/w-dragen.mp3": {
+"text": "dragen",
+"voice": "w"
+},
+"audio/w-mensen.mp3": {
+"text": "mensen",
+"voice": "w"
+},
+"audio/w-oranje.mp3": {
+"text": "oranje",
+"voice": "w"
+},
+"audio/s1149.mp3": {
+"text": "Op Koningsdag dragen veel mensen oranje.",
+"voice": "f"
+},
+"audio/w-overal.mp3": {
+"text": "overal",
+"voice": "w"
+},
+"audio/w-vrijmarkt.mp3": {
+"text": "vrijmarkt",
+"voice": "w"
+},
+"audio/s1150.mp3": {
+"text": "Er is overal een vrijmarkt.",
+"voice": "m"
+},
+"audio/w-vieren.mp3": {
+"text": "vieren",
+"voice": "w"
+},
+"audio/w-sinterklaas.mp3": {
+"text": "Sinterklaas",
+"voice": "w"
+},
+"audio/s1151.mp3": {
+"text": "Op vijf december vieren we Sinterklaas.",
+"voice": "f"
+},
+"audio/w-zetten.mp3": {
+"text": "zetten",
+"voice": "w"
+},
+"audio/w-schoen.mp3": {
+"text": "schoen",
+"voice": "w"
+},
+"audio/s1152.mp3": {
+"text": "De kinderen zetten hun schoen.",
+"voice": "m"
+},
+"audio/w-kerst.mp3": {
+"text": "kerst",
+"voice": "w"
+},
+"audio/s1153.mp3": {
+"text": "Met kerst eten we samen.",
+"voice": "f"
+},
+"audio/w-oudejaarsavond.mp3": {
+"text": "oudejaarsavond",
+"voice": "w"
+},
+"audio/w-steken.mp3": {
+"text": "steken",
+"voice": "w"
+},
+"audio/w-vuurwerk.mp3": {
+"text": "vuurwerk",
+"voice": "w"
+},
+"audio/s1154.mp3": {
+"text": "Op oudejaarsavond steken we vuurwerk af.",
+"voice": "m"
+},
+"audio/w-oliebollen.mp3": {
+"text": "oliebollen",
+"voice": "w"
+},
+"audio/s1155.mp3": {
+"text": "We eten oliebollen.",
+"voice": "f"
+},
+"audio/s1156.mp3": {
+"text": "Op vier mei zijn we twee minuten stil.",
+"voice": "m"
+},
+"audio/w-vrijheid.mp3": {
+"text": "vrijheid",
+"voice": "w"
+},
+"audio/s1157.mp3": {
+"text": "Op vijf mei vieren we de vrijheid.",
+"voice": "f"
+},
+"audio/w-feestdagen.mp3": {
+"text": "feestdagen",
+"voice": "w"
+},
+"audio/s1158.mp3": {
+"text": "Fijne feestdagen!",
+"voice": "m"
+},
+"audio/w-nieuwjaar.mp3": {
+"text": "nieuwjaar",
+"voice": "w"
+},
+"audio/s1159.mp3": {
+"text": "Gelukkig nieuwjaar!",
+"voice": "f"
+},
+"audio/w-klacht.mp3": {
+"text": "klacht",
+"voice": "w"
+},
+"audio/w-indienen.mp3": {
+"text": "indienen",
+"voice": "w"
+},
+"audio/s1160.mp3": {
+"text": "Ik wil een klacht indienen.",
+"voice": "m"
+},
+"audio/s1161.mp3": {
+"text": "Dit werkt niet goed.",
+"voice": "f"
+},
+"audio/s1162.mp3": {
+"text": "Ik heb het gisteren gekocht.",
+"voice": "m"
+},
+"audio/w-terugkrijgen.mp3": {
+"text": "terugkrijgen",
+"voice": "w"
+},
+"audio/s1163.mp3": {
+"text": "Kan ik mijn geld terugkrijgen?",
+"voice": "f"
+},
+"audio/w-ruilen.mp3": {
+"text": "ruilen",
+"voice": "w"
+},
+"audio/s1164.mp3": {
+"text": "Ik wil het ruilen.",
+"voice": "m"
+},
+"audio/w-kassabon.mp3": {
+"text": "kassabon",
+"voice": "w"
+},
+"audio/s1165.mp3": {
+"text": "Heeft u de kassabon nog?",
+"voice": "f"
+},
+"audio/w-manager.mp3": {
+"text": "manager",
+"voice": "w"
+},
+"audio/s1166.mp3": {
+"text": "Ik wil de manager spreken.",
+"voice": "m"
+},
+"audio/w-schuld.mp3": {
+"text": "schuld",
+"voice": "w"
+},
+"audio/s1167.mp3": {
+"text": "Dat is niet mijn schuld.",
+"voice": "f"
+},
+"audio/w-politie.mp3": {
+"text": "politie",
+"voice": "w"
+},
+"audio/s1168.mp3": {
+"text": "Help! Bel de politie!",
+"voice": "m"
+},
+"audio/w-gestolen.mp3": {
+"text": "gestolen",
+"voice": "w"
+},
+"audio/s1169.mp3": {
+"text": "Mijn fiets is gestolen.",
+"voice": "f"
+},
+"audio/w-aangifte.mp3": {
+"text": "aangifte",
+"voice": "w"
+},
+"audio/s1170.mp3": {
+"text": "Ik wil aangifte doen.",
+"voice": "m"
+},
+"audio/w-bos.mp3": {
+"text": "bos",
+"voice": "w"
+},
+"audio/s1171.mp3": {
+"text": "We gaan wandelen in het bos.",
+"voice": "f"
+},
+"audio/s1172.mp3": {
+"text": "Nederland heeft veel water.",
+"voice": "m"
+},
+"audio/w-scheid.mp3": {
+"text": "scheid",
+"voice": "w"
+},
+"audio/s1173.mp3": {
+"text": "Ik scheid mijn afval.",
+"voice": "f"
+},
+"audio/w-plastic.mp3": {
+"text": "Plastic",
+"voice": "w"
+},
+"audio/w-container.mp3": {
+"text": "container",
+"voice": "w"
+},
+"audio/s1174.mp3": {
+"text": "Plastic gaat in de oranje container.",
+"voice": "m"
+},
+"audio/w-glasbak.mp3": {
+"text": "glasbak",
+"voice": "w"
+},
+"audio/s1175.mp3": {
+"text": "Glas breng ik naar de glasbak.",
+"voice": "f"
+},
+"audio/s1176.mp3": {
+"text": "Ik probeer minder plastic te gebruiken.",
+"voice": "m"
+},
+"audio/w-milieu.mp3": {
+"text": "milieu",
+"voice": "w"
+},
+"audio/s1177.mp3": {
+"text": "Fietsen is beter voor het milieu.",
+"voice": "f"
+},
+"audio/w-weggaat.mp3": {
+"text": "weggaat",
+"voice": "w"
+},
+"audio/s1178.mp3": {
+"text": "Doe het licht uit als je weggaat.",
+"voice": "m"
+},
+"audio/w-koeien.mp3": {
+"text": "koeien",
+"voice": "w"
+},
+"audio/w-wei.mp3": {
+"text": "wei",
+"voice": "w"
+},
+"audio/s1179.mp3": {
+"text": "Er zijn veel koeien in de wei.",
+"voice": "f"
+},
+"audio/w-vlakbij.mp3": {
+"text": "vlakbij",
+"voice": "w"
+},
+"audio/s1180.mp3": {
+"text": "De zee is vlakbij.",
+"voice": "m"
+},
+"audio/w-zuinig.mp3": {
+"text": "zuinig",
+"voice": "w"
+},
+"audio/w-energie.mp3": {
+"text": "energie",
+"voice": "w"
+},
+"audio/s1181.mp3": {
+"text": "We moeten zuinig zijn met energie.",
+"voice": "f"
+},
+"audio/w-leeg.mp3": {
+"text": "leeg",
+"voice": "w"
+},
+"audio/s1182.mp3": {
+"text": "Mijn telefoon is leeg.",
+"voice": "m"
+},
+"audio/w-opladen.mp3": {
+"text": "opladen",
+"voice": "w"
+},
+"audio/s1183.mp3": {
+"text": "Mag ik mijn telefoon hier opladen?",
+"voice": "f"
+},
+"audio/w-wachtwoord.mp3": {
+"text": "wachtwoord",
+"voice": "w"
+},
+"audio/s1184.mp3": {
+"text": "Wat is het wachtwoord van de wifi?",
+"voice": "m"
+},
+"audio/w-appje.mp3": {
+"text": "appje",
+"voice": "w"
+},
+"audio/s1185.mp3": {
+"text": "Ik stuur je een appje.",
+"voice": "f"
+},
+"audio/w-gedownload.mp3": {
+"text": "gedownload",
+"voice": "w"
+},
+"audio/s1186.mp3": {
+"text": "Ik heb een nieuwe app gedownload.",
+"voice": "m"
+},
+"audio/w-internet.mp3": {
+"text": "internet",
+"voice": "w"
+},
+"audio/w-traag.mp3": {
+"text": "traag",
+"voice": "w"
+},
+"audio/s1187.mp3": {
+"text": "Het internet is traag.",
+"voice": "f"
+},
+"audio/w-bereik.mp3": {
+"text": "bereik",
+"voice": "w"
+},
+"audio/s1188.mp3": {
+"text": "Ik heb geen bereik.",
+"voice": "m"
+},
+"audio/w-foto.mp3": {
+"text": "foto",
+"voice": "w"
+},
+"audio/w-doorsturen.mp3": {
+"text": "doorsturen",
+"voice": "w"
+},
+"audio/s1189.mp3": {
+"text": "Kun je de foto doorsturen?",
+"voice": "f"
+},
+"audio/s1190.mp3": {
+"text": "Ik zoek het even op.",
+"voice": "m"
+},
+"audio/w-inloggen.mp3": {
+"text": "inloggen",
+"voice": "w"
+},
+"audio/s1191.mp3": {
+"text": "Je moet eerst inloggen.",
+"voice": "f"
+},
+"audio/w-scherm.mp3": {
+"text": "scherm",
+"voice": "w"
+},
+"audio/w-gebroken.mp3": {
+"text": "gebroken",
+"voice": "w"
+},
+"audio/s1192.mp3": {
+"text": "Mijn scherm is gebroken.",
+"voice": "m"
+},
+"audio/s1193.mp3": {
+"text": "Drie jaar geleden ben ik naar Nederland gekomen.",
+"voice": "f"
+},
+"audio/s1194.mp3": {
+"text": "In het begin was alles moeilijk.",
+"voice": "m"
+},
+"audio/w-kende.mp3": {
+"text": "kende",
+"voice": "w"
+},
+"audio/w-niemand.mp3": {
+"text": "niemand",
+"voice": "w"
+},
+"audio/s1195.mp3": {
+"text": "Ik sprak geen Nederlands en ik kende niemand.",
+"voice": "f"
+},
+"audio/s1196.mp3": {
+"text": "Toen ben ik naar taalles gegaan.",
+"voice": "m"
+},
+"audio/s1197.mp3": {
+"text": "Ik heb elke dag nieuwe woorden geleerd.",
+"voice": "f"
+},
+"audio/w-geholpen.mp3": {
+"text": "geholpen",
+"voice": "w"
+},
+"audio/s1198.mp3": {
+"text": "Mijn buren hebben me veel geholpen.",
+"voice": "m"
+},
+"audio/s1199.mp3": {
+"text": "Nu werk ik in een apotheek.",
+"voice": "f"
+},
+"audio/w-leuker.mp3": {
+"text": "leuker",
+"voice": "w"
+},
+"audio/s1200.mp3": {
+"text": "Ik vind mijn werk leuker dan vroeger.",
+"voice": "m"
 }
 }

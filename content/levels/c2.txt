@@ -1,0 +1,651 @@
+# Sentra NL · C2 — original sentences (Dutch | Persian)
+## زبان ادبی و توصیف
+De mist hing als een grijze deken over de polder. | مه مثل پتویی خاکستری روی پولدر افتاده بود.
+Haar lach galmde door de verlaten gang. | صدای خنده‌اش در راهروی متروک پیچید.
+In de verte flonkerden de lichtjes van het dorp. | از دور چراغ‌های روستا سوسو می‌زدند.
+Het huis ademde de geur van vroeger. | خانه بوی روزگاران گذشته را می‌داد.
+Hij staarde zwijgend naar de wolken die voorbijdreven. | او خاموش به ابرهایی که می‌گذشتند خیره شده بود.
+De stilte na de storm was bijna tastbaar. | سکوت بعد از طوفان تقریباً لمس‌شدنی بود.
+Haar woorden bleven nog lang in mijn hoofd naklinken. | حرف‌هایش تا مدت‌ها در ذهنم طنین‌انداز بود.
+Het water kabbelde zachtjes tegen de kade. | آب آرام به اسکله می‌خورد و شلپ‌شلپ می‌کرد.
+De zon wierp lange schaduwen over het veld. | خورشید سایه‌های بلندی روی دشت انداخته بود.
+Zijn gezicht verraadde niets van wat hij voelde. | چهره‌اش هیچ نشانی از آنچه حس می‌کرد بروز نمی‌داد.
+Een vage onrust maakte zich van haar meester. | نگرانی مبهمی بر او چیره شد.
+De oude man sleepte zich moeizaam voort. | پیرمرد به‌زحمت خودش را جلو می‌کشید.
+Het rook naar natte aarde en versgezette koffie. | بوی خاک خیس و قهوهٔ تازه‌دم می‌آمد.
+De klok tikte onverbiddelijk door. | ساعت بی‌امان تیک‌تاک می‌کرد.
+Ze verdween geruisloos in de menigte. | او بی‌صدا در میان جمعیت ناپدید شد.
+Het landschap strekte zich eindeloos voor ons uit. | چشم‌انداز تا بی‌نهایت پیش رویمان گسترده بود.
+Een koude windvlaag joeg de bladeren over het plein. | تندبادی سرد برگ‌ها را در میدان به این سو و آن سو راند.
+Zijn stem trilde nauwelijks merkbaar. | صدایش به‌طور نامحسوسی می‌لرزید.
+De stad ontwaakte langzaam uit haar slaap. | شهر آرام‌آرام از خواب بیدار می‌شد.
+Herinneringen kwamen ongevraagd bovendrijven. | خاطرات ناخواسته به سطح ذهنم می‌آمدند.
+Het gesprek kabbelde voort zonder richting. | گفت‌وگو بی‌هدف ادامه داشت.
+Achter de gordijnen brandde nog licht. | پشت پرده‌ها هنوز چراغ روشن بود.
+De tijd leek even stil te staan. | انگار زمان برای لحظه‌ای ایستاده بود.
+Ze sprak met een stem als fluweel. | با صدایی مثل مخمل حرف می‌زد.
+Het verhaal liet een bitterzoete nasmaak achter. | داستان طعمی تلخ‌وشیرین بر جا گذاشت.
+## ضرب‌المثل‌ها (۱)
+Beter een goede buur dan een verre vriend. | همسایهٔ خوب بهتر از دوست دور است.
+Oost west, thuis best. | هیچ جا خانهٔ خود آدم نمی‌شود.
+De appel valt niet ver van de boom. | سیب دور از درخت نمی‌افتد؛ بچه به پدر و مادرش می‌رود.
+Wie het laatst lacht, lacht het best. | کسی که آخر بخندد، بهتر می‌خندد.
+Al draagt een aap een gouden ring, het is en blijft een lelijk ding. | میمون اگر انگشتر طلا هم دستش کند، باز همان است که بود.
+Haastige spoed is zelden goed. | عجله کار شیطان است.
+Wie zijn billen brandt, moet op de blaren zitten. | هر که خربزه می‌خورد، پای لرزش هم می‌نشیند.
+Spreken is zilver, zwijgen is goud. | سخن نقره است، سکوت طلاست.
+Een ongeluk komt zelden alleen. | بدبختی تنها نمی‌آید.
+Het kind met het badwater weggooien. | بچه را همراه آب حمام دور ریختن. (خوب را با بد یک‌جا کنار گذاشتن)
+Zoals de waard is, vertrouwt hij zijn gasten. | کافر همه را به کیش خود پندارد.
+Gedeelde smart is halve smart. | غم مشترک نصف می‌شود.
+Wie goed doet, goed ontmoet. | از هر دست بدهی، از همان دست می‌گیری.
+Het is een storm in een glas water. | طوفان در فنجان چای است. (جنجال بی‌اهمیت)
+Geen rook zonder vuur. | تا نباشد چیزکی، مردم نگویند چیزها.
+Achter de wolken schijnt de zon. | پشت ابرها خورشید می‌درخشد.
+Oude liefde roest niet. | عشق قدیمی زنگ نمی‌زند.
+Hoge bomen vangen veel wind. | هر که بامش بیش، برفش بیشتر.
+Wie niet horen wil, moet voelen. | کسی که حرف گوش نکند، باید تاوانش را بچشد.
+Het zijn de kleine dingen die het doen. | چیزهای کوچک‌اند که کار را می‌سازند.
+Na regen komt zonneschijn. | بعد از باران آفتاب می‌آید.
+Een gewaarschuwd mens telt voor twee. | آدمِ هشداریافته حواسش جمع است. (جنگ اول به از صلح آخر)
+Je moet roeien met de riemen die je hebt. | باید با همین امکاناتی که داری کنار بیایی.
+Beter ten halve gekeerd dan ten hele gedwaald. | جلوی ضرر را از هر جا بگیری منفعت است.
+Elk nadeel heeft zijn voordeel. | هر بدی یک خوبی هم دارد.
+## زبان اداری و حقوقی پیچیده
+Onverminderd het bepaalde in artikel drie is deze regeling van toepassing. | با رعایت کامل مفاد مادهٔ سه، این مقررات قابل اجراست.
+Aan deze informatie kunnen geen rechten worden ontleend. | از این اطلاعات هیچ حقی قابل استناد نیست.
+De aanvrager dient zorg te dragen voor tijdige betaling. | متقاضی باید پرداخت به‌موقع را تضمین کند.
+Bij gebreke van betaling wordt de vordering uit handen gegeven. | در صورت عدم پرداخت، مطالبه به شرکت وصول سپرده می‌شود.
+Het bezwaarschrift dient binnen de gestelde termijn te worden ingediend. | اعتراض‌نامه باید در مهلت مقرر ارائه شود.
+Deze beschikking treedt in werking op de dag na bekendmaking. | این حکم از روز پس از اعلام لازم‌الاجرا می‌شود.
+Partijen komen overeen het geschil in der minne te schikken. | طرفین توافق می‌کنند اختلاف را به‌صورت دوستانه حل کنند.
+De werkgever is gehouden het loon door te betalen. | کارفرما موظف است پرداخت حقوق را ادامه دهد.
+Ingevolge de wet heeft u recht op een vergoeding. | به موجب قانون حق دریافت غرامت دارید.
+Het besluit is genomen met inachtneming van alle belangen. | این تصمیم با در نظر گرفتن همهٔ منافع گرفته شده است.
+Wij achten uw bezwaar ongegrond. | اعتراض شما را بی‌اساس می‌دانیم.
+De gegevens worden vertrouwelijk behandeld conform de privacywet. | داده‌ها مطابق قانون حریم خصوصی محرمانه نگهداری می‌شوند.
+Dit voorbehoud geldt onverkort. | این قید بدون هیچ استثنایی معتبر است.
+Het verzoek wordt aangehouden in afwachting van nadere informatie. | درخواست تا دریافت اطلاعات بیشتر معلق می‌ماند.
+U wordt geacht van de voorwaarden op de hoogte te zijn. | فرض بر این است که شما از شرایط آگاه هستید.
+De overeenkomst wordt stilzwijgend verlengd. | قرارداد به‌طور خودکار تمدید می‌شود.
+Eventuele geschillen worden voorgelegd aan de bevoegde rechter. | اختلافات احتمالی به دادگاه صالح ارجاع می‌شوند.
+Hierbij verleen ik toestemming voor de verwerking van mijn gegevens. | بدین‌وسیله اجازهٔ پردازش داده‌هایم را می‌دهم.
+De termijn kan eenmalig met zes weken worden verlengd. | این مهلت یک بار به مدت شش هفته قابل تمدید است.
+Het niet naleven van deze verplichting kan leiden tot een boete. | عدم رعایت این تکلیف می‌تواند به جریمه منجر شود.
+De gemeente is niet aansprakelijk voor schade aan eigendommen. | شهرداری مسئول خسارت به اموال نیست.
+Ter voorkoming van misverstanden bevestig ik onze afspraak schriftelijk. | برای جلوگیری از سوءتفاهم، توافقمان را کتباً تأیید می‌کنم.
+De uitkering wordt met terugwerkende kracht toegekend. | مستمری با اثر عطف به ماسبق اعطا می‌شود.
+Dit document is uitsluitend bestemd voor de geadresseerde. | این سند منحصراً برای گیرنده در نظر گرفته شده است.
+Aldus overeengekomen en in tweevoud ondertekend. | بدین ترتیب توافق و در دو نسخه امضا شد.
+## فلسفه و اخلاق
+Is vrijheid zonder verantwoordelijkheid wel mogelijk? | آیا آزادی بدون مسئولیت اصلاً ممکن است؟
+Het doel heiligt niet altijd de middelen. | هدف همیشه وسیله را توجیه نمی‌کند.
+Wat we voor normaal houden, is vaak cultureel bepaald. | آنچه طبیعی می‌پنداریم، اغلب فرهنگی تعیین شده است.
+Twijfel is het begin van wijsheid. | شک آغاز خردمندی است.
+Ethiek gaat over de vraag hoe we moeten leven. | اخلاق دربارهٔ این پرسش است که چگونه باید زندگی کنیم.
+Kunnen machines ooit werkelijk denken? | آیا ماشین‌ها هرگز می‌توانند واقعاً فکر کنند؟
+Elke keuze sluit andere mogelijkheden uit. | هر انتخابی امکان‌های دیگر را کنار می‌گذارد.
+Het is makkelijker om te oordelen dan om te begrijpen. | قضاوت کردن آسان‌تر از فهمیدن است.
+Waarheid is soms ongemakkelijk. | حقیقت گاهی ناخوشایند است.
+De mens is volgens hem in wezen goed. | به نظر او انسان ذاتاً خوب است.
+Geluk is geen bestemming, maar een manier van reizen. | خوشبختی مقصد نیست، بلکه شیوه‌ای از سفر کردن است.
+Wie bepaalt wat rechtvaardig is? | چه کسی تعیین می‌کند چه چیزی عادلانه است؟
+Tolerantie heeft ook haar grenzen. | مدارا هم حد و مرزی دارد.
+Zonder empathie is moraal een lege huls. | بدون همدلی، اخلاق پوسته‌ای توخالی است.
+Het verleden kunnen we niet veranderen, de toekomst wel. | گذشته را نمی‌توانیم تغییر دهیم، اما آینده را چرا.
+Ons bewustzijn blijft een van de grootste raadsels. | آگاهی ما همچنان یکی از بزرگ‌ترین معماهاست.
+Moeten we altijd de waarheid spreken, ook als die pijn doet? | آیا همیشه باید حقیقت را بگوییم، حتی وقتی دردناک است؟
+Verantwoordelijkheid nemen begint bij jezelf. | مسئولیت‌پذیری از خود آدم شروع می‌شود.
+Een leven zonder zingeving voelt leeg. | زندگی بدون معنا تهی به نظر می‌رسد.
+De grens tussen goed en kwaad is niet altijd scherp. | مرز میان خوب و بد همیشه روشن نیست.
+Kennis zonder geweten is gevaarlijk. | دانش بدون وجدان خطرناک است.
+Hij leeft volgens het principe van de gulden middenweg. | او بر اساس اصل اعتدال (حد وسط طلایی) زندگی می‌کند.
+Niets is zo veranderlijk als de publieke opinie. | هیچ چیز به اندازهٔ افکار عمومی متغیر نیست.
+Vrije wil is volgens sommigen een illusie. | به نظر برخی، اختیار یک توهم است.
+De vraag is belangrijker dan het antwoord. | پرسش مهم‌تر از پاسخ است.
+## روان‌شناسی و رفتار انسان
+Mensen zoeken onbewust bevestiging van wat ze al denken. | آدم‌ها ناخودآگاه دنبال تأیید چیزی هستند که از قبل فکر می‌کنند.
+Uitstelgedrag heeft vaak te maken met faalangst. | اهمال‌کاری اغلب با ترس از شکست ارتباط دارد.
+We overschatten wat we in een dag kunnen doen. | ما کاری را که در یک روز می‌توانیم انجام دهیم بیش از حد برآورد می‌کنیم.
+Gewoontes zijn hardnekkiger dan goede voornemens. | عادت‌ها از تصمیم‌های خوب سرسخت‌ترند.
+Groepsdruk kan ons gedrag sterk beïnvloeden. | فشار گروه می‌تواند به‌شدت بر رفتار ما اثر بگذارد.
+Zij heeft de neiging alles te willen controleren. | او تمایل دارد همه‌چیز را کنترل کند.
+Een compliment doet meer dan je denkt. | یک تعریف بیشتر از آنچه فکر می‌کنی اثر دارد.
+Stress op korte termijn kan juist motiveren. | استرس کوتاه‌مدت می‌تواند برعکس انگیزه‌بخش باشد.
+Hij projecteert zijn eigen onzekerheid op anderen. | او ناامنی خودش را به دیگران فرافکنی می‌کند.
+Herinneringen zijn minder betrouwbaar dan we denken. | خاطرات کمتر از آنچه فکر می‌کنیم قابل اعتمادند.
+Wie zich gehoord voelt, staat meer open voor kritiek. | کسی که احساس کند شنیده می‌شود، پذیرای انتقاد بیشتری است.
+Kinderen leren vooral door na te doen. | بچه‌ها بیشتر با تقلید یاد می‌گیرند.
+Eenzaamheid is schadelijker voor de gezondheid dan roken. | تنهایی برای سلامتی از سیگار کشیدن هم مضرتر است.
+We nemen beslissingen vaker op gevoel dan op verstand. | بیشتر از روی احساس تصمیم می‌گیریم تا عقل.
+Zelfvertrouwen groeit door kleine successen. | اعتمادبه‌نفس با موفقیت‌های کوچک رشد می‌کند.
+Ze rationaliseert haar keuzes achteraf. | او بعد از انتخاب‌هایش برایشان دلیل‌تراشی می‌کند.
+Onzekerheid is voor veel mensen moeilijker dan slecht nieuws. | تحمل بلاتکلیفی برای خیلی‌ها از خبر بد سخت‌تر است.
+Het brein houdt van patronen en voorspelbaarheid. | مغز الگو و پیش‌بینی‌پذیری را دوست دارد.
+Wie dankbaar is, voelt zich doorgaans gelukkiger. | کسی که سپاسگزار است، معمولاً احساس خوشبختی بیشتری می‌کند.
+Boosheid is vaak een masker voor verdriet. | خشم اغلب نقابی برای اندوه است.
+Hij kan slecht omgaan met afwijzing. | او با طرد شدن به‌سختی کنار می‌آید.
+Een goede luisteraar onderbreekt niet. | شنوندهٔ خوب حرف را قطع نمی‌کند.
+We oordelen binnen enkele seconden over een ander. | ظرف چند ثانیه دربارهٔ دیگری قضاوت می‌کنیم.
+Verandering roept bijna altijd weerstand op. | تغییر تقریباً همیشه مقاومت برمی‌انگیزد.
+Niemand is immuun voor vooroordelen. | هیچ‌کس در برابر پیش‌داوری مصون نیست.
+## نقد و بررسی کتاب و فیلم
+De roman overtuigt door zijn gelaagde structuur. | این رمان با ساختار چندلایه‌اش قانع‌کننده است.
+Helaas blijven de personages ietwat eendimensionaal. | متأسفانه شخصیت‌ها تا حدی تک‌بعدی می‌مانند.
+De plot is vernuftig, maar de afloop laat te wensen over. | پیرنگ هوشمندانه است، اما پایانش رضایت‌بخش نیست.
+De vertaling doet het origineel geen recht. | ترجمه حق متن اصلی را ادا نمی‌کند.
+De regisseur schuwt het sentiment niet. | کارگردان از احساسات‌گرایی پرهیز نمی‌کند.
+Het camerawerk is adembenemend. | فیلم‌برداری نفس‌گیر است.
+De dialogen klinken soms gekunsteld. | دیالوگ‌ها گاهی تصنعی به نظر می‌رسند.
+Het boek leest als een trein. | کتاب یک‌نفس خوانده می‌شود.
+Halverwege verliest het verhaal aan vaart. | داستان از نیمه به بعد ریتمش را از دست می‌دهد.
+De hoofdrolspeelster zet een overtuigende vertolking neer. | بازیگر نقش اول بازی قانع‌کننده‌ای ارائه می‌دهد.
+De auteur weet de lezer moeiteloos mee te slepen. | نویسنده بی‌زحمت خواننده را با خود همراه می‌کند.
+Er zitten te veel clichés in het scenario. | فیلم‌نامه پر از کلیشه است.
+Het einde is open en laat ruimte voor interpretatie. | پایان باز است و جا برای تفسیر می‌گذارد.
+De debuutroman verraadt een groot talent. | رمان نخست نشان از استعدادی بزرگ دارد.
+De film is een scherpe satire op de consumptiemaatschappij. | این فیلم هجویه‌ای تند دربارهٔ جامعهٔ مصرفی است.
+De muziek onderstreept de beklemmende sfeer. | موسیقی فضای خفقان‌آور را برجسته می‌کند.
+Ondanks de lovende kritieken kon het boek mij niet bekoren. | با وجود نقدهای ستایش‌آمیز، کتاب نتوانست مرا جذب کند.
+De schrijver balanceert knap tussen humor en tragiek. | نویسنده به‌خوبی میان طنز و تراژدی تعادل برقرار می‌کند.
+Het tempo ligt aanvankelijk wat laag. | ریتم در ابتدا کمی کند است.
+De documentaire stelt pijnlijke vragen. | این مستند پرسش‌های دردناکی مطرح می‌کند.
+Wat mij betreft is dit zijn beste werk tot nu toe. | به نظر من این بهترین اثر او تا به امروز است.
+De recensent kraakte de voorstelling volledig af. | منتقد نمایش را به‌کلی کوبید.
+Het boek is een aanrader voor iedereen die van taal houdt. | این کتاب برای هر کسی که زبان را دوست دارد توصیه می‌شود.
+De symboliek is er nogal dik bovenop gelegd. | نمادپردازی بیش از حد آشکار و اغراق‌آمیز است.
+Een meesterwerk dat de tand des tijds zal doorstaan. | شاهکاری که گذر زمان را تاب خواهد آورد.
+## اقتصاد کلان و ژئوپلیتیک
+De handelsoorlog tussen grootmachten raakt ook Europa. | جنگ تجاری میان قدرت‌های بزرگ اروپا را هم متأثر می‌کند.
+Geopolitieke spanningen drijven de energieprijzen op. | تنش‌های ژئوپلیتیک قیمت انرژی را بالا می‌برد.
+De afhankelijkheid van buitenlandse grondstoffen is een risico. | وابستگی به مواد خام خارجی یک خطر است.
+Sancties treffen niet alleen regeringen, maar ook burgers. | تحریم‌ها فقط دولت‌ها را هدف نمی‌گیرند، بلکه شهروندان را هم.
+De Rotterdamse haven is van strategisch belang. | بندر روتردام اهمیت راهبردی دارد.
+Europa wil strategisch autonomer worden. | اروپا می‌خواهد از نظر راهبردی مستقل‌تر شود.
+Globalisering heeft winnaars en verliezers opgeleverd. | جهانی‌شدن برندگان و بازندگانی به وجود آورده است.
+De staatsschuld bereikte een recordhoogte. | بدهی دولت به رکورد بی‌سابقه‌ای رسید.
+Bezuinigingen treffen vaak de zwaksten. | ریاضت اقتصادی اغلب به ضعیف‌ترین‌ها ضربه می‌زند.
+De euro staat onder druk tegenover de dollar. | یورو در برابر دلار تحت فشار است.
+Productie wordt steeds vaker teruggehaald naar Europa. | تولید روزبه‌روز بیشتر به اروپا بازگردانده می‌شود.
+Diplomatieke betrekkingen werden tijdelijk opgeschort. | روابط دیپلماتیک به‌طور موقت تعلیق شد.
+Het conflict heeft een humanitaire crisis veroorzaakt. | این درگیری یک بحران انسانی به بار آورده است.
+De NAVO kondigde een grootschalige oefening aan. | ناتو یک رزمایش گسترده اعلام کرد.
+Ontwikkelingshulp is een politiek beladen onderwerp. | کمک‌های توسعه‌ای موضوعی پرحساسیت از نظر سیاسی است.
+De opkomende economieën winnen aan invloed. | اقتصادهای نوظهور نفوذ بیشتری پیدا می‌کنند.
+Speculatie op de vastgoedmarkt verergert de woningnood. | سفته‌بازی در بازار املاک کمبود مسکن را بدتر می‌کند.
+Het handelsverdrag moet nog door alle parlementen worden goedgekeurd. | پیمان تجاری هنوز باید به تصویب همهٔ پارلمان‌ها برسد.
+De vergrijzing zet het pensioenstelsel onder druk. | سالخوردگی جمعیت نظام بازنشستگی را تحت فشار قرار می‌دهد.
+Grote techbedrijven hebben meer macht dan sommige staten. | شرکت‌های بزرگ فناوری از برخی دولت‌ها قدرت بیشتری دارند.
+Een recessie lijkt vooralsnog afgewend. | فعلاً به نظر می‌رسد از رکود جلوگیری شده است.
+Belastingontwijking door multinationals blijft een heet hangijzer. | فرار مالیاتی شرکت‌های چندملیتی همچنان موضوعی داغ و بحث‌برانگیز است.
+De Europese Unie spreekt zelden met één stem. | اتحادیهٔ اروپا به‌ندرت یک‌صدا سخن می‌گوید.
+Voedselzekerheid wordt een steeds urgenter vraagstuk. | امنیت غذایی به مسئله‌ای روزبه‌روز فوری‌تر تبدیل می‌شود.
+De wereldorde is aan het verschuiven. | نظم جهانی در حال تغییر است.
+## گفتمان دانشگاهی
+Dit onderzoek beoogt een bijdrage te leveren aan het debat. | این پژوهش در پی آن است که به این بحث کمک کند.
+De resultaten dienen met de nodige voorzichtigheid te worden geïnterpreteerd. | نتایج باید با احتیاط لازم تفسیر شوند.
+Uit de literatuur blijkt dat het verband complex is. | از ادبیات پژوهش برمی‌آید که این رابطه پیچیده است.
+De steekproef is te klein om algemene uitspraken te doen. | نمونه کوچک‌تر از آن است که بتوان نتیجه‌گیری کلی کرد.
+Hierbij moet een kanttekening worden geplaatst. | در این‌جا باید یک قید انتقادی اضافه کرد.
+De onderzoeksvraag luidt als volgt. | پرسش پژوهش به شرح زیر است.
+Er is sprake van een significante samenhang. | همبستگی معناداری وجود دارد.
+Correlatie impliceert geen causaliteit. | همبستگی به معنای علیت نیست.
+In het vervolg van dit artikel ga ik nader in op de methode. | در ادامهٔ این مقاله به روش‌شناسی بیشتر می‌پردازم.
+De bevindingen sluiten aan bij eerder onderzoek. | یافته‌ها با پژوهش‌های پیشین همخوانی دارند.
+Vervolgonderzoek is noodzakelijk om dit te verklaren. | برای توضیح این موضوع پژوهش تکمیلی لازم است.
+De auteur hanteert een kwalitatieve benadering. | نویسنده رویکردی کیفی به کار می‌گیرد.
+Deze theorie is inmiddels grotendeels achterhaald. | این نظریه اکنون تا حد زیادی منسوخ شده است.
+Het begrip wordt in de literatuur verschillend gedefinieerd. | این مفهوم در ادبیات پژوهش به شکل‌های گوناگون تعریف می‌شود.
+De hypothese werd door de data niet bevestigd. | داده‌ها فرضیه را تأیید نکردند.
+Ter illustratie volgt hieronder een voorbeeld. | برای روشن شدن مطلب، در ادامه یک مثال می‌آید.
+Samenvattend kan worden gesteld dat de interventie effectief is. | به‌طور خلاصه می‌توان گفت که این مداخله مؤثر است.
+De respondenten werden willekeurig geselecteerd. | پاسخ‌دهندگان به‌صورت تصادفی انتخاب شدند.
+Een beperking van deze studie is de korte looptijd. | یکی از محدودیت‌های این پژوهش کوتاه بودن مدت آن است.
+De conclusies zijn niet zonder meer generaliseerbaar. | نتیجه‌گیری‌ها را نمی‌توان بی‌درنگ تعمیم داد.
+Het artikel werd door vakgenoten beoordeeld. | این مقاله توسط همتایان داوری شد.
+De promovenda verdedigde haar proefschrift met verve. | دانشجوی دکتری از رسالهٔ خود با شور و توانایی دفاع کرد.
+Deze aanname wordt zelden ter discussie gesteld. | این فرض به‌ندرت زیر سؤال برده می‌شود.
+De data zijn openbaar beschikbaar voor verdere analyse. | داده‌ها برای تحلیل بیشتر به‌صورت عمومی در دسترس‌اند.
+Wetenschap is per definitie voorlopig. | علم بنا به تعریف موقتی است.
+## طنز، کنایه و بازی با زبان
+Nou, dat is lekker, nu regent het ook nog. | به‌به، چه عالی، حالا باران هم می‌آید.
+Goh, wat een verrassing dat de trein weer te laat is. | وای، چه غافلگیری‌ای، قطار باز دیر کرده.
+Hij is zo slim als het achtereind van een varken. | او به اندازهٔ دم خوک باهوش است! (یعنی خیلی کودن)
+Ja hoor, en ik ben de koning van Spanje. | آره حتماً، من هم پادشاه اسپانیا هستم.
+Daar heb ik nou net zin in, een vergadering van drie uur. | دقیقاً همین را می‌خواستم، یک جلسهٔ سه‌ساعته!
+Hij heeft het buskruit niet uitgevonden. | او باروت را اختراع نکرده است. (یعنی چندان باهوش نیست)
+Fijn dat je ook even komt opdagen. | چه خوب که بالاخره تشریف آوردی.
+Mijn kat heeft meer sociale vaardigheden dan hij. | گربه‌ام از او مهارت اجتماعی بیشتری دارد.
+Typisch Hollands: eerst klagen en dan toch gaan fietsen in de regen. | کاملاً هلندی: اول غر زدن و بعد با این حال زیر باران دوچرخه‌سواری کردن.
+Het is niet alsof ik iets beters te doen heb. | نه اینکه کار بهتری داشته باشم!
+Dat was weer een staaltje Nederlandse directheid. | این هم یک نمونهٔ دیگر از رک‌گویی هلندی بود.
+Wat een heerlijk weertje, zeiden we met twintig knopen wind. | با باد بیست گره‌ای گفتیم: «چه هوای دل‌انگیزی!»
+Hij kookt zo goed dat zelfs de brandweer langskwam. | آن‌قدر خوب آشپزی می‌کند که حتی آتش‌نشانی هم سر زد!
+Zij gaat nooit naar bed voordat ze iedereen heeft gecorrigeerd. | او هیچ‌وقت نمی‌خوابد مگر اینکه حرف همه را تصحیح کرده باشد.
+Ik ben niet lui, ik spaar energie. | تنبل نیستم، دارم انرژی صرفه‌جویی می‌کنم.
+Koffie: de officiële brandstof van Nederlandse kantoren. | قهوه: سوخت رسمی اداره‌های هلندی.
+Volgens de app ben ik al drie keer verhuisd vandaag. | طبق این اپ من امروز سه بار اسباب‌کشی کرده‌ام!
+Een Nederlander zegt niet dat iets lekker is, maar dat het niet vies is. | هلندی نمی‌گوید چیزی خوشمزه است، می‌گوید بد نیست.
+Gezellig is het woord dat niemand kan vertalen. | «خِزِلِخ» همان کلمه‌ای است که هیچ‌کس نمی‌تواند ترجمه‌اش کند.
+Het is een kwestie van smaak, zei de aap, en hij beet in de zeep. | سلیقه‌ای است، میمون گفت و صابون را گاز زد.
+Zuinig zijn is hier een sport. | صرفه‌جویی این‌جا یک ورزش است.
+Hij kwam, zag en at alle koekjes op. | آمد، دید و همهٔ بیسکویت‌ها را خورد.
+Gelukkig maar dat de printer het weer eens niet doet. | چه خوب که چاپگر باز هم کار نمی‌کند!
+Nu we het toch over geld hebben: jij betaalt. | حالا که صحبت پول شد: تو حساب می‌کنی.
+Humor is de kortste afstand tussen twee mensen. | طنز کوتاه‌ترین فاصله میان دو انسان است.
+## ظرافت‌های زبان: toch، maar، even، wel، nou
+Kom maar binnen. | بفرما تو.
+Je komt toch ook? | تو هم می‌آیی دیگر، نه؟
+Wacht even, ik ben zo terug. | یک لحظه صبر کن، الان برمی‌گردم.
+Het is wel lekker, maar een beetje zout. | خوشمزه هست، ولی کمی شور است.
+Doe nou maar gewoon wat ik zeg. | فقط کاری را که می‌گویم بکن دیگر.
+Ik heb het toch gezegd! | دیدی گفتم!
+Dat is nou eenmaal zo. | خب این‌طوری است دیگر.
+Probeer het maar eens. | امتحانش کن ببین.
+Hij is er al wel, maar hij slaapt nog. | او آمده، ولی هنوز خواب است.
+Zeg het nou eens eerlijk. | حالا راستش را بگو.
+Ik zou het wel weten. | من که می‌دانم چه کار کنم.
+Het valt toch best mee. | آن‌قدرها هم بد نیست دیگر.
+Mag ik even iets vragen? | اجازه هست یک سؤال کوچک بپرسم؟
+Dat had je toch kunnen weten. | خب می‌توانستی بدانی دیگر.
+Ga maar vast, ik kom zo. | تو برو، من هم الان می‌آیم.
+Nou, vooruit dan maar. | خب، باشه، قبول.
+Hij heeft het wel gedaan, al was het met tegenzin. | انجامش داد، هرچند با بی‌میلی.
+Kijk eens wie we daar hebben! | ببین کی این‌جاست!
+Het is maar een idee. | فقط یک پیشنهاد است.
+Waarom ook niet? | چرا که نه؟
+Je moet het zelf maar weten. | خودت می‌دانی.
+Ik heb het nog zo gezegd. | من که این همه گفته بودم!
+Laat maar zitten. | ولش کن.
+Zou het echt waar zijn? | یعنی واقعاً راست است؟
+Het is toch niet te geloven! | آخر باورکردنی نیست!
+## ترتیب کلمات و ساختارهای پیچیده
+Of hij nu wil of niet, hij zal moeten meewerken. | چه بخواهد چه نخواهد، باید همکاری کند.
+Wat ik vooral niet begrijp, is waarom niemand iets heeft gezegd. | چیزی که به‌خصوص نمی‌فهمم این است که چرا هیچ‌کس چیزی نگفت.
+Nauwelijks was hij thuis, of de telefoon ging. | هنوز درست به خانه نرسیده بود که تلفن زنگ زد.
+Hoe meer ik erover nadenk, hoe minder ik het snap. | هرچه بیشتر درباره‌اش فکر می‌کنم، کمتر سر درمی‌آورم.
+Het is niet zozeer de prijs als wel de kwaliteit die telt. | آنچه اهمیت دارد نه چندان قیمت، بلکه کیفیت است.
+Pas toen ze weg was, besefte ik wat ik had verloren. | تازه وقتی رفت، فهمیدم چه چیزی را از دست داده‌ام.
+Hij beweert het te hebben gezien, maar ik geloof er niets van. | ادعا می‌کند آن را دیده، ولی من ذره‌ای باور نمی‌کنم.
+Dat hij zou winnen, had niemand verwacht. | اینکه او برنده شود را هیچ‌کس انتظار نداشت.
+Zelfs als je het me had gevraagd, had ik nee gezegd. | حتی اگر از من خواسته بودی، «نه» می‌گفتم.
+Wie het weet, mag het zeggen. | هر کس می‌داند، بگوید.
+Zij is de enige die ik zou durven vertrouwen. | او تنها کسی است که جرئت دارم به او اعتماد کنم.
+Het boek waarvan ik de titel vergeten ben, ligt nog bij jou. | کتابی که عنوانش را فراموش کرده‌ام هنوز پیش توست.
+Dit is iets waar ik al jaren over droom. | این چیزی است که سال‌ها رؤیایش را دارم.
+Hij heeft het laten liggen zonder dat iemand het merkte. | آن را جا گذاشت بی‌آنکه کسی متوجه شود.
+De man met wiens dochter ik studeerde, is overleden. | مردی که با دخترش درس می‌خواندم درگذشته است.
+Ik had het hem nooit zien doen als ik niet toevallig thuis was geweest. | اگر تصادفاً خانه نبودم، هرگز ندیده بودم که این کار را بکند.
+Zij beweerde dat ze er niets mee te maken had gehad. | ادعا کرد که هیچ ربطی به آن نداشته است.
+Er zijn er maar weinig die dat kunnen. | فقط عدهٔ کمی هستند که از پسش برمی‌آیند.
+Ik weet niet wat ik daarop zou moeten antwoorden. | نمی‌دانم در جواب چه باید بگویم.
+Niet dat ik het erg vind, maar het had anders gekund. | نه اینکه برایم مهم باشد، ولی می‌شد جور دیگری انجامش داد.
+Het moet gezegd worden dat ze uitstekend werk heeft geleverd. | باید گفت که او کار فوق‌العاده‌ای انجام داده است.
+Wat er ook gebeurt, ik sta achter je. | هر اتفاقی بیفتد، پشتت هستم.
+Zo mooi als het vroeger was, wordt het nooit meer. | دیگر هرگز به زیبایی گذشته نمی‌شود.
+Er werd door niemand meer over gesproken. | دیگر هیچ‌کس درباره‌اش صحبت نکرد.
+Hoe het ook zij, we moeten een keuze maken. | به هر حال، باید انتخابی بکنیم.
+## زبان رسانه و تیترها
+Kabinet onder vuur na lekken van vertrouwelijk rapport. | کابینه پس از درز گزارش محرمانه زیر آتش انتقاد است.
+Oppositie eist opheldering over omstreden deal. | اپوزیسیون خواستار توضیح دربارهٔ قرارداد جنجالی است.
+Woningnood bereikt nieuw dieptepunt. | کمبود مسکن به پایین‌ترین سطح تازه‌ای رسید.
+Brand in Rotterdamse haven onder controle. | آتش‌سوزی در بندر روتردام مهار شد.
+Onderzoek: jongeren lezen steeds minder. | پژوهش: جوانان روزبه‌روز کمتر کتاب می‌خوانند.
+Minister treedt af na kritisch rapport. | وزیر پس از گزارشی انتقادی استعفا داد.
+Treinverkeer rond Utrecht urenlang plat. | رفت‌وآمد قطار در اطراف اوترخت ساعت‌ها متوقف شد.
+Prijzen in supermarkt stijgen opnieuw. | قیمت‌ها در سوپرمارکت دوباره بالا رفت.
+Hittegolf houdt land in zijn greep. | موج گرما کشور را در چنگ خود گرفته است.
+Bedrijf ligt onder vuur wegens misleidende reclame. | شرکت به‌خاطر تبلیغات گمراه‌کننده زیر آتش انتقاد است.
+Duizenden betogers trekken door Den Haag. | هزاران معترض در لاهه راهپیمایی می‌کنند.
+Kamer stemt in met strengere regels voor flitsbezorgers. | مجلس با قوانین سخت‌گیرانه‌تر برای پیک‌های فوری موافقت کرد.
+Politie rolt drugsnetwerk op. | پلیس شبکهٔ مواد مخدر را متلاشی کرد.
+Rente blijft voorlopig ongewijzigd. | نرخ بهره فعلاً بدون تغییر می‌ماند.
+Oranje wint na spannende ontknoping. | تیم ملی هلند پس از پایانی پرهیجان پیروز شد.
+Ophef over uitspraken van burgemeester. | جنجال بر سر اظهارات شهردار.
+Zorgverzekeraars verhogen premie fors. | بیمه‌های درمانی حق بیمه را به‌شدت افزایش می‌دهند.
+Nieuw kabinet presenteert ambitieus regeerakkoord. | کابینهٔ جدید توافق‌نامهٔ دولتی بلندپروازانه‌ای ارائه کرد.
+Storm zorgt voor chaos op de wegen. | طوفان در جاده‌ها هرج‌ومرج به پا کرد.
+Schoolleiders slaan alarm over lerarentekort. | مدیران مدارس دربارهٔ کمبود معلم هشدار می‌دهند.
+Archeologen stuiten op Romeinse resten. | باستان‌شناسان به بقایای رومی برخوردند.
+Vertrouwen in politiek op historisch laagterecord. | اعتماد به سیاست به پایین‌ترین سطح تاریخی رسید.
+Topman stapt op na boekhoudschandaal. | مدیرعامل پس از رسوایی حسابداری کناره‌گیری کرد.
+Nachtvorst bedreigt fruitoogst. | یخبندان شبانه محصول میوه را تهدید می‌کند.
+Achter de schermen wordt koortsachtig onderhandeld. | پشت پرده مذاکرات فشرده‌ای در جریان است.
+## مکاتبات حساس: تسلیت، تبریک، عذرخواهی
+Met grote verslagenheid hebben wij kennisgenomen van het overlijden van uw vader. | با اندوه فراوان از درگذشت پدرتان باخبر شدیم.
+Ik wens je veel sterkte in deze moeilijke tijd. | در این روزهای سخت برایت صبر و قوت آرزو می‌کنم.
+Woorden schieten tekort om mijn medeleven uit te drukken. | کلمات برای بیان همدردی‌ام کافی نیست.
+Van harte gefeliciteerd met jullie huwelijk! | ازدواجتان را صمیمانه تبریک می‌گویم!
+Ik ben ontzettend trots op wat je hebt bereikt. | به آنچه به دست آورده‌ای بی‌نهایت افتخار می‌کنم.
+Mijn oprechte excuses voor de ontstane verwarring. | بابت سردرگمی پیش‌آمده صادقانه پوزش می‌خواهم.
+Ik had dat nooit zo mogen zeggen. | هرگز نباید آن‌طور حرف می‌زدم.
+Het spijt me dat ik je heb teleurgesteld. | متأسفم که ناامیدت کردم.
+Ik begrijp volkomen als je even afstand wilt nemen. | کاملاً درک می‌کنم اگر بخواهی مدتی فاصله بگیری.
+Wij leven met jullie mee. | در غم شما شریکیم.
+Ze zal in onze herinnering voortleven. | یادش همیشه در خاطر ما زنده خواهد ماند.
+Gefeliciteerd met de geboorte van jullie dochter! | تولد دخترتان را تبریک می‌گوییم!
+Ik hoop van harte dat je snel opknapt. | از صمیم قلب امیدوارم زود حالت خوب شود.
+Hartelijk dank voor uw blijken van medeleven. | از ابراز همدردی‌تان صمیمانه سپاسگزاریم.
+Ik wil je bedanken voor je onvoorwaardelijke steun. | می‌خواهم از حمایت بی‌دریغت تشکر کنم.
+Neem alle tijd die je nodig hebt. | هر قدر وقت لازم داری بگذار.
+Mocht je willen praten, ik ben er voor je. | اگر خواستی حرف بزنی، من هستم.
+Ik had eerder contact moeten opnemen, dat spijt me. | باید زودتر تماس می‌گرفتم، متأسفم.
+Proficiat met deze welverdiende promotie! | این ترفیع شایسته را تبریک می‌گویم!
+Het was een eer om met u te mogen samenwerken. | افتخاری بود که با شما همکاری کنم.
+Wij wensen u veel geluk op uw verdere levenspad. | برایتان در ادامهٔ مسیر زندگی‌تان شادکامی آرزو می‌کنیم.
+Ik neem de volle verantwoordelijkheid voor deze fout. | مسئولیت کامل این اشتباه را به عهده می‌گیرم.
+Je verdient het om in het zonnetje gezet te worden. | سزاوار این هستی که از تو تجلیل شود.
+Laat het me weten als ik iets voor je kan betekenen. | اگر کاری از دستم برمی‌آید، خبرم کن.
+Met warme groet en in gedachten bij jullie. | با سلام گرم و با یاد شما.
+## ضرب‌المثل‌ها (۲)
+Wie wind zaait, zal storm oogsten. | هر که باد بکارد، طوفان درو می‌کند.
+Als het kalf verdronken is, dempt men de put. | نوشدارو پس از مرگ سهراب.
+Men moet geen oude koeien uit de sloot halen. | نباید کهنه‌ها را دوباره زنده کرد.
+De kat uit de boom kijken. | دست نگه داشتن و صبر کردن تا ببینی اوضاع چطور پیش می‌رود.
+Vele handen maken licht werk. | یک دست صدا ندارد. (با کمک همه کار سبک می‌شود)
+Wie a zegt, moet ook b zeggen. | کار را که شروع کردی باید تمامش کنی.
+Hij wil met zijn neus in de boter vallen. | می‌خواهد بی‌زحمت از بهترین موقعیت بهره ببرد.
+De kogel is door de kerk. | تصمیم نهایی گرفته شد.
+Ieder huisje heeft zijn kruisje. | هر خانه‌ای دردی دارد.
+Het hemd is nader dan de rok. | آدم اول به فکر خودش است.
+Je moet de huid niet verkopen voordat de beer geschoten is. | جوجه را آخر پاییز می‌شمارند.
+Wat de boer niet kent, dat eet hij niet. | آدم چیزی را که نمی‌شناسد امتحان نمی‌کند.
+Zachte heelmeesters maken stinkende wonden. | دلسوزی بی‌جا زخم را بدتر می‌کند.
+Een kat in de zak kopen. | چیزی را ندیده خریدن و کلاه سرت رفتن.
+Hij is door het oog van de naald gekropen. | از خطر جست. (به‌زحمت از مهلکه گریخت)
+Eerst zien, dan geloven. | تا نبینم باور نمی‌کنم.
+Waar twee honden vechten om een been, loopt de derde er vaak mee heen. | دعوای دو نفر، سود سومی را در پی دارد.
+Ergens geen kaas van gegeten hebben. | از چیزی سر درنیاوردن.
+Hij heeft het schaapje op het droge. | او حسابی پولدار شده و خیالش راحت است.
+Een goed begin is het halve werk. | شروع خوب نیمی از کار است.
+De beste stuurlui staan aan wal. | آدم‌هایی که در گود نیستند بهترین نظرها را دارند. (دستی از دور بر آتش)
+Je kunt niet met meel in de mond blazen. | نمی‌شود هم خدا را خواست هم خرما را.
+Hij laat zich geen knollen voor citroenen verkopen. | به این راحتی سرش کلاه نمی‌رود.
+Overmoed komt voor de val. | غرور پیش از سقوط می‌آید.
+Wie zoet is, krijgt lekkers. | بچهٔ خوب جایزه می‌گیرد.
+## مناظره و استدلال پیشرفته
+Uw redenering rammelt aan alle kanten. | استدلال شما از همه طرف لنگ می‌زند.
+Dat is een drogreden: u valt de persoon aan in plaats van het argument. | این مغالطه است: به‌جای استدلال به شخص حمله می‌کنید.
+Laten we de feiten van de meningen scheiden. | بیایید واقعیت‌ها را از نظرها جدا کنیم.
+U haalt twee zaken door elkaar. | دو موضوع را با هم قاطی می‌کنید.
+Het bewijs daarvoor is op zijn best anekdotisch. | شواهد آن در بهترین حالت حکایتی است.
+Met alle respect, maar dat is kort door de bocht. | با کمال احترام، این خیلی ساده‌انگارانه است.
+Ik daag u uit om één concreet voorbeeld te noemen. | شما را به چالش می‌کشم که فقط یک مثال مشخص بزنید.
+Uw standpunt is begrijpelijk, maar niet houdbaar. | موضع شما قابل فهم است، ولی قابل دفاع نیست.
+Dat is een hellend vlak. | این یک سراشیبی لغزنده است. (یک قدم به قدم بعدی می‌انجامد)
+Wie de bewijslast heeft, moet met argumenten komen. | کسی که بار اثبات بر دوش اوست، باید استدلال بیاورد.
+We moeten ons niet blindstaren op de kosten. | نباید فقط به هزینه‌ها خیره شویم.
+De vergelijking gaat mank. | این مقایسه درست درنمی‌آید.
+U beantwoordt mijn vraag niet. | به سؤال من جواب نمی‌دهید.
+Dat is een retorische truc, geen argument. | این یک ترفند بلاغی است، نه استدلال.
+Juist omdat het moeilijk is, moeten we het proberen. | دقیقاً چون سخت است، باید تلاش کنیم.
+Het een volgt niet noodzakelijk uit het ander. | یکی لزوماً از دیگری نتیجه نمی‌شود.
+Ik wil het pleidooi van mijn opponent niet bagatelliseren. | نمی‌خواهم دفاعیهٔ طرف مقابلم را کوچک جلوه دهم.
+Toch blijf ik bij mijn conclusie. | با این حال روی نتیجه‌گیری‌ام می‌مانم.
+Die redenering is gebaseerd op een onjuiste premisse. | این استدلال بر یک مقدمهٔ نادرست بنا شده است.
+U generaliseert op basis van een uitzondering. | بر اساس یک استثنا تعمیم می‌دهید.
+Laten we het debat zuiver houden. | بیایید بحث را منصفانه نگه داریم.
+Het tegendeel is evenmin bewezen. | خلاف آن هم ثابت نشده است.
+U verschuift de doelpalen. | معیارها را وسط بازی عوض می‌کنید.
+Een sterk argument heeft geen stemverheffing nodig. | استدلال قوی به بالا بردن صدا نیاز ندارد.
+Ik geef toe dat ik me heb vergist. | اعتراف می‌کنم که اشتباه کردم.
+## توصیف دقیق احساسات
+Er bekroop me een gevoel van onbehagen. | حس ناخوشایندی آرام‌آرام سراغم آمد.
+Ik voelde een steek van jaloezie. | سوزش حسادت را در دلم حس کردم.
+Haar onverschilligheid deed meer pijn dan woede. | بی‌تفاوتی‌اش بیشتر از خشم درد داشت.
+Ik werd overspoeld door een golf van dankbaarheid. | موجی از سپاسگزاری وجودم را فرا گرفت.
+Hij liet zijn teleurstelling nauwelijks blijken. | او ناامیدی‌اش را به‌زحمت نشان داد.
+Een diepe weemoed maakte zich van mij meester. | دلتنگی عمیقی بر من چیره شد.
+Ik was verscheurd tussen plicht en verlangen. | میان وظیفه و خواستن دو دل و پاره‌پاره بودم.
+Zijn vrolijkheid voelde geforceerd. | شادی‌اش تصنعی به نظر می‌رسید.
+Er viel een pijnlijke stilte. | سکوتی دردناک برقرار شد.
+Ze werd verteerd door schuldgevoel. | احساس گناه او را از درون می‌خورد.
+Ik voelde me merkwaardig kalm. | به‌طرز عجیبی آرام بودم.
+De opluchting was van zijn gezicht af te lezen. | آسودگی خاطر از چهره‌اش پیدا بود.
+Een sluimerende angst hield me wakker. | ترسی پنهان مرا بیدار نگه می‌داشت.
+Hij was stomverbaasd. | او حسابی مات و مبهوت شده بود.
+Ik kon mijn tranen niet bedwingen. | نتوانستم جلوی اشک‌هایم را بگیرم.
+Ze straalde van geluk. | از شادی می‌درخشید.
+Er ging een rilling door me heen. | لرزه‌ای در تنم افتاد.
+Zijn woede smeulde nog dagenlang na. | خشمش تا روزها زیر خاکستر می‌سوخت.
+Ik voelde me klein en onbeduidend. | احساس کوچکی و بی‌اهمیتی کردم.
+Het verdriet kwam in golven. | اندوه موج‌موج می‌آمد.
+Hij was zichtbaar ontroerd. | آشکارا متأثر شده بود.
+Ik werd bevangen door plankenkoorts. | ترس از صحنه سراپایم را گرفت.
+Er knaagde iets aan me. | چیزی آزارم می‌داد.
+Haar blik sprak boekdelen. | نگاهش هزار حرف داشت.
+Vreugde en verdriet liggen dicht bij elkaar. | شادی و غم به هم نزدیک‌اند.
+## رهبری و مدیریت
+Een goede leider luistert meer dan hij spreekt. | یک رهبر خوب بیشتر گوش می‌دهد تا حرف بزند.
+Ze delegeert taken zonder de regie uit handen te geven. | او کارها را واگذار می‌کند بی‌آنکه کنترل را از دست بدهد.
+Er heerst een cultuur van angst binnen de organisatie. | در این سازمان فرهنگ ترس حاکم است.
+Verandermanagement vraagt om geduld en transparantie. | مدیریت تغییر به صبر و شفافیت نیاز دارد.
+Hij werd aangesteld als interim-directeur. | او به‌عنوان مدیر موقت منصوب شد.
+De medewerkers werden onvoldoende betrokken bij het besluit. | کارکنان به اندازهٔ کافی در تصمیم مشارکت داده نشدند.
+Micromanagement ondermijnt het vertrouwen. | مدیریت جزئی‌نگرانه اعتماد را تضعیف می‌کند.
+We moeten de neuzen dezelfde kant op krijgen. | باید همه را هم‌جهت کنیم.
+Ze stuurt op resultaat, niet op aanwezigheid. | او بر نتیجه تمرکز دارد، نه بر حضور.
+Feedback geven is een vak apart. | بازخورد دادن خودش یک هنر جداگانه است.
+De reorganisatie heeft tot veel onrust geleid. | سازماندهی مجدد ناآرامی زیادی ایجاد کرده است.
+Een visie zonder uitvoering is slechts een droom. | چشم‌انداز بدون اجرا فقط یک رؤیاست.
+Hij neemt verantwoordelijkheid, ook als het misgaat. | او مسئولیت می‌پذیرد، حتی وقتی کار خراب می‌شود.
+Diversiteit in het team leidt tot betere besluiten. | تنوع در تیم به تصمیم‌های بهتری می‌انجامد.
+Het management kreeg een motie van wantrouwen van de ondernemingsraad. | شورای کارکنان به مدیریت رأی عدم اعتماد داد.
+Het is zaak om prioriteiten te stellen. | مهم این است که اولویت‌ها تعیین شوند.
+Ze weet als geen ander mensen te motiveren. | او مثل هیچ‌کس دیگری می‌تواند آدم‌ها را انگیزه بدهد.
+De kosten moeten structureel omlaag. | هزینه‌ها باید به‌طور ساختاری کاهش یابد.
+Hij heeft de touwtjes iets te strak in handen. | او افسار کار را کمی زیادی محکم در دست دارد.
+Een fout toegeven is een teken van kracht. | اعتراف به اشتباه نشانهٔ قدرت است.
+We zitten in een overgangsfase. | در یک مرحلهٔ گذار هستیم.
+Het bedrijf staat voor een strategische koerswijziging. | شرکت در آستانهٔ تغییر مسیر راهبردی است.
+Leiderschap is vooral voorbeeldgedrag. | رهبری بیش از هر چیز الگو بودن است.
+De verantwoordelijkheden zijn niet duidelijk belegd. | مسئولیت‌ها به‌روشنی تقسیم نشده‌اند.
+Succes heeft vele vaders, mislukking is een wees. | پیروزی پدران زیادی دارد، شکست یتیم است.
+## جامعه و تحولات اجتماعی
+De samenleving vergrijst in hoog tempo. | جامعه با سرعت زیادی پیر می‌شود.
+Steeds meer mensen wonen alleen. | آدم‌های بیشتر و بیشتری تنها زندگی می‌کنند.
+De tweedeling in de samenleving wordt groter. | دوقطبی شدن جامعه بیشتر می‌شود.
+Vrijwilligers vormen het cement van de samenleving. | داوطلبان ملات جامعه را تشکیل می‌دهند.
+De rol van de kerk is sterk afgenomen. | نقش کلیسا به‌شدت کاهش یافته است.
+Gelijke kansen zijn nog lang geen realiteit. | فرصت‌های برابر هنوز خیلی با واقعیت فاصله دارد.
+Het debat over identiteit is fel gepolariseerd. | بحث دربارهٔ هویت به‌شدت قطبی شده است.
+Steden trekken jongeren, het platteland loopt leeg. | شهرها جوان‌ها را جذب می‌کنند و روستاها خالی می‌شوند.
+Thuiswerken heeft het forenzen ingrijpend veranderd. | دورکاری رفت‌وآمد روزانه را به‌طور اساسی تغییر داده است.
+Het traditionele gezin is niet langer de norm. | خانوادهٔ سنتی دیگر معیار نیست.
+Kansenongelijkheid begint al op de kleuterschool. | نابرابری فرصت‌ها از همان مهدکودک شروع می‌شود.
+Sociale media hebben het publieke debat verhard. | شبکه‌های اجتماعی بحث عمومی را خشن‌تر کرده‌اند.
+De verzorgingsstaat staat onder druk. | دولت رفاه تحت فشار است.
+Burgerinitiatieven vullen gaten die de overheid laat vallen. | ابتکارهای مدنی خلأهایی را که دولت باقی می‌گذارد پر می‌کنند.
+Er is sprake van een groeiende kloof tussen generaties. | شکاف رو به رشدی میان نسل‌ها وجود دارد.
+De emancipatie van vrouwen is nog niet voltooid. | رهایی و برابری زنان هنوز کامل نشده است.
+Armoede wordt vaak van generatie op generatie doorgegeven. | فقر اغلب نسل به نسل منتقل می‌شود.
+Tolerantie wordt gezien als typisch Nederlands. | مدارا را ویژگی معمولاً هلندی می‌دانند.
+Verschillende culturen leven hier vaak naast elkaar, niet met elkaar. | فرهنگ‌های مختلف این‌جا اغلب کنار هم زندگی می‌کنند، نه با هم.
+De participatiesamenleving vraagt veel van burgers. | جامعهٔ مشارکتی از شهروندان انتظار زیادی دارد.
+Mantelzorg komt vooral op vrouwen neer. | بار مراقبت از خانواده بیشتر بر دوش زنان است.
+Digitalisering sluit sommige ouderen buiten. | دیجیتالی شدن برخی سالمندان را کنار می‌گذارد.
+Het buurthuis is een ontmoetingsplek voor iedereen. | خانهٔ محله محل دیدار برای همه است.
+Saamhorigheid groeit in tijden van crisis. | همبستگی در زمان بحران بیشتر می‌شود.
+Een samenleving is zo sterk als haar zwakste schakel. | قدرت یک جامعه به اندازهٔ ضعیف‌ترین حلقهٔ آن است.
+## پزشکی و علوم پیشرفته
+Het vaccin bleek bij negentig procent van de deelnemers effectief. | واکسن در نود درصد شرکت‌کنندگان مؤثر بود.
+Antibioticaresistentie vormt een wereldwijde bedreiging. | مقاومت آنتی‌بیوتیکی تهدیدی جهانی است.
+Het genoom van de patiënt werd volledig in kaart gebracht. | ژنوم بیمار به‌طور کامل نقشه‌برداری شد.
+De behandeling slaat bij een deel van de patiënten niet aan. | درمان در بخشی از بیماران جواب نمی‌دهد.
+Er zijn aanwijzingen dat slaaptekort het geheugen aantast. | نشانه‌هایی هست که کم‌خوابی به حافظه آسیب می‌زند.
+De onderzoekers boekten een doorbraak in de kankerbehandeling. | پژوهشگران در درمان سرطان به پیشرفتی چشمگیر دست یافتند.
+Het placebo-effect is verrassend krachtig. | اثر دارونما به‌طرز شگفت‌آوری قوی است.
+De ziekte verloopt bij iedereen anders. | این بیماری در هر کسی سیر متفاوتی دارد.
+Vroege opsporing vergroot de overlevingskans aanzienlijk. | تشخیص زودهنگام احتمال زنده ماندن را به‌طور چشمگیری افزایش می‌دهد.
+De klinische proef werd voortijdig stopgezet. | کارآزمایی بالینی پیش از موعد متوقف شد.
+Het immuunsysteem reageerde heftig op het virus. | سیستم ایمنی به‌شدت به ویروس واکنش نشان داد.
+Ethische commissies bewaken de grenzen van het onderzoek. | کمیته‌های اخلاق مرزهای پژوهش را پاسداری می‌کنند.
+De hersenen blijven zich ons hele leven aanpassen. | مغز در تمام عمر ما به سازگاری ادامه می‌دهد.
+Erfelijkheid speelt slechts een bescheiden rol. | وراثت فقط نقش کوچکی دارد.
+De bijwerkingen wegen niet op tegen de voordelen. | عوارض جانبی بر فواید آن نمی‌چربد.
+Steeds meer operaties worden met robots uitgevoerd. | عمل‌های جراحی بیشتر و بیشتری با ربات انجام می‌شود.
+Het virus muteert sneller dan verwacht. | ویروس سریع‌تر از انتظار جهش پیدا می‌کند.
+Darmbacteriën beïnvloeden zelfs onze stemming. | باکتری‌های روده حتی بر حال‌وهوای ما اثر می‌گذارند.
+De levensverwachting is de afgelopen eeuw spectaculair gestegen. | امید به زندگی در قرن گذشته به‌طرز چشمگیری افزایش یافته است.
+De oorzaak van de aandoening is nog onbekend. | علت این بیماری هنوز ناشناخته است.
+Euthanasie is in Nederland onder strikte voorwaarden toegestaan. | اتانازی در هلند تحت شرایط سخت مجاز است.
+Gepersonaliseerde geneeskunde staat nog in de kinderschoenen. | پزشکی شخصی‌سازی‌شده هنوز در آغاز راه است.
+Een gezonde dosis scepsis is in de wetenschap onmisbaar. | مقدار سالمی از شک‌گرایی در علم ضروری است.
+De pandemie heeft de zwakke plekken van het zorgstelsel blootgelegd. | همه‌گیری نقاط ضعف نظام درمان را آشکار کرد.
+Meten is weten, maar niet alles is meetbaar. | اندازه‌گیری یعنی دانستن، اما همه‌چیز قابل اندازه‌گیری نیست.
+## زبان و زبان‌شناسی
+Het Nederlands kent opvallend veel klinkers en tweeklanken. | زبان هلندی به‌طرز چشمگیری مصوت و مصوت مرکب دارد.
+De harde g is typisch voor het noorden van het land. | «خ» سخت ویژگی شمال کشور است.
+In het zuiden klinkt de g veel zachter. | در جنوب «g» خیلی نرم‌تر شنیده می‌شود.
+Het verschil tussen de en het is voor anderstaligen een kwelling. | تفاوت de و het برای غیربومی‌ها عذاب‌آور است.
+Leenwoorden uit het Engels rukken op. | واژه‌های قرضی انگلیسی رو به گسترش‌اند.
+Taal verandert voortdurend, of puristen het nu leuk vinden of niet. | زبان دائماً تغییر می‌کند، چه سره‌گرایان خوششان بیاید چه نه.
+Het Fries is de tweede officiële taal van Nederland. | فریزی دومین زبان رسمی هلند است.
+Een dialect is een taal zonder leger. | گویش زبانی است بدون ارتش.
+Kinderen pikken een nieuwe taal opvallend snel op. | بچه‌ها زبان تازه را به‌طرز چشمگیری سریع یاد می‌گیرند.
+Uitspraak verraadt vaak iemands afkomst. | تلفظ اغلب اصلیت آدم را لو می‌دهد.
+Het Perzisch en het Nederlands zijn verre familie van elkaar. | فارسی و هلندی خویشاوندان دوری هستند.
+Beide talen behoren tot de Indo-Europese taalfamilie. | هر دو زبان به خانوادهٔ زبان‌های هندواروپایی تعلق دارند.
+Het woord moeder lijkt verrassend veel op mādar. | واژهٔ moeder به‌طرز شگفت‌آوری شبیه «مادر» است.
+Spelling is een kwestie van afspraken. | املا موضوعی قراردادی است.
+De werkwoordsvervoeging volgt duidelijke regels, op uitzonderingen na. | صرف فعل به جز استثناها از قواعد روشنی پیروی می‌کند.
+Wie een taal spreekt, krijgt toegang tot een cultuur. | کسی که زبانی را می‌داند، به یک فرهنگ دسترسی پیدا می‌کند.
+Humor is het laatste wat je in een vreemde taal begrijpt. | طنز آخرین چیزی است که در یک زبان خارجی می‌فهمی.
+Sommige woorden zijn simpelweg onvertaalbaar. | بعضی واژه‌ها اصلاً ترجمه‌پذیر نیستند.
+De woordvolgorde in bijzinnen vergt gewenning. | ترتیب کلمات در جمله‌های وابسته به عادت کردن نیاز دارد.
+Meertaligheid is eerder regel dan uitzondering. | چندزبانگی بیشتر قاعده است تا استثنا.
+Wie in een taal droomt, beheerst haar echt. | کسی که به یک زبان خواب می‌بیند، واقعاً بر آن مسلط است.
+Taal vormt ons denken, en andersom. | زبان به تفکر ما شکل می‌دهد، و برعکس.
+Het accent verdwijnt zelden helemaal, en dat hoeft ook niet. | لهجه به‌ندرت کاملاً از بین می‌رود و لازم هم نیست.
+Een taal leer je door fouten te durven maken. | زبان را با جرئت اشتباه کردن یاد می‌گیری.
+Elke taal is een venster op de wereld. | هر زبانی پنجره‌ای رو به جهان است.
+## گفت‌وگوهای دشوار
+Ik wil iets met je bespreken wat me al een tijdje dwarszit. | می‌خواهم دربارهٔ چیزی که مدتی است آزارم می‌دهد با تو صحبت کنم.
+Ik heb het gevoel dat we langs elkaar heen praten. | احساس می‌کنم حرف همدیگر را نمی‌فهمیم.
+Laten we proberen elkaar niet te verwijten. | بیایید سعی کنیم همدیگر را سرزنش نکنیم.
+Ik begrijp dat dit pijnlijk voor je is. | می‌فهمم که این برایت دردناک است.
+Mag ik even uitpraten? | اجازه می‌دهی حرفم را تمام کنم؟
+Wat ik eigenlijk probeer te zeggen, is dat ik me gekwetst voel. | چیزی که در واقع می‌خواهم بگویم این است که دلم شکسته.
+Ik wil niet dat dit tussen ons in komt te staan. | نمی‌خواهم این موضوع میان ما فاصله بیندازد.
+Kunnen we dit als volwassenen oplossen? | می‌توانیم این را مثل آدم‌های بالغ حل کنیم؟
+Ik heb jouw kant van het verhaal nog niet gehoord. | هنوز روایت تو از ماجرا را نشنیده‌ام.
+Het gaat me niet om wie er gelijk heeft. | برای من مهم نیست حق با کیست.
+Je hoeft niet meteen te reageren. | لازم نیست فوراً جواب بدهی.
+Ik merk dat ik boos word, dus ik neem even pauze. | می‌بینم که عصبانی می‌شوم، پس کمی مکث می‌کنم.
+Dit gesprek valt me zwaar, maar het is nodig. | این گفت‌وگو برایم سخت است، اما لازم است.
+Ik had het anders moeten aanpakken. | باید جور دیگری با آن برخورد می‌کردم.
+Wat heb je van mij nodig? | از من چه می‌خواهی؟ / به چه چیزی از طرف من نیاز داری؟
+Laten we afspreken hoe we hier voortaan mee omgaan. | بیایید توافق کنیم از این به بعد چطور با این موضوع برخورد کنیم.
+Ik waardeer het dat je zo eerlijk bent. | قدر صداقتت را می‌دانم.
+Het is niet persoonlijk bedoeld. | منظور شخصی نیست.
+Ik kan je zorgen goed plaatsen. | نگرانی‌هایت را خوب درک می‌کنم.
+Er zit een kern van waarheid in wat je zegt. | در حرفت هسته‌ای از حقیقت هست.
+We hoeven het niet over alles eens te zijn. | لازم نیست دربارهٔ همه‌چیز هم‌نظر باشیم.
+Laten we hier morgen met een frisse blik naar kijken. | بیایید فردا با ذهنی تازه به این نگاه کنیم.
+Ik ben blij dat we het hebben uitgesproken. | خوشحالم که حرف‌هایمان را زدیم.
+Zwijgen lost niets op. | سکوت هیچ چیزی را حل نمی‌کند.
+Een goed gesprek kan wonderen doen. | یک گفت‌وگوی خوب می‌تواند معجزه کند.
+## هنر نوشتن
+Schrappen is het halve werk van een schrijver. | حذف کردن نیمی از کار نویسنده است.
+Een goede eerste zin trekt de lezer meteen het verhaal in. | یک جملهٔ نخست خوب خواننده را فوراً به داستان می‌کشاند.
+Laat zien, vertel niet, zeggen schrijfdocenten graag. | معلمان نویسندگی دوست دارند بگویند: نشان بده، تعریف نکن.
+Hij herschreef het hoofdstuk wel tien keer. | او این فصل را حدود ده بار بازنویسی کرد.
+Eenvoud is het moeilijkste wat er is. | سادگی سخت‌ترین چیزی است که وجود دارد.
+Elk woord moet zijn plek verdienen. | هر واژه باید جایش را به دست بیاورد.
+Ze schrijft elke ochtend drie pagina's, wat er ook gebeurt. | او هر صبح سه صفحه می‌نویسد، هر اتفاقی بیفتد.
+De lezer is slimmer dan je denkt. | خواننده باهوش‌تر از آن است که فکر می‌کنی.
+Een tekst wordt beter door hem hardop te lezen. | متن با بلند خواندنش بهتر می‌شود.
+Clichés zijn de vijand van originaliteit. | کلیشه‌ها دشمن اصالت‌اند.
+Hij heeft een eigen, herkenbare stem gevonden. | او صدای خاص و شناخته‌شدهٔ خودش را پیدا کرده است.
+Witregels geven een tekst lucht. | سطرهای خالی به متن نفس می‌دهند.
+Schrijven is vooral herschrijven. | نوشتن بیش از هر چیز بازنویسی است.
+De spanning moet langzaam worden opgebouwd. | تعلیق باید آرام‌آرام ساخته شود.
+Dialoog onthult karakter beter dan beschrijving. | دیالوگ شخصیت را بهتر از توصیف آشکار می‌کند.
+Een goede titel belooft iets wat het boek waarmaakt. | یک عنوان خوب چیزی را وعده می‌دهد که کتاب عملی می‌کند.
+Ze liet het manuscript maanden liggen voordat ze het herlas. | او دست‌نوشته را ماه‌ها کنار گذاشت تا دوباره بخواندش.
+Inspiratie komt vaak tijdens het werk, niet daarvoor. | الهام اغلب حین کار می‌آید، نه قبل از آن.
+De uitgever wees het manuscript drie keer af. | ناشر دست‌نوشته را سه بار رد کرد.
+Schrijversblok bestaat, maar deadlines helpen. | قفل نویسنده وجود دارد، اما ضرب‌الاجل‌ها کمک می‌کنند.
+Lees veel, dan schrijf je beter. | زیاد بخوان تا بهتر بنویسی.
+Het slot moet verrassend én onvermijdelijk voelen. | پایان باید هم غافلگیرکننده و هم اجتناب‌ناپذیر به نظر برسد.
+Poëzie zegt veel met weinig woorden. | شعر با کلمات کم چیزهای زیادی می‌گوید.
+Een goed verhaal laat je niet meer los. | داستان خوب دیگر رهایت نمی‌کند.
+Schrijven is denken op papier. | نوشتن یعنی فکر کردن روی کاغذ.
+## آینده و دنیای کار
+Veel beroepen van nu bestaan over twintig jaar niet meer. | بسیاری از شغل‌های امروز بیست سال دیگر وجود نخواهند داشت.
+Een leven lang leren wordt de norm. | یادگیری مادام‌العمر به قاعده تبدیل می‌شود.
+Hybride werken lijkt blijvend. | کار ترکیبی (حضوری و دورکاری) ماندگار به نظر می‌رسد.
+Robots nemen vooral routinematig werk over. | ربات‌ها بیشتر کارهای تکراری را به عهده می‌گیرند.
+Creativiteit en empathie worden juist waardevoller. | خلاقیت و همدلی برعکس ارزشمندتر می‌شوند.
+De vierdaagse werkweek wint aan populariteit. | هفتهٔ کاری چهارروزه محبوبیت بیشتری پیدا می‌کند.
+Flexibele contracten bieden vrijheid, maar weinig zekerheid. | قراردادهای منعطف آزادی می‌دهند، اما امنیت کمی.
+Hij heeft de overstap gemaakt van de bank naar het onderwijs. | او از بانک به آموزش تغییر شغل داده است.
+Het pensioen schuift steeds verder op. | سن بازنشستگی مدام عقب‌تر می‌رود.
+Burn-outklachten nemen vooral onder jongeren toe. | علائم فرسودگی شغلی به‌خصوص در میان جوانان بیشتر می‌شود.
+Werkgevers investeren in omscholing van hun personeel. | کارفرماها در بازآموزی کارکنانشان سرمایه‌گذاری می‌کنند.
+Thuiswerken vraagt om duidelijke grenzen. | دورکاری به مرزهای روشن نیاز دارد.
+Een baan voor het leven is een begrip uit het verleden. | شغل مادام‌العمر مفهومی از گذشته است.
+Zelfstandigen vallen vaak buiten de sociale vangnetten. | خوداشتغال‌ها اغلب بیرون از چتر حمایت اجتماعی قرار می‌گیرند.
+De krapte op de arbeidsmarkt houdt aan. | کمبود نیرو در بازار کار ادامه دارد.
+Zinvol werk weegt voor velen zwaarder dan salaris. | کار معنادار برای خیلی‌ها مهم‌تر از حقوق است.
+Kunstmatige intelligentie wordt een collega, geen concurrent. | هوش مصنوعی همکار می‌شود، نه رقیب.
+Vaardigheden worden belangrijker dan diploma's. | مهارت‌ها مهم‌تر از مدرک می‌شوند.
+Ze combineert twee parttimebanen met haar studie. | او دو کار نیمه‌وقت را با درسش ترکیب می‌کند.
+Het werk komt naar de mensen, niet andersom. | کار به سراغ آدم‌ها می‌آید، نه برعکس.
+Wendbaarheid is de belangrijkste eigenschap van deze tijd. | انعطاف‌پذیری مهم‌ترین ویژگی این دوران است.
+Netwerken opent deuren die vacatures niet openen. | شبکه‌سازی درهایی را باز می‌کند که آگهی‌های استخدام باز نمی‌کنند.
+De grens tussen werk en privé vervaagt. | مرز میان کار و زندگی خصوصی کم‌رنگ می‌شود.
+Over tien jaar werk ik misschien in een vak dat nog niet bestaat. | شاید ده سال دیگر در شغلی کار کنم که هنوز وجود ندارد.
+De toekomst is al begonnen. | آینده همین حالا شروع شده است.
+## سفر و دیدار فرهنگ‌ها
+Reizen verruimt de blik. | سفر دید آدم را وسیع‌تر می‌کند.
+In het buitenland leer je jezelf pas echt kennen. | در خارج از کشور تازه خودت را واقعاً می‌شناسی.
+Ik reis bij voorkeur buiten het hoogseizoen. | ترجیحاً بیرون از فصل شلوغ سفر می‌کنم.
+Massatoerisme zet historische binnensteden onder druk. | گردشگری انبوه بافت‌های تاریخی شهرها را تحت فشار قرار می‌دهد.
+We verdwaalden in de steegjes van de oude stad. | در کوچه‌پس‌کوچه‌های شهر قدیمی گم شدیم.
+De gastvrijheid van de bewoners was overweldigend. | مهمان‌نوازی ساکنان شگفت‌انگیز بود.
+Een glimlach begrijpt iedereen, in elke taal. | لبخند را همه در هر زبانی می‌فهمند.
+Ik probeer altijd een paar woorden van de lokale taal te leren. | همیشه سعی می‌کنم چند کلمه از زبان محلی یاد بگیرم.
+De cultuurschok was groter dan verwacht. | شوک فرهنگی بزرگ‌تر از انتظار بود.
+Ze trok een jaar lang met een rugzak door Azië. | او یک سال کوله‌پشتی به دوش در آسیا سفر کرد.
+Vliegschaamte doet steeds meer mensen voor de trein kiezen. | شرم از پرواز باعث می‌شود آدم‌های بیشتری قطار را انتخاب کنند.
+De tempels van Isfahan lieten een diepe indruk achter. | بناهای اصفهان تأثیری عمیق بر جا گذاشتند.
+Onderweg leerden we meer dan op de bestemming zelf. | در راه بیشتر از خود مقصد یاد گرفتیم.
+Elke reis begint met een eerste stap. | هر سفری با یک قدم نخست آغاز می‌شود.
+We werden spontaan uitgenodigd voor een bruiloft. | خودجوش به یک عروسی دعوت شدیم.
+Het stereotype klopte totaal niet met de werkelijkheid. | آن کلیشه اصلاً با واقعیت جور درنمی‌آمد.
+Ik kom altijd terug met meer vragen dan antwoorden. | همیشه با پرسش‌هایی بیشتر از پاسخ برمی‌گردم.
+Thuiskomen voelt na een lange reis vreemd vertrouwd. | بعد از یک سفر طولانی، به خانه برگشتن به‌طرز عجیبی آشنا به نظر می‌رسد.
+Lokale markten vertellen veel over een cultuur. | بازارهای محلی چیزهای زیادی دربارهٔ یک فرهنگ می‌گویند.
+Ik heb geleerd om onzekerheid te omarmen. | یاد گرفته‌ام بلاتکلیفی را بپذیرم.
+Zonder plan reizen kan heerlijk bevrijdend zijn. | سفر بدون برنامه می‌تواند به‌طرز دلپذیری رهایی‌بخش باشد.
+De reis veranderde mijn kijk op geluk. | این سفر نگاهم را به خوشبختی تغییر داد.
+Wie reist, verzamelt verhalen. | کسی که سفر می‌کند، داستان جمع می‌کند.
+Grenzen bestaan vooral in ons hoofd. | مرزها بیشتر در ذهن ما وجود دارند.
+De wereld is groter en kleiner tegelijk dan je denkt. | جهان هم‌زمان بزرگ‌تر و کوچک‌تر از آن است که فکر می‌کنی.
+## مرور C2
+Hoe je het ook wendt of keert, de feiten liegen niet. | هر طور که بچرخانی‌اش، واقعیت‌ها دروغ نمی‌گویند.
+Nauwelijks had ze het gezegd, of ze had er al spijt van. | هنوز حرفش تمام نشده بود که پشیمان شد.
+Het is niet zozeer een kwestie van kunnen als wel van willen. | مسئله نه چندان توانستن، بلکه خواستن است.
+Daar heb ik geen kaas van gegeten. | از آن سر درنمی‌آورم.
+De kogel is door de kerk: we verhuizen. | تصمیم قطعی شد: اسباب‌کشی می‌کنیم.
+Zijn betoog rammelde aan alle kanten. | استدلالش از همه طرف لنگ می‌زد.
+Onverminderd de afspraken blijft de termijn van kracht. | با رعایت توافق‌ها، مهلت همچنان به قوت خود باقی است.
+Er bekroop haar een vaag gevoel van onbehagen. | حس مبهمی از ناخوشایندی سراغش آمد.
+Al draagt een aap een gouden ring, hij blijft een aap. | میمون اگر انگشتر طلا هم بپوشد، باز میمون است.
+Mocht u nog vragen hebben, aarzel dan niet contact op te nemen. | اگر سؤالی داشتید، در تماس گرفتن تردید نکنید.
+Dat is koren op de molen van de critici. | این آب به آسیاب منتقدان می‌ریزد.
+Hij liet zich niet uit het veld slaan. | خودش را نباخت.
+Het lijkt erop dat de rollen zijn omgedraaid. | به نظر می‌رسد جای نقش‌ها عوض شده است.
+Ze wist de zaal moeiteloos voor zich te winnen. | او بی‌زحمت سالن را با خود همراه کرد.
+Correlatie impliceert, zoals bekend, nog geen oorzakelijk verband. | همان‌طور که می‌دانیم، همبستگی هنوز به معنای رابطهٔ علّی نیست.
+Hoe meer je weet, hoe meer je beseft wat je niet weet. | هرچه بیشتر بدانی، بیشتر می‌فهمی چه چیزی را نمی‌دانی.
+Niet alles wat blinkt, is goud. | هر گردی گردو نیست.
+Laten we het kind niet met het badwater weggooien. | بیایید خوب را همراه بد دور نریزیم.
+Zijn woorden waren olie op het vuur. | حرف‌هایش آتش را شعله‌ورتر کرد.
+Er valt nog heel wat water door de Rijn voordat het zover is. | تا آن موقع خیلی آب از آسیاب خواهد گذشت.
+De taal is gans het volk. | زبان تمام هویت یک ملت است.
+Wie de taal beheerst, beheerst het gesprek. | کسی که بر زبان مسلط است، گفت‌وگو را در دست دارد.
+Je bent nu verder gekomen dan je ooit had gedacht. | حالا از آنچه هرگز فکرش را می‌کردی جلوتر رفته‌ای.
+Elke zin die je leert, opent een nieuwe deur. | هر جمله‌ای که یاد می‌گیری، دری تازه باز می‌کند.
+Gefeliciteerd, je spreekt nu echt Nederlands! | تبریک، حالا واقعاً هلندی حرف می‌زنی!
