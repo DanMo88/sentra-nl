@@ -44,11 +44,11 @@
   let tok = 0, wake = null, cleanup = [];
   const alive = t => t === tok;
   const sleep = (ms, t) => new Promise(ok => setTimeout(() => ok(alive(t)), ms));
-  async function say(name, t) { if (!alive(t)) return false; await A.play(name); return alive(t); }
+  async function say(name, t) { if (!alive(t)) return false; const ended = await A.play(name); return alive(t) && ended; }
   async function keepAwake() { try { if ('wakeLock' in navigator && !wake) { wake = await navigator.wakeLock.request('screen'); wake.addEventListener('release', () => { wake = null; }); } } catch (e) {} }
   function reset() { tok++; A.stop(); cleanup.forEach(f => { try { f(); } catch (e) {} }); cleanup = []; if (wake) { wake.release().catch(() => {}); wake = null; } }
   function toast(msg) { const t = document.getElementById('toast'); t.textContent = msg; t.classList.add('on'); clearTimeout(toast.h); toast.h = setTimeout(() => t.classList.remove('on'), 2200); }
-  const go = h => { location.hash = h; };
+  const go = h => { A.unlock(); location.hash = h; };
 
   /* ---------- shared pieces ---------- */
   const rule = '<div class="rule"><i></i><i></i><i></i><i></i></div>';
@@ -61,7 +61,16 @@
   const levelSeen = code => { const ss = ALL.filter(s => s.lesson.startsWith(code.toLowerCase())); return ss.length ? ss.filter(s => S.seen[s.id]).length / ss.length : 0; };
   function isBm(id) { return S.bm.includes(id); }
   function toggleBm(id) { if (isBm(id)) S.bm = S.bm.filter(x => x !== id); else S.bm.push(id); save(); toast(isBm(id) ? 'به نشان‌شده‌ها اضافه شد ★' : 'از نشان‌شده‌ها برداشته شد'); return isBm(id); }
-  function preload(list) { return Promise.all(list.flatMap(s => [A.load(s.id)].concat((s.t || []).map(t => A.load(t.a))))); }
+  function preload(list) {
+    const names = [], seen = new Set();
+    list.forEach(s => [s.id].concat((s.t || []).map(x => x.a)).forEach(n => { if (!seen.has(n)) { seen.add(n); names.push(n); } }));
+    const chunk = (i = 0) => {
+      const part = names.slice(i, i + 8);
+      if (!part.length) return Promise.resolve();
+      return Promise.all(part.map(n => A.load(n))).then(() => chunk(i + 8));
+    };
+    return chunk();
+  }
   const sizeCls = s => s.en.length > 26 ? 'sen mid' : 'sen';
 
   /* ---------- home (scrolls) ---------- */
@@ -137,7 +146,7 @@
         const el = sc.querySelector('#sen'); el && el.classList.add('playing');
         const ok = await say(s.id, t);
         el && el.classList.remove('playing');
-        if (!ok || my !== run.k || !playing) return;
+        if (!ok || my !== run.k || !playing) { if (alive(t) && my === run.k && playing && !finished) { playing = false; paint(); } return; }
         S.seen[s.id] = 1; S.pos[l.id] = i; save();
         if (!(await sleep(2000, t)) || my !== run.k || !playing) return;
         if (i >= N - 1) { finished = true; S.pos[l.id] = 0; save(); paint(); return; }
@@ -150,7 +159,7 @@
     $app.querySelector('[data-next]').onclick = () => { finished = false; i = Math.min(N - 1, i + 1); S.pos[l.id] = i; save(); run(); };
     $app.querySelectorAll('[data-mode]').forEach(b => b.onclick = () => go(`#/mode/${l.id}/${b.dataset.mode}`));
     paint();
-    preload(l.s.slice(i, i + 3)).then(() => { if (alive(t)) run(); preload(l.s); });
+    run(); preload(l.s.slice(i));
   }
 
   /* ---------- mode frame ---------- */
@@ -311,7 +320,7 @@
         i++;
       }
     }
-    preload(list).then(() => alive(t) && loop()); paint();
+    paint(); loop(); preload(list.slice(i));
   }
 
   /* ---------- 4) auto review: Dutch → pause → Persian meaning → Dutch again → next ---------- */
@@ -346,7 +355,7 @@
         i++;
       }
     }
-    preload(list).then(() => alive(t) && loop()); paint(-1);
+    paint(-1); loop(); preload(list.slice(i));
   }
 
   /* ---------- 5) dictation: hear, type, forgiving check ---------- */
@@ -412,7 +421,7 @@
         i++; if (!(await sleep(500, t)) || !ok()) return;
       }
     }
-    preload(list).then(() => alive(t) && loop()); paint();
+    paint(); loop(); preload(list.slice(i));
   }
 
   /* ---------- placement test (20 questions, A1 → C2, Dutch) ---------- */
